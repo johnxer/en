@@ -1,0 +1,17 @@
+@mixin border_radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+@mixin inline-block{
+      display: inline-block;
+      vertical-align: top;
+}
+
+@mixin listitem-reset{
+      margin: 0;
+      padding: 0;
+      list-style: none;
+}

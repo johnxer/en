@@ -1,0 +1,405 @@
+@media (max-width: 768px) {
+    ul#nav {
+        padding: 15px;
+        top: 60px;
+        font-size: 16px;
+        background: #fff;
+    }
+
+    .button-list {
+        clear: both;
+        margin-top: 60px;
+
+        a.button {
+            //margin-left: 3px !important;
+            padding: 5px;
+            font-size: 10px;
+            margin-right: 3px !important;
+            display: inline-block;
+            float: none;
+            margin-bottom: 0 !important;
+            margin-top: 5px !important;
+        }
+    }
+
+    .fixed-bar {
+        //height: 140px;
+
+        .circle-arrow {
+            top: 105px;
+        }
+    }
+
+    a#nav-show {
+        position: absolute;
+    }
+
+    .faq {
+        .container {
+            width: auto;
+
+            h2 {
+                font-size: 26px;
+            }
+        }
+
+        ul.faq-list {
+            li {
+                h3 {
+                    font-size: 16px;
+                }
+
+                > div {
+                    p {
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+
+    .pseudopage {
+        a.bubble {
+            margin-right: -145px;
+            top: 230px;
+
+            &:hover {
+                top: 220px;
+            }
+        }
+
+        &#what-is-eagleninja {
+            background-position: 50% 400px !important;
+
+            .bg {
+                width: 740px;
+                display: none;
+            }
+        }
+
+        &#how-does-it-work {
+            .float-bottom {
+                width: 100%;
+
+                .story {
+                    //width: auto;
+                    //min-width: initial;
+               
+                }
+            }
+        }
+
+        .float-bottom {
+            //width: 100%;
+
+            .story {
+                //  padding: 10px;
+                //                width: auto;
+                //                min-width: initial;
+
+                h2 {
+                    font-size: 24px;
+                    margin-bottom: 5px;
+                }
+
+                p {
+                    font-size: 14px;
+                    margin-bottom: 5px;
+                }
+
+                .button {
+                    font-size: 16px;
+                    margin-top: 5px !important;
+                    display: block;
+                    float: none;
+                    text-align: center;
+                    padding: 5px;
+                }
+
+                .story-div {
+                    //width: auto;
+               
+                }
+            }
+        }
+
+        &#sponsors {
+            .bg {
+                height: 720px;
+                //width: 460px;
+                display: none;
+            }
+        }
+
+        &#welcome {
+            background-attachment: scroll;
+            background-position: 50% -50px !important;
+
+            .bg {
+                display: none;
+            }
+
+            .float-bottom {
+                .story {
+                    .story-div {
+                        p {
+                            font-size: 16px;
+                            margin-bottom: 15px;
+
+                            &:nth-last-of-type(1) {
+                                margin-bottom: 0;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .bg {
+                /*background-size: initial;
+                background-position-x: 10% !important;
+                background-size: 35%;*/
+                display: none;
+            }
+        }
+
+        &#how-does-it-work {
+            background-attachment: scroll;
+        }
+        &#what-is-eagleninja {}
+
+        &#sponsors {
+            background-attachment: scroll;
+        }
+
+        &#how-do-join {
+            background-attachment: scroll;
+        }
+
+        &#agency {
+            background-attachment: scroll;
+        }
+
+        &#what-is-eagleninja {
+            background-position: 50% 0px !important;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+
+        &#sponsors {
+            background-position: 77% -40px !important;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+
+        &#how-does-it-work {
+            background-position: 40% 0px !important;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+
+        &#how-do-join {
+            background-position: 50% 0px !important;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+
+        &#agency {
+            background-position: 20% 0px !important;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+    }
+
+    .blog_post {
+        .container {
+            .well {
+                .content-box {
+                    margin-top: 0;
+                }
+            }
+        }
+    }
+
+    .blog,
+    .blog_post,
+    .what-is-en,
+    .sponsors,
+    .how-does-it-work,
+    .in-news,
+    .team,
+    .support,
+    .faq,
+    .terms-of-service,
+    .privacy,
+    .download_app {
+        .container {
+            margin-top: 70px;
+            padding-top: 0;
+            width: auto;
+
+            h2 {
+                font-size: 26px;
+                -webkit-border-radius: 0px !important;
+                border-radius: 0px !important;
+                position: relative a;
+            }
+
+            .wrapper {
+                padding: 0 20px;
+            }
+
+            .well {
+                -webkit-border-radius: 0px !important;
+                border-radius: 0px !important;
+            }
+
+            h3 {
+                font-size: 18px;
+            }
+
+            p {
+                font-size: 16px;
+            }
+
+            ul, ol {
+                font-size: 14px;
+
+                li {
+                    margin-bottom: 5px;
+                }
+            }
+        }
+    }
+
+    .team {
+        .quadruple-col {}
+
+        .address-block {
+            -webkit-border-radius: 0px !important;
+            border-radius: 0px !important;
+
+            h2 {
+                font-size: 26px;
+                margin-top: 0;
+
+                .fa {
+                    font-size: 32px;
+                }
+            }
+
+            > div {
+                width: auto;
+            }
+        }
+    }
+
+    .div-wrapper {
+        //margin-bottom: -235px;
+   
+    }
+
+    .footer, .push {
+        height: 235pxx;
+    }
+
+    .modal-body {
+        .control-group {
+            textarea {
+                margin-left: 0;
+                width: 100%;
+            }
+
+            .controls {
+                &.select-block {
+                    display: block;
+                    margin-left: 0 !IMPORTANT;
+
+                    select {
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+
+    .agency {
+        .agency-content {
+            .container {
+                width: auto;
+
+                h2 {
+                    text-align: center;
+                    font-size: 32px;
+                }
+
+                h3 {
+                    font-size: 36px;
+                }
+
+                ul {
+                    > li {
+                        width: auto !important;
+                        margin-right: 0 !important;
+                        margin-bottom: 30px !important;
+                        padding: 0 60px !important;
+                    }
+                }
+
+                p {
+                    margin-top: 20px !important;
+
+                    a {
+                        margin-top: 0;
+                        padding: 20px;
+                        clear: both;
+                        float: none;
+                        display: block;
+                        width: 100%;
+                        text-align: center;
+                        margin-top: 30px !important;
+                    }
+                }
+            }
+        }
+    }
+
+    /*
+    .videoWrapper {
+      display: none;
+      width: 427px;
+      height: 240px;
+      margin-left: -214px;
+      margin-top: -127px;
+     
+     iframe {
+       display: none;
+      width: 427px;
+      height: 240px;
+    }
+    
+    }
+    */
+    .download_app {
+        .container {
+            h2 {
+                text-align: center;
+            }
+
+            p {
+                margin-top: 20px;
+            }
+
+            ul.download_links {
+                margin-top: 20px;
+                text-align: center;
+
+                > li {
+                    width: 50%;
+                    float: left;
+                    text-align: center;
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+.agency{
+
+   .div-wrapper{
+      background: url(../images/agencyBG.jpg) 50% 0 no-repeat fixed;
+      background-clip: content-box;
+      background-size: cover;       
+   }
+
+      .container{
+      padding-top:0;
+
+      }
+
+      h2{
+         border-bottom: 0;
+         padding: 0;
+         font-size: 40px;
+         text-transform: initial;
+         word-spacing: 10px;
+         border-radius: 0px;
+         padding-top: 30px;
+         line-height: 130%;
+
+   }
+
+   h3{
+      font-weight: 300;
+      font-size: 46px;
+      margin: 10px 0;
+      padding: 10px 0;
+      margin-bottom: 40px;
+      color: #36b998;
+      background: #fff;
+
+}
+
+}

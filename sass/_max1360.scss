@@ -1,0 +1,78 @@
+@media (max-width: 1360px) {
+    .button-list {
+        width: 560px;
+
+        a {
+            margin: 0 20px;
+            width: 230px;
+        }
+    }
+
+    .pseudopage {
+        &#welcome {
+            .bg {
+                background-size: 20%;
+            }
+        }
+
+        &#sponsors {
+            .bg {
+                width: 1120px;
+            }
+        }
+    }
+
+    .fixed-bar {
+        #logo {
+            img {
+                //  height: 80px;
+           
+            }
+        }
+
+        .button {
+            font-size: 14px;
+
+            i {
+                font-size: 20px !important;
+            }
+        }
+    }
+
+    .container {
+        //margin-top: 70px;
+        //padding-top: 0;
+   
+    }
+
+    .download_app {
+        .container {
+            margin-top: 0px;
+            padding-top: 130px;
+        }
+    }
+
+    .blog_post {
+        .container {
+            .well {
+                .content-box {
+                    margin-top: 0;
+                }
+            }
+        }
+    }
+    /*
+    .videoWrapper {
+      width: 650px;
+      height: 366px;
+      margin-left: -325px;
+      margin-top: -207px;
+     
+     iframe {
+      width: 680px;
+      height: 366px;
+    }
+    
+    }
+    */
+}

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1, user-scalable=0">	
+	<title>Eagleninja</title>
+	<link rel="shortcut icon" type="image/x-icon" href="favicon2.ico"/>
+	
+	<link href="http://fonts.googleapis.com/css?family=Lato:100,300,400" rel="stylesheet" type="text/css">
+
+	<link type="text/css" rel="stylesheet" href="css/reset.css">
+	<link type="text/css" rel="stylesheet" href="css/font-awesome.css">
+	<link type="text/css" rel="stylesheet" href="css/global.css">
+	<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="js/jquery.easing.1.3.js"></script>
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#eagleform').on('submit', function(e) {
+			e.preventDefault();
+
+			$.ajax({
+				type:'POST',
+				url: 'http://www.eagleninja.com/namemail',
+				data: {
+					'name': $('#user').val(),
+					'email': $('#mail').val()
+
+				},
+				success: function(data) {
+					$('#user').val("");
+					$('#mail').val("");
+					$('#confirmation').show();
+		        }
+			});
+		});
+	});
+	</script>
+
+</head>
+
+<body>
+<!-- 
+	<a name="sec1"></a>
+	<a name="arriba"></a> -->
+
+	
+<header>
+ 
+
+</header>
+
+
+<section id="sec1">
+	<a name="sec1" title="sec1"></a>
+
+    <h1><a href="#" alt="eagle ninja" target="_blank"><img src="img/logo.png" alt=""></a></h1>
+
+	<h2>Quest Marketing</h2>
+	<p>Thank you for your interest in the Eagle Ninja Quest Marketing<br>
+App. We are still in Beta, however you may download the App and<br>
+use it freely by clicking on the following link:</p>
+	<img class="devices" src="img/devices.png" alt="devices">
+
+
+</section>
+
+
+<section id="sec2">
+	<a name="sec2" title="sec2"></a>
+	<span class="arrow"></span>
+
+
+	<img src="img/and_icon.png" alt="android" class="and_icon">
+	<p>Download the the app from Google Play and join fun Quests; We even pay you cash rewards on some of them!</p>
+	<br />
+	<a class="blue" href='./index_qrapp_ios.html'>Do you have an iOS device?</a>	
+	<a href="https://play.google.com/store/apps/details?id=com.eagleninja.app" class="btn download">download</a>
+	
+</section>
+
+
+
+<section id="sec3">
+	<a name="sec3" title="sec3"></a>
+	<span class="arrow"></span>
+	<ul>
+		<li class="bola1"><img src="img/ico1.png" alt="regalo"></li><!--
+     --><li class="sep sep1"></li><!--
+     --><li class="bola2"><img src="img/ico2.png" alt="regalo"></li><!--
+     --><li class="sep sep2"></li><!--
+     --><li class="bola3"><img src="img/ico3.png" alt="regalo"></li><!--
+     --><li class="sep sep3"></li><!--
+     --><li class="bola4"><img src="img/ico4.png" alt="regalo"></li><!--
+     --><li class="sep sep4"></li><!--
+     --><li class="bola5"><img src="img/ico5.png" alt="regalo"></li>
+	</ul>  	
+</section>
+
+<!--
+<section id="sec4">
+	<a name="sec4" title="sec4"></a>
+	<span class="arrow"></span>
+		
+	<h2>BE AN AFFILIATE!</h2>
+
+	<p>If you are interested in joining our affiliate program (earning <span>10% of the lifetime earnings</span> of anyone who downloads the free Eagle Ninja App through your reference), please fill in your name and email below and we will contact you:</p>
+
+	<form id="eagleform" action="" autocomplete="on">
+	  <input class="txtf01" type="text" id="user" name="user" placeholder="Your name" required="required">
+	  <input class="txtf01" type="text" id="mail" name="mail" placeholder="Your email" required="required">
+	  <input class="btn" type="submit" value="Ok">
+
+	  <input class="check" type="checkbox" name="info" value="info">
+	  <p class="check">Yes, I am interested in the Eagle Ninja Affiliate program.</p>
+	  <p id="confirmation" style="display:none" class="">Your request has been sent</p>
+	</form>
+</section>
+-->
+
+
+<div class="footer">
+
+	<h2>EagleNinja. @ Copyright 2014. All rights reserved.</h2>
+		
+</div>
+
+
+
+<!-- 
+<a href="#arriba" id="irArriba">^<br>^</a>	 -->
+
+
+<!--<script>window.jQuery || document.write("<script src='js/jquery-1.10.2.min.js'><\/script>")</script>-->
+
+
+</body>	
+</html>

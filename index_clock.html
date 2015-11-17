@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+      <head>
+            <!-- Meta, title, CSS, favicons, etc. -->
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta name="description" content="">
+            <meta name="keywords" content="mobile advertising, mobile promotions, geolocation, behavioral advertising, contextual targeting, engaging advertising, quest marketing, social marketing">
+            <meta name="author" content="">
+            <title>eagleNinja - Still in STEALTH MODE</title>
+            <link href="css/bootstrap.min.css" rel="stylesheet">
+            <link href="css/styles.css" rel="stylesheet">
+            <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,300italic,500,500italic,700,100italic,100,700italic' rel='stylesheet' type='text/css'>
+            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>  
+            <script type="text/javascript" src="js/jquery.countdown.js"></script>      
+            <script type="text/javascript" src="js/forms.js"></script>      
+            <script src="js/jqBootstrapValidation.js"></script>
+
+            <script type="text/javascript">
+                  $(function() {
+                        var endDate = "Jun 17, 2014 00:00:00";
+                        $('.countdown.simple').countdown({ date: endDate });
+                        $('.countdown.styled').countdown({
+                              date: endDate,
+                              render: function(data) {
+                                    $(this.el).html("<div>" + this.leadingZeros(data.days, 2) + " <span>days</span></div><div>" + this.leadingZeros(data.hours, 2) + " <span>hrs</span></div><div>" + this.leadingZeros(data.min, 2) + " <span>min</span></div><div>" + this.leadingZeros(data.sec, 2) + " <span>sec</span></div>");
+                              }
+                        });
+                        
+                        $('.countdown.callback').countdown({
+                              date: +(new Date) + 10000,
+                              render: function(data) {
+                                    $(this.el).text(this.leadingZeros(data.sec, 2) + " sec");
+                              },
+                              onEnd: function() {
+                                    $(this.el).addClass('ended');
+                              }
+                        }).on("click", function() {
+                              $(this).removeClass('ended').data('countdown').update(+(new Date) + 10000).start();
+                        });
+                  });
+            </script>
+            <script type="text/javascript">
+            $(document).ready(function() {
+                  $('#contactForm').on('submit', function(e) {
+                        e.preventDefault();
+
+                        $.ajax({
+                              type:'POST',
+                              url: 'http://www.eagleninja.com/becomeninja',
+                              data: {
+                                    'email': $('#email').val(),
+                                    'interests': $('#interests').val()
+
+                              },                              
+                              success: function(data) {
+                                    $('#email').val("");
+                                    $('#interests').val("");
+                                    $('#success').html("<strong>Your message has been sent. </strong>");
+                              }                                                           
+                        });
+                  });
+                  $('#contactForm2').on('submit', function(e) {
+                        e.preventDefault();
+
+                        $.ajax({
+                              type:'POST',
+                              url: 'http://www.eagleninja.com/questmarketingninja',
+                              data: {
+                                    'email': $('#email2').val(),
+                                    'interests': $('#interests2').val()
+
+                              },
+                              success: function(data) {
+                                    $('#email2').val("");
+                                    $('#interests2').val("");
+                                    $('#success2').html("<strong>Your message has been sent. </strong>");
+                              }                          
+                        });
+                  });
+            });
+            </script>
+            
+            
+            </script>
+      </head>
+      <body>
+            <div class="container">
+                  <div class="row" style="margin-top: 10px; position: relative;">
+                        <div class="col-lg-7 col-md-7 text-center col-sm-12 col-xs-12">
+                              <img src="img/topimage.png" class="img-responsive" alt="">
+                        </div>
+                        <div class="col-lg-5 col-md-5 text-center col-sm-12 col-xs-12">
+                              
+                              <div class="countdown styled"></div>
+                              <h3>In Stealth Mode</h3>
+                        </div>      
+                  </div>
+                  
+                  <div class="row form-row text-center" style="">
+                        <div class="col-lg-offset-1 col-md-offset-1 col-lg-5 col-md-5 text-center col-sm-12 col-xs-12">
+                              <h2>Want to become a Ninja?</h2>
+                              <!--<p>Lorem ipsum dolor sit amet consectetuer mus nunc elit tincidunt eu. Ut lorem velit ac eget ut Nulla ridiculus Aliquam libero urna.</p>-->
+                              <form name="sentMessage" action="" class="" id="contactForm"  novalidate >
+                                    <div class="control-group text-center">
+                                          <div class="controls">
+                                                <input type="email" class="form-control" placeholder="Please enter your email" id="email" required data-validation-required-message="Please enter your email" />
+                                                <input style="display:none" type="text" class="form-control" placeholder="Please tell us a bit about yourself and your goals and interests" id="interests" />
+                                                <button type="submit" class="btn btn-dg"><i class="icon"></i> <span>Submit</span></button>
+                                          </div>
+                                    </div>
+                                    <div id="success"> </div> <!-- For success/fail messages -->
+                                            
+                              </form>                                                            
+                        
+                        </div>
+                        <div class="col-lg-offset-1 col-md-offset-1 col-lg-5 col-md-5 text-center col-sm-12 col-xs-12">
+                              <hr class="hidden-lg hidden-md">
+                              <h2>Want to learn about our Quest Marketing Platform?</h2>
+                              <!--<p>Lorem ipsum dolor sit amet consectetuer mus nunc elit tincidunt eu. Ut lorem velit ac eget ut Nulla ridiculus Aliquam libero urna.</p>-->
+                              <form name="sentMessage2" action="" class="" id="contactForm2"  novalidate>
+                                    <div class="control-group">
+                                          <div class="controls">
+                                                <input type="email" class="form-control" placeholder="Please enter your email" id="email2" required data-validation-required-message="Please enter your email" />
+                                                <input style="display:none" type="text" class="form-control" placeholder="Please tell us a bit about your company and the kinds of marketing engagement challenges you face" id="interests2" />
+                                                <button type="submit" class="btn btn-dg"><i class="icon"></i> <span>Submit</span></button>
+                                          </div>
+                                    </div>
+                                    <div id="success2"> </div> <!-- For success/fail messages -->
+                                            
+                              </form>                              
+                        </div>                        
+                        
+                  </div>                  
+                  
+            </div>
+      </body>
+</html>  

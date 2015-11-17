@@ -1,0 +1,384 @@
+@media (max-width: 480px) {
+    body {
+        height: initial;
+    }
+
+    .blog {
+        .container {
+            ul.container-list {
+                border-spacing: 10px;
+
+                > div {
+                    > li {
+                        display: table;
+                        width: 100%;
+                        padding: 0;
+
+                        .blog_img {
+                            img {}
+                        }
+
+                        .header {
+                            > a {
+                                > h3 {
+                                    width: initial;
+                                    float: none;
+                                    display: block;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .blog_post {
+        .container {
+            .well {
+                .content-box {
+                    margin-top: 0;
+                    padding: 0;
+
+                    .content-box-inner {
+                        padding: 20px 0;
+                    }
+                }
+            }
+        }
+    }
+
+    .blog,
+    .blog_post,
+    .what-is-en,
+    .sponsors,
+    .how-does-it-work,
+    .in-news,
+    .team,
+    .support,
+    .faq,
+    .terms-of-service,
+    .privacy {
+        .container {
+            margin-top: 60px;
+            width: auto;
+            padding-top: 0;
+
+            h2 {
+                font-size: 20px;
+                -webkit-border-radius: 0px !important;
+                border-radius: 0px !important;
+                position: relative a;
+            }
+
+            .wrapper {
+                padding: 0 20px;
+            }
+
+            .well {
+                -webkit-border-radius: 0px !important;
+                border-radius: 0px !important;
+            }
+
+            h3 {
+                font-size: 18px;
+            }
+
+            p {
+                font-size: 14px;
+            }
+
+            ul, ol {
+                font-size: 14px;
+
+                li {
+                    margin-bottom: 5px;
+                }
+            }
+        }
+    }
+
+    .support {
+        .container {
+            .wrapper {
+                &.modal-body {
+                    padding: 20px 5px;
+
+                    .control-group {
+                        .control-label {
+                            width: 60px;
+                        }
+
+                        .controls {
+                            margin-left: 70px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .team {
+        .quadruple-col {}
+
+        .address-block {
+            -webkit-border-radius: 0px !important;
+            border-radius: 0px !important;
+
+            h2 {
+                font-size: 20px;
+                margin-top: 0;
+
+                .fa {
+                    font-size: 26px;
+                }
+            }
+
+            > div {
+                width: auto;
+            }
+        }
+    }
+
+    ul#nav {
+        padding: 10px;
+        top: 60px;
+        font-size: 14px;
+        background: #fff;
+    }
+
+    .pseudopage {
+        .float-bottom {
+            .story {
+                .story-div {
+                    h2 {
+                        margin-bottom: 5px;
+                    }
+
+                    p {
+                        font-size: 14px;
+                        margin-bottom: 10px;
+                    }
+                }
+            }
+        }
+
+        &#welcome {
+            background-position: 40% -50px !important;
+            /*
+                        .bg {
+                            background-image: url("../images/trainers2S.png");
+                            display: block;
+                            background-position: 10px -100px !important;
+                        }
+            */
+        }
+
+        &#what-is-eagleninja {
+            background-position: 50% -230px !important;
+        }
+
+        &#sponsors {
+            background-position: 77% -40px !important;
+        }
+
+        &#how-does-it-work {
+            background-position: 40% -470px !important;
+        }
+
+        &#how-do-join {
+            background-position: 50% -380px !important;
+        }
+
+        &#agency {
+            background-position: 20% -145px !important;
+        }
+    }
+
+    .button-list {
+        width: auto;
+        margin-top: 80px;
+
+        a.button {
+            margin: 0 0 5px 0 !important;
+            padding: 5px;
+            float: none;
+            text-align: center;
+            display: inline-block;
+            width: 80%;
+        }
+    }
+
+    .faq {
+        .container {
+            margin-top: 60px;
+
+            h2 {
+                font-size: 16px;
+            }
+
+            ul.faq-list {
+                li {
+                    h3 {
+                        font-size: 14px;
+                    }
+
+                    > div {
+                        p {
+                            font-size: 14px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .fixed-bar {
+        //height: 160px;
+
+        .circle-arrow {
+            top: 125px;
+        }
+
+        #logo {
+            img {
+                //height: 50px;
+           
+            }
+        }
+    }
+
+    .pseudopage {
+        &#how-does-it-work {
+            .float-bottom {
+                width: 100%;
+
+                .story {
+                    width: auto;
+                    min-width: initial;
+                }
+            }
+        }
+
+        .float-bottom {
+            //width: 100%;
+
+            .story {
+                //  width: auto;
+                //                min-width: initial;
+
+                h2 {
+                    font-size: 24px;
+                }
+
+                p {
+                    font-size: 14px;
+                }
+
+                .button {
+                    font-size: 16px;
+                    margin-top: 5px !important;
+                    display: block !important;
+                    float: none;
+                    padding: 5px;
+                }
+
+                .story-div {
+                    //width: auto;
+               
+                }
+            }
+        }
+    }
+
+    #footer {
+        ul {
+            li {
+                float: left;
+                width: 50%;
+            }
+        }
+
+        ul.social-icons {
+            li {
+                width: 75px;
+                display: inline-block;
+                vertical-align: top;
+                float: none;
+            }
+        }
+
+        p {
+            float: none;
+            text-align: center;
+            clear: both;
+            display: block;
+            margin-top: 20px;
+            font-size: 12px;
+        }
+    }
+
+    #sponsors,
+    #what-is-eagleninja {
+        .bg {
+            width: auto;
+            height: auto;
+            display: none;
+        }
+    }
+
+    .div-wrapper {
+        //margin-bottom: -315px;
+   
+    }
+
+    .footer, .push {
+        height: 315px;
+    }
+
+    .modal-footer {
+        .button-green {
+            width: 130px !important;
+        }
+    }
+
+    .agency {
+        .agency-content {
+            .container {
+                h2 {
+                    text-align: center;
+                    font-size: 28px;
+                }
+
+                h3 {
+                    font-size: 32px;
+                }
+
+                ul {
+                    > li {
+                        margin-bottom: 30px !important;
+                        padding: 0 0px !important;
+                    }
+                }
+
+                p {
+                    margin-top: 10px !important;
+
+                    a {
+                        margin-top: 20px !important;
+                    }
+                }
+            }
+        }
+    }
+
+    #form-agency {
+        .control-group {
+            margin-bottom: 10px;
+
+            .controls {
+                margin-left: 0;
+            }
+        }
+    }
+}

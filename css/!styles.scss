@@ -1,0 +1,235 @@
+$font_family: Roboto, sans-serif;
+
+body, input, button{
+      font-family: $font_family;
+      font-weight: 300;
+}
+
+body{
+      margin-bottom: 30px;
+}
+
+input, button{
+}
+
+
+p{
+      color: #666;
+      font-size: 14px;
+      text-align: justify;
+}
+
+h3{
+      font-size: 40px;
+      margin-top: 40px;
+      /*background: rgba(0,0,0,0.5);*/
+      /*padding: 10px 20px;*/
+      /*position: absolute;*/
+      color: #fff;
+      padding: 5px;
+      background: #3aabd7;
+/*      top: 10%;
+      margin-left: 50%;
+      left: -160px;*/
+      /*width: 320px;*/
+      font-weight: 300;
+      border-radius: 4px;
+      text-transform: uppercase;
+}
+
+
+.form-row{
+      
+      h2{
+            text-align: left;
+            font-size: 18px;
+            font-weight: 400;
+            margin-top: 10px;
+      }
+      
+      .control-group{
+            display: block;
+      
+            .controls{
+                  position: relative;      
+            }
+      }
+}
+
+.btn-dg{
+      color: #fff;
+      background-color: #33b5e4;
+      border-color: #2197c2;
+}
+.btn-dg:hover,
+.btn-dg:focus,
+.btn-dg:active,
+.btn-dg.active,
+.open .dropdown-toggle.btn-dg {
+      color: #fff;
+      background-color: #2197c2;
+      border-color: #2197c2;
+}                      
+
+
+
+.styled{
+      margin-bottom: 0px;
+      margin-top: 80px;
+      
+      
+      
+      display: inline-block;
+      
+      div {
+            color: #000;
+            display: inline-block;
+            font-size: 64px;
+            font-weight: 100;
+            line-height: 1;
+            margin-left: 30px;
+            text-align: center;
+
+            span {
+                  color: #666;
+                  display: block;
+                  padding-top: 5px;
+                  margin-top: 5px;
+                  font-size: 14px;
+                  font-weight: normal;
+                  text-transform: uppercase;
+                  text-align: center;
+                  font-weight: 400px;
+            }
+      }
+
+      div:first-child {
+            margin-left: 0;
+      }
+
+      
+}
+      /* IE7 inline-block hack */
+      
+      *+html .styled div{
+            display: inline;
+            zoom: 1;
+            font-weight: 400px;
+      }
+      
+      
+form{
+
+      input.form-control{
+            padding: 12px 122px 12px 12px;
+            height: 48px;
+      }      
+
+      button{
+            position: absolute;
+            top: 5px;
+            right: 5px;
+      
+            .icon{
+                  width: 24px;
+                  height: 24px;
+                  display: inline-block;
+                  vertical-align: top;
+                  background: url('../img/icon-email.png') no-repeat 0px 0px;
+                  margin-right: 5px;
+            }
+      
+            span{
+                  position: relative;
+                  top: 3px;
+            }
+      }
+}
+
+hr{
+      border-top: 1px solid rgba(0,0,0,0.05);
+}
+
+
+@media (max-width: 992px) {
+
+      .styled{
+      margin-top: -20px;
+      }
+
+      h3{
+      margin-top: 20px;
+      }
+      
+      hr{
+      
+      }
+}
+      
+
+
+@media (max-width: 768px) {
+      
+      hr{
+            margin: 10px 0 0px 0;
+      }
+      
+      .styled{
+            margin-top: 0;
+      }
+      
+      .styled div{
+                  font-size: 42px;
+                  margin-bottom: 0;
+                  
+      }
+}
+
+@media (max-width: 320px) {
+      hr{
+            margin: 10px 0 0px 0;
+      }
+      
+      .styled{
+            padding: 10px 20px;
+            margin-top: 0px;
+      }
+      
+      .styled div{
+                  
+                  font-size: 30px;
+                  margin-top: 0px;
+                  margin-bottom: 0;
+                  
+                  
+                  }
+            
+            .styled div span {
+                  font-size: 12px;
+            }
+            
+      h3{
+      font-size: 26px;
+      }            
+      
+}
+
+.alert-success{
+position: relative;
+}
+
+.help-block{
+
+      ul{
+            margin: 0;
+            padding: 0;
+            
+            li{
+                  margin: 0;
+                  padding: 0;
+                  list-style: none;
+                  text-align: center;
+            }
+
+      }
+}

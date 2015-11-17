@@ -1,0 +1,142 @@
+@media (max-width: 1150px) {
+    .pseudopage {
+        background-attachment: scroll;
+        background-size: cover;
+
+        &#welcome {
+            background-attachment: scroll;
+            background-size: cover;
+
+            .bg {
+                background-size: initial;
+                background-position-x: 10% !important;
+            }
+        }
+
+        &#sponsors {
+            background-attachment: scroll;
+            background-size: cover;
+
+            .bg {
+                width: 960px;
+            }
+        }
+
+        &#what-is-eagleninja {
+            background-position: 50% 0px !important;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+
+        &#sponsors {
+            background-position: 77% -40px !important;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+
+        &#how-does-it-work {
+            background-position: 40% 0px !important;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+
+        &#how-do-join {
+            background-position: 50% 0px !important;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+
+        &#agency {
+            background-position: 20% 0px !important;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+    }
+
+    .blog_post {
+        .container {
+            .well {
+                .content-box {
+                    margin-top: 0;
+                }
+            }
+        }
+    }
+
+    .float-bottom {
+        .story {
+            .story-div {
+                p {
+                    font-size: 16px;
+                }
+            }
+        }
+    }
+
+    .fixed-bar {
+        //height: 100px;
+
+        ul.main_menu {
+            > li {
+                margin: 0 15px 0 0;
+                font-size: 14px;
+                a {}
+            }
+        }
+
+        .top-bar-buttons {
+            margin-top: 25px;
+        }
+
+        #logo {
+            img {
+                // height: 50px;
+           
+            }
+        }
+
+        .button {
+            font-size: 12px;
+
+            i {
+                font-size: 16px !important;
+            }
+        }
+
+        .circle-arrow {
+            top: 65px;
+        }
+    }
+
+    .agency {
+        .agency-content {
+            .container {
+                width: auto;
+
+                h2 {
+                    text-align: center;
+                }
+            }
+        }
+    }
+
+    .container {
+        //margin-top: 70px;
+        //padding-top: 0;
+   
+    }
+    /*
+    .videoWrapper {
+      width: 600px;
+      height: 338px;
+      margin-left: -300px;
+      margin-top: -197px;
+     
+     iframe {
+      width: 600px;
+      height: 338px;
+    }
+    
+    }
+    */
+}
