@@ -120,6 +120,14 @@
 	"buffers":
 	[
 		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 35263,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "in-news.html",
 			"settings":
 			{
@@ -131,40 +139,8 @@
 			"file": "new-quest.html",
 			"settings":
 			{
-				"buffer_size": 57307,
+				"buffer_size": 60472,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 34020,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/my_affiliates/my_affiliates.php",
-			"settings":
-			{
-				"buffer_size": 5241,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/shared/affiliate_modal/affiliate_details_modal_content.php",
-			"settings":
-			{
-				"buffer_size": 27051,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/shared/affiliate_modal/affiliate_details_modal_main.php",
-			"settings":
-			{
-				"buffer_size": 545,
-				"line_ending": "Unix"
 			}
 		},
 		{
@@ -179,7 +155,7 @@
 			"file": "terms-of-service.html",
 			"settings":
 			{
-				"buffer_size": 53237,
+				"buffer_size": 56096,
 				"line_ending": "Windows"
 			}
 		},
@@ -187,7 +163,7 @@
 			"file": "privacy.html",
 			"settings":
 			{
-				"buffer_size": 24338,
+				"buffer_size": 24519,
 				"line_ending": "Windows"
 			}
 		},
@@ -211,7 +187,7 @@
 			"file": "faq.html",
 			"settings":
 			{
-				"buffer_size": 24243,
+				"buffer_size": 28550,
 				"line_ending": "Windows"
 			}
 		},
@@ -219,647 +195,7 @@
 			"file": "sass/styles.scss",
 			"settings":
 			{
-				"buffer_size": 63069,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/css/new/sass/_buttons.scss",
-			"settings":
-			{
-				"buffer_size": 31906,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/shared/products/product_dropdown.php",
-			"settings":
-			{
-				"buffer_size": 1509,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_products/dashboard.php",
-			"settings":
-			{
-				"buffer_size": 33621,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/leads/tracking_links.php",
-			"settings":
-			{
-				"buffer_size": 46115,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/communications/tracking/tracking_links.php",
-			"settings":
-			{
-				"buffer_size": 43205,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_products/dashboard_more_products.php",
-			"settings":
-			{
-				"buffer_size": 27355,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_products/dashboard_more_products_old.php",
-			"settings":
-			{
-				"buffer_size": 25899,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sellers/dashboard/dashboard_more_products.php",
-			"settings":
-			{
-				"buffer_size": 28486,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/coupons/viral_coupons_add.php",
-			"settings":
-			{
-				"buffer_size": 14286,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/coupons/fb_coupons_add.php",
-			"settings":
-			{
-				"buffer_size": 11355,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/products/product_creation_upsell_section.php",
-			"settings":
-			{
-				"buffer_size": 15226,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/my_earnings/my_account_your_credits_kartra_payments.php",
-			"settings":
-			{
-				"buffer_size": 1245,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/affiliates/dashboard_to_be_deleted/dashboard_more_niche_products_upcoming.php",
-			"settings":
-			{
-				"buffer_size": 2590,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/checkout/transaction_page_product_activation.php",
-			"settings":
-			{
-				"buffer_size": 22143,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/bonus/add_new_bonus.php",
-			"settings":
-			{
-				"buffer_size": 14029,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/enterprise/affiliate_details.php",
-			"settings":
-			{
-				"buffer_size": 10921,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/show_more_my_purchases.php",
-			"settings":
-			{
-				"buffer_size": 5677,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/buyers_my_purchases.php",
-			"settings":
-			{
-				"buffer_size": 17807,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/buyers/show_more_my_purchases.php",
-			"settings":
-			{
-				"buffer_size": 5673,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/buyers_profile.php",
-			"settings":
-			{
-				"buffer_size": 34423,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/buyers/buyers_purchase_transactions.php",
-			"settings":
-			{
-				"buffer_size": 1457,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/search_marketplace_results.php",
-			"settings":
-			{
-				"buffer_size": 3735,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/main_header.php",
-			"settings":
-			{
-				"buffer_size": 14971,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/main_affiliate.php",
-			"settings":
-			{
-				"buffer_size": 6655,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/main_marketing.php",
-			"settings":
-			{
-				"buffer_size": 42447,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/main_header_light.php",
-			"settings":
-			{
-				"buffer_size": 22596,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/front/main_no_stuff.php",
-			"settings":
-			{
-				"buffer_size": 1606,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/front/main_suspended.php",
-			"settings":
-			{
-				"buffer_size": 7343,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/front/main_index_page.php",
-			"settings":
-			{
-				"buffer_size": 14796,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/front/main_no_style.php",
-			"settings":
-			{
-				"buffer_size": 30339,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/front/main_customer_login.php",
-			"settings":
-			{
-				"buffer_size": 15640,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/my_account_alert.php",
-			"settings":
-			{
-				"buffer_size": 7179,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/front/main_light_footer_only.php",
-			"settings":
-			{
-				"buffer_size": 3585,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/main_error_template.php",
-			"settings":
-			{
-				"buffer_size": 3963,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/main_customer.php",
-			"settings":
-			{
-				"buffer_size": 23955,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/main_buyers.php",
-			"settings":
-			{
-				"buffer_size": 23935,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/main_affiliate_page.php",
-			"settings":
-			{
-				"buffer_size": 8344,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/marketplace_main_new.php",
-			"settings":
-			{
-				"buffer_size": 6423,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/main_affiliate_menu.php",
-			"settings":
-			{
-				"buffer_size": 4277,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/main_portal.php",
-			"settings":
-			{
-				"buffer_size": 15260,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/membership/backend_config.php",
-			"settings":
-			{
-				"buffer_size": 113083,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/css/new/sass/_membership_backend.scss",
-			"settings":
-			{
-				"buffer_size": 23424,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/front/main_checkout.php",
-			"settings":
-			{
-				"buffer_size": 8482,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/css/new/sass/_transaction_page.scss",
-			"settings":
-			{
-				"buffer_size": 42951,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/checkout/transaction_page.php",
-			"settings":
-			{
-				"buffer_size": 89593,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/checkout/transaction_page_frame.php",
-			"settings":
-			{
-				"buffer_size": 126325,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/css/modal_checkout_styles.css",
-			"settings":
-			{
-				"buffer_size": 57703,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/ipn/ipn_existing_rows.php",
-			"settings":
-			{
-				"buffer_size": 1595,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/membership_scripts/membership_add_edit.php",
-			"settings":
-			{
-				"buffer_size": 35537,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/products/product_checkout_popup.php",
-			"settings":
-			{
-				"buffer_size": 1890,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/communications/goals/goals.php",
-			"settings":
-			{
-				"buffer_size": 78038,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/products/product_creation_price_points_tags_dropdown.php",
-			"settings":
-			{
-				"buffer_size": 1536,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/css/new/sass/_affiliates_page.scss",
-			"settings":
-			{
-				"buffer_size": 4184,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/css/new/sass/styles3.scss",
-			"settings":
-			{
-				"buffer_size": 271514,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/communications/statistics/statistics.php",
-			"settings":
-			{
-				"buffer_size": 57124,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/communications/statistics/lists/statistics_content.php",
-			"settings":
-			{
-				"buffer_size": 19016,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/controllers/members/design_test.php",
-			"settings":
-			{
-				"buffer_size": 9487,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/account/profile/my_account_profile.php",
-			"settings":
-			{
-				"buffer_size": 36062,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sellers/enterprise/affiliate_details.php",
-			"settings":
-			{
-				"buffer_size": 10220,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/products/product_generate_buttons.php",
-			"settings":
-			{
-				"buffer_size": 5856,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/ipn/ipn_add_edit.php",
-			"settings":
-			{
-				"buffer_size": 9896,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/css/new/sass/_modals.scss",
-			"settings":
-			{
-				"buffer_size": 254732,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/css/modal_checkout_styles_new.css",
-			"settings":
-			{
-				"buffer_size": 52854,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/css/new/sass/_line-icons.scss",
-			"settings":
-			{
-				"buffer_size": 57626,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/checkout/transaction_page_modal.php",
-			"settings":
-			{
-				"buffer_size": 103755,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/en_repo/web-api/html_template/css/styles.css",
-			"settings":
-			{
-				"buffer_size": 43489,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/analytics/sales_reports.php",
-			"settings":
-			{
-				"buffer_size": 33061,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/analytics/funnel_sales_details.php",
-			"settings":
-			{
-				"buffer_size": 10993,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/affiliate_analytics_to_be_deleted/funnel_sales_details.php",
-			"settings":
-			{
-				"buffer_size": 7971,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sellers/sales_reports.php",
-			"settings":
-			{
-				"buffer_size": 54081,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_analytics/funnel_sales_details.php",
-			"settings":
-			{
-				"buffer_size": 8066,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/jv_analytics/funnel_sales_details_jv.php",
-			"settings":
-			{
-				"buffer_size": 13454,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/sales/jv_analytics/funnel_sales_details_jv.php",
-			"settings":
-			{
-				"buffer_size": 11848,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/affiliates/funnel_sales_details.php",
-			"settings":
-			{
-				"buffer_size": 7964,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/application/views/members/jvs/funnel_sales_details.php",
-			"settings":
-			{
-				"buffer_size": 6907,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/kn2/css/new/sass/_analytics.scss",
-			"settings":
-			{
-				"buffer_size": 19575,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/en_repo/web-api/html_template/sass/styles.scss",
-			"settings":
-			{
-				"buffer_size": 50566,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/en_repo/web-api/html_template/11_login_register_screen_coupon.html",
-			"settings":
-			{
-				"buffer_size": 4516,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/en_repo/web-api/html_template/10_quest7_screen_manual_coupon.html",
-			"settings":
-			{
-				"buffer_size": 4496,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/johnx_000/Documents/_Work/eagleNinja/new_stuff/emails/quest_coupon_btn.html",
-			"settings":
-			{
-				"buffer_size": 6647,
+				"buffer_size": 63540,
 				"line_ending": "Windows"
 			}
 		},
@@ -998,6 +334,90 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/kn2/application/views/front/affiliate_page_own_product_modal.php",
+		"/C/Users/johnx_000/Documents/_Work/eagleNinja/new_stuff/emails/quest_coupon_btn.html",
+		"/C/xampp/htdocs/en_repo/web-api/html_template/10_quest7_screen_manual_coupon.html",
+		"/C/xampp/htdocs/en_repo/web-api/html_template/11_login_register_screen_coupon.html",
+		"/C/xampp/htdocs/en_repo/web-api/html_template/sass/styles.scss",
+		"/C/xampp/htdocs/kn2/css/new/sass/_analytics.scss",
+		"/C/xampp/htdocs/kn2/application/views/members/jvs/funnel_sales_details.php",
+		"/C/xampp/htdocs/kn2/application/views/members/affiliates/funnel_sales_details.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/jv_analytics/funnel_sales_details_jv.php",
+		"/C/xampp/htdocs/kn2/application/views/members/affiliate/jv_analytics/funnel_sales_details_jv.php",
+		"/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_analytics/funnel_sales_details.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sellers/sales_reports.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/affiliate_analytics_to_be_deleted/funnel_sales_details.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/analytics/funnel_sales_details.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/analytics/sales_reports.php",
+		"/C/xampp/htdocs/en_repo/web-api/html_template/css/styles.css",
+		"/C/xampp/htdocs/kn2/application/views/checkout/transaction_page_modal.php",
+		"/C/xampp/htdocs/kn2/css/new/sass/_line-icons.scss",
+		"/C/xampp/htdocs/kn2/css/modal_checkout_styles_new.css",
+		"/C/xampp/htdocs/kn2/css/new/sass/_modals.scss",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/ipn/ipn_add_edit.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/products/product_generate_buttons.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sellers/enterprise/affiliate_details.php",
+		"/C/xampp/htdocs/kn2/application/views/members/account/profile/my_account_profile.php",
+		"/C/xampp/htdocs/kn2/application/controllers/members/design_test.php",
+		"/C/xampp/htdocs/kn2/application/views/members/communications/statistics/lists/statistics_content.php",
+		"/C/xampp/htdocs/kn2/application/views/members/communications/statistics/statistics.php",
+		"/C/xampp/htdocs/kn2/css/new/sass/styles3.scss",
+		"/C/xampp/htdocs/kn2/css/new/sass/_affiliates_page.scss",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/products/product_creation_price_points_tags_dropdown.php",
+		"/C/xampp/htdocs/kn2/application/views/members/communications/goals/goals.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/products/product_checkout_popup.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/membership_scripts/membership_add_edit.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/ipn/ipn_existing_rows.php",
+		"/C/xampp/htdocs/kn2/css/modal_checkout_styles.css",
+		"/C/xampp/htdocs/kn2/application/views/checkout/transaction_page_frame.php",
+		"/C/xampp/htdocs/kn2/application/views/checkout/transaction_page.php",
+		"/C/xampp/htdocs/kn2/css/new/sass/_transaction_page.scss",
+		"/C/xampp/htdocs/kn2/application/views/front/main_checkout.php",
+		"/C/xampp/htdocs/kn2/css/new/sass/_membership_backend.scss",
+		"/C/xampp/htdocs/kn2/application/views/members/membership/backend_config.php",
+		"/C/xampp/htdocs/kn2/application/views/members/main_portal.php",
+		"/C/xampp/htdocs/kn2/application/views/members/main_affiliate_menu.php",
+		"/C/xampp/htdocs/kn2/application/views/marketplace_main_new.php",
+		"/C/xampp/htdocs/kn2/application/views/members/main_affiliate_page.php",
+		"/C/xampp/htdocs/kn2/application/views/members/main_buyers.php",
+		"/C/xampp/htdocs/kn2/application/views/members/main_customer.php",
+		"/C/xampp/htdocs/kn2/application/views/members/main_error_template.php",
+		"/C/xampp/htdocs/kn2/application/views/front/main_light_footer_only.php",
+		"/C/xampp/htdocs/kn2/application/views/members/my_account_alert.php",
+		"/C/xampp/htdocs/kn2/application/views/front/main_customer_login.php",
+		"/C/xampp/htdocs/kn2/application/views/front/main_no_style.php",
+		"/C/xampp/htdocs/kn2/application/views/front/main_index_page.php",
+		"/C/xampp/htdocs/kn2/application/views/front/main_suspended.php",
+		"/C/xampp/htdocs/kn2/application/views/front/main_no_stuff.php",
+		"/C/xampp/htdocs/kn2/application/views/members/main_header_light.php",
+		"/C/xampp/htdocs/kn2/application/views/members/main_marketing.php",
+		"/C/xampp/htdocs/kn2/application/views/members/main_affiliate.php",
+		"/C/xampp/htdocs/kn2/application/views/members/main_header.php",
+		"/C/xampp/htdocs/kn2/application/views/members/search_marketplace_results.php",
+		"/C/xampp/htdocs/kn2/application/views/members/buyers/buyers_purchase_transactions.php",
+		"/C/xampp/htdocs/kn2/application/views/members/buyers_profile.php",
+		"/C/xampp/htdocs/kn2/application/views/members/buyers/show_more_my_purchases.php",
+		"/C/xampp/htdocs/kn2/application/views/members/buyers_my_purchases.php",
+		"/C/xampp/htdocs/kn2/application/views/members/show_more_my_purchases.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/enterprise/affiliate_details.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/bonus/add_new_bonus.php",
+		"/C/xampp/htdocs/kn2/application/views/checkout/transaction_page_product_activation.php",
+		"/C/xampp/htdocs/kn2/application/views/members/affiliates/dashboard_to_be_deleted/dashboard_more_niche_products_upcoming.php",
+		"/C/xampp/htdocs/kn2/application/views/members/affiliate/my_earnings/my_account_your_credits_kartra_payments.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/products/product_creation_upsell_section.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/coupons/fb_coupons_add.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/coupons/viral_coupons_add.php",
+		"/C/xampp/htdocs/kn2/application/views/members/sellers/dashboard/dashboard_more_products.php",
+		"/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_products/dashboard_more_products_old.php",
+		"/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_products/dashboard_more_products.php",
+		"/C/xampp/htdocs/kn2/application/views/members/communications/tracking/tracking_links.php",
+		"/C/xampp/htdocs/kn2/application/views/members/leads/tracking_links.php",
+		"/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_products/dashboard.php",
+		"/C/xampp/htdocs/kn2/application/views/members/shared/products/product_dropdown.php",
+		"/C/xampp/htdocs/kn2/css/new/sass/_buttons.scss",
+		"/C/xampp/htdocs/kn2/application/views/members/sales/my_affiliates/my_affiliates.php",
+		"/C/xampp/htdocs/kn2/application/views/members/shared/affiliate_modal/affiliate_details_modal_content.php",
+		"/C/xampp/htdocs/kn2/application/views/members/shared/affiliate_modal/affiliate_details_modal_main.php",
 		"/C/xampp/htdocs/kn2/application/views/members/main.php",
 		"/C/xampp/htdocs/kn2/application/views/members/transactions_list.php",
 		"/C/xampp/htdocs/kn2/application/controllers/members/communication/leads.php",
@@ -1015,7 +435,6 @@
 		"/C/xampp/htdocs/kn2/application/views/members/pages/dashboard.php",
 		"/C/xampp/htdocs/kn2/application/views/members/videos/video_dashboard.php",
 		"/C/xampp/htdocs/kn2/application/views/members/videos/playlist_dashboard.php",
-		"/C/xampp/htdocs/kn2/application/views/members/communications/tracking/tracking_links.php",
 		"/C/xampp/htdocs/kn2/application/views/members/communications/tags/tags_main.php",
 		"/C/xampp/htdocs/kn2/application/views/members/membership/dashboard.php",
 		"/C/xampp/htdocs/kn2/application/views/members/pages/sites/create.php",
@@ -1038,94 +457,11 @@
 		"/C/xampp/htdocs/kn2/application/views/members/leads/score_leads/rules.php",
 		"/C/xampp/htdocs/kn2/application/views/members/leads/statistics.php",
 		"/C/xampp/htdocs/kn2/application/views/members/leads/edit_lead.php",
-		"/C/xampp/htdocs/kn2/application/views/members/communications/statistics/lists/statistics_content.php",
 		"/C/xampp/htdocs/kn2/application/views/members/communications/optin/optin_create.php",
 		"/C/xampp/htdocs/kn2/application/views/members/sales/enterprise/payment_list.php",
 		"/C/xampp/htdocs/kartra_new/js/members/sellers/enterprise.js",
 		"/C/xampp/htdocs/kn2/application/views/members/shared/pagination.php",
-		"/C/Users/johnx_000/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/Default (Windows).sublime-keymap",
-		"/C/Users/johnx_000/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
-		"/C/xampp/htdocs/kn2/application/controllers/members/sales/affiliates.php",
-		"/C/xampp/htdocs/kn2/application/views/members/leads/statistics_content.php",
-		"/C/xampp/htdocs/kartra_new/css/new/sass/_variables.scss",
-		"/C/xampp/htdocs/kartra_new/application/views/members/leads/statistics.php",
-		"/C/xampp/htdocs/kartra_new/application/views/members/communications/statistics/tracking_links_content.php",
-		"/C/xampp/htdocs/kartra_new/application/views/members/leads/statistics_content.php",
-		"/C/xampp/mysql/bin/dealgcom_live_copy.sql",
-		"/C/Users/johnx_000/Documents/_Work/dealguardian/_playground/nucleo-webfonts-2-0/outline/scss/nucleo-outline.scss",
-		"/C/Users/johnx_000/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
-		"/C/Users/johnx_000/AppData/Roaming/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
-		"/C/xampp/htdocs/kartra_new/application/controllers/members/account/profile.php",
-		"/C/xampp/htdocs/kartra_new/application/controllers/bm4tw/users.php",
-		"/C/xampp/htdocs/kartra_new/application/views/members/main_portal.php",
-		"/C/xampp/htdocs/kartra_new/css/new/css/styles3.css",
-		"/C/xampp/htdocs/kartra_new/js/members/leads/sequences.js",
-		"/C/xampp/htdocs/kartra_new/application/views/helpdesk/helpdesk_support_tickets_replies.php",
-		"/C/xampp/htdocs/kartra_new/application/views/members/membership/reply_comment.php",
-		"/C/Users/johnx_000/Downloads/xxx/Czech Girl-Kitty Jane-4video/Kitty-Jane 1.wmv",
-		"/C/xampp/htdocs/kartra_new/application/views/members/membership/backend_config.php",
-		"/C/xampp/htdocs/kartra_new/application/views/members/sales/dashboard/dashboard.php",
-		"/C/xampp/htdocs/kartra_new/application/views/members/leads/statistics/broadcast_content.php",
-		"/C/xampp/htdocs/kartra_new/css/new/sass/_mixins.scss",
-		"/C/xampp/htdocs/kartra_new/css/new/sass/_integration.scss",
-		"/C/xampp/htdocs/kartra_new/css/new/sass/_modals.scss",
-		"/C/xampp/htdocs/kartra_new/css/new/sass/_support.scss",
-		"/C/xampp/htdocs/kartra/css/new/sass/styles3.scss",
-		"/C/xampp/htdocs/kartra/css/new/sass/styles3.css",
-		"/C/xampp/htdocs/wjcom/public/assets/plugin/css/styles.css",
-		"/C/xampp/htdocs/wjcom/public/assets/cp/css/styles_cp.css",
-		"/C/xampp/htdocs/wjcom/public/assets/cp/css/sidebar/styles.css",
-		"/C/xampp/htdocs/kartra/application/views/members/sellers/product_controller/product_tracking_codes.php",
-		"/C/xampp/htdocs/kartra/application/views/members/sellers/product_controller/product_checkout_popup.php",
-		"/C/xampp/htdocs/kartra/css/new/sass/_tracking_links.scss",
-		"/C/xampp/htdocs/kartra/application/views/members/videos/analytics_inside.php",
-		"/C/xampp/htdocs/kartra/application/views/members/leads/lists.php",
-		"/C/xampp/htdocs/wjnet/public/assets/plugin/css/styles_new.css",
-		"/C/xampp/htdocs/kartra/elements/page_1_2.html",
-		"/C/xampp/htdocs/kartra/elements/home13.html",
-		"/C/xampp/htdocs/kartra/elements/home16.html",
-		"/C/xampp/htdocs/kartra/elements/home17.html",
-		"/C/xampp/htdocs/kartra/elements/home14.html",
-		"/C/xampp/htdocs/kartra/elements/home15.html",
-		"/C/xampp/htdocs/kartra/elements/optin_holder8.html",
-		"/C/xampp/htdocs/kartra/elements/optin_holder9.html",
-		"/C/xampp/htdocs/kartra/elements/skeleton.html",
-		"/C/xampp/htdocs/kartra/elements/optin_holder2.html",
-		"/C/xampp/htdocs/kartra/elements/optin_holder3.html",
-		"/C/Windows/System32/drivers/etc/hosts",
-		"/C/xampp/htdocs/kartra/application/views/members/leads/optin/form_html_generator_js.php",
-		"/C/xampp/htdocs/kartra/elements/pricetable9.html",
-		"/C/xampp/htdocs/kartra/elements/pricetable8.html",
-		"/C/xampp/htdocs/kartra/elements/pricetable7.html",
-		"/C/xampp/htdocs/wjcom/public/assets/dashboard/v2/css/styles.css",
-		"/C/xampp/htdocs/kartra/application/views/members/sellers/viral_coupons_add.php",
-		"/C/xampp/htdocs/kartra/application/views/members/sellers/product_controller/product_creation_price_points_tags_dropdown.php",
-		"/C/xampp/htdocs/kartra/application/views/members/sellers/dashboard/dashboard.php",
-		"/C/xampp/htdocs/kartra/application/views/members/subaccounts/member_team.php",
-		"/C/xampp/htdocs/kartra/application/views/members/transaction_page.php",
-		"/C/xampp/htdocs/kartra/css/modal_checkout_styles_new.css",
-		"/C/xampp/htdocs/kartra/application/views/members/transaction_page_frame.php",
-		"/C/xampp/htdocs/kartra/application/views/members/transaction_page_modal.php",
-		"/C/xampp/htdocs/kartra/css/modal_checkout_styles.css",
-		"/C/xampp/htdocs/kartra/elements/css/style-block.css",
-		"/C/xampp/htdocs/kartra/css/new/sass/_sequence.scss",
-		"/C/xampp/htdocs/wjcom/app/views/plugin/app.blade.php",
-		"/C/xampp/htdocs/wjcom/public/assets/plugin/css/styles2.css",
-		"/C/xampp/htdocs/wjcom/app/views/plugin/cp.blade.php",
-		"/C/xampp/htdocs/wjcom/public/assets/plugin/css/styles_new.css",
-		"/C/xampp/htdocs/kartra/elements/checkout_holder3.html",
-		"/C/xampp/htdocs/kartra/elements/css/style-checkout-all.css",
-		"/C/xampp/htdocs/kartra/application/views/members/my_account_payment_method.php",
-		"/C/xampp/htdocs/kartra/elements/css/overlay.scss",
-		"/C/xampp/htdocs/kartra/application/views/members/transaction_page_suspended_modal.php",
-		"/C/xampp/htdocs/kartra/application/views/members/transaction_page_suspended_frame.php",
-		"/C/xampp/htdocs/kartra/application/views/members/leads/lead_details.php",
-		"/C/xampp/htdocs/kartra/application/views/members/main_customer.php",
-		"/C/xampp/htdocs/kartra/js/members/sellers/portal.js",
-		"/C/xampp/htdocs/kartra/application/views/product_image.php",
-		"/C/xampp/htdocs/kartra/application/views/members/sellers/portal/membership_front.php",
-		"/C/xampp/htdocs/kartra/css/new/sass/_goals_tracking.scss",
-		"/C/xampp/htdocs/kartra/css/new/sass/_user_profile.scss"
+		"/C/Users/johnx_000/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/Default (Windows).sublime-keymap"
 	],
 	"find":
 	{
@@ -1143,6 +479,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"watch this brief",
+			"watch a brief",
+			"watcha brief",
+			"View a video",
+			"collapse_task",
+			"Activity description and/or instructions",
+			"container ",
+			"mini-bar",
+			"hoose a background image that will be visible thr",
+			"video",
+			" i ",
+			"main_men",
+			"logo",
 			"{product_image}",
 			"product_ima",
 			"flat_icon_box",
@@ -1257,20 +606,7 @@
 			"Finish",
 			"float-bottom",
 			"My leads",
-			"popover",
-			"mainsearch-block",
-			"Search",
-			"mainsearch-block",
-			"form",
-			"Sales Analytics",
-			"form",
-			"Video analytics",
-			"action_block",
-			"JV broker sales",
-			"<form",
-			"tag-stats",
-			"icon",
-			"Membership analytics"
+			"popover"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1278,6 +614,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			" I ",
 			"$primary_blue",
 			"bar-color-4",
 			"bar-color-3",
@@ -1379,11 +716,41 @@
 	"groups":
 	[
 		{
-			"selected": 32,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35253,
+								33848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8545.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
 					"file": "in-news.html",
 					"semi_transient": false,
 					"settings":
@@ -1406,57 +773,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 238.0,
+						"translation.y": 56.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 66,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "new-quest.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 57307,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1983,
-								1983
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 78.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 55,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "index.html",
+					"file": "new-quest.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 34020,
+						"buffer_size": 60472,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								13223,
-								13223
+								36133,
+								36133
 							]
 						],
 						"settings":
@@ -1466,100 +803,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2616.0,
+						"translation.y": 6656.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 50,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/my_affiliates/my_affiliates.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5241,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5162,
-								5162
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 68,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/shared/affiliate_modal/affiliate_details_modal_content.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 27051,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								27051,
-								27051
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 9018.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 69,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/shared/affiliate_modal/affiliate_details_modal_main.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 545,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 49,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
 					"file": "team.html",
 					"semi_transient": false,
 					"settings":
@@ -1571,8 +822,8 @@
 						"selection":
 						[
 							[
-								2112,
-								2112
+								10780,
+								10780
 							]
 						],
 						"settings":
@@ -1582,27 +833,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2301.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 54,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 4,
 					"file": "terms-of-service.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 53237,
+						"buffer_size": 56096,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4398,
-								4398
+								39719,
+								39719
 							]
 						],
 						"settings":
@@ -1612,27 +863,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 13.0,
+						"translation.y": 3228.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 93,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 5,
 					"file": "privacy.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 24338,
+						"buffer_size": 24519,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10280,
-								8224
+								9038,
+								9038
 							]
 						],
 						"settings":
@@ -1642,14 +893,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1404.0,
+						"translation.y": 1014.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 53,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 6,
 					"file": "blog.html",
 					"semi_transient": false,
 					"settings":
@@ -1672,14 +923,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 312.0,
+						"translation.y": 130.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 52,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 7,
 					"file": "blogpost_challenges_mobile_advertising.html",
 					"semi_transient": false,
 					"settings":
@@ -1705,24 +956,24 @@
 						"translation.y": 393.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 51,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 8,
 					"file": "faq.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 24243,
+						"buffer_size": 28550,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7121,
-								7121
+								3716,
+								3719
 							]
 						],
 						"settings":
@@ -1732,2421 +983,44 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 416.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 94,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "sass/styles.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 63069,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								60423,
-								60426
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 32195.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 47,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "/C/xampp/htdocs/kn2/css/new/sass/_buttons.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 31906,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16571,
-								16551
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9406.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 31,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/shared/products/product_dropdown.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1509,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								651,
-								651
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_products/dashboard.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 33621,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								17868,
-								17883
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4678.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/leads/tracking_links.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 46115,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16822,
-								16837
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 5007.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/communications/tracking/tracking_links.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 43205,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15875,
-								15890
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 4808.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_products/dashboard_more_products.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 27355,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2987,
-								3002
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 258.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_products/dashboard_more_products_old.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 25899,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2987,
-								3002
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 258.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 20,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sellers/dashboard/dashboard_more_products.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 28486,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16533,
-								16548
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3313.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 21,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/coupons/viral_coupons_add.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 14286,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1146,
-								1161
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 22,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/coupons/fb_coupons_add.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11355,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								859,
-								874
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 23,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/products/product_creation_upsell_section.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15226,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								262,
-								277
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 305.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 24,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/my_earnings/my_account_your_credits_kartra_payments.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1245,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								726,
-								741
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 25,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/affiliates/dashboard_to_be_deleted/dashboard_more_niche_products_upcoming.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2590,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								633,
-								648
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 26,
-					"file": "/C/xampp/htdocs/kn2/application/views/checkout/transaction_page_product_activation.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22143,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9731,
-								9746
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 359.0,
-						"translation.y": 3586.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 27,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/bonus/add_new_bonus.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 14029,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4751,
-								4766
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 791.0,
+						"translation.y": 269.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 28,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/enterprise/affiliate_details.php",
+					"buffer": 9,
+					"file": "sass/styles.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10921,
+						"buffer_size": 63540,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5891,
-								5906
+								6181,
+								6181
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1584.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 29,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/show_more_my_purchases.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5677,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								263,
-								278
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3466.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 30,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/buyers_my_purchases.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 17807,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3021,
-								3036
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 492.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 31,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/buyers/show_more_my_purchases.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5673,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1274,
-								1274
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 32,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/buyers_profile.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34423,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								24993,
-								24993
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 8279.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 33,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/buyers/buyers_purchase_transactions.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1457,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								716,
-								731
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 34,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/search_marketplace_results.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3735,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1394,
-								1424
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 27,
-					"type": "text"
-				},
-				{
-					"buffer": 35,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/main_header.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 14971,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1495,
-								1303
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 39,
-					"type": "text"
-				},
-				{
-					"buffer": 36,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/main_affiliate.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6655,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 38,
-					"type": "text"
-				},
-				{
-					"buffer": 37,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/main_marketing.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 42447,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1378,
-								1378
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 221.0,
-						"translation.y": 78.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 37,
-					"type": "text"
-				},
-				{
-					"buffer": 38,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/main_header_light.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22596,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1338,
-								1338
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 221.0,
-						"translation.y": -0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 26,
-					"type": "text"
-				},
-				{
-					"buffer": 39,
-					"file": "/C/xampp/htdocs/kn2/application/views/front/main_no_stuff.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1606,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								335,
-								335
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 36,
-					"type": "text"
-				},
-				{
-					"buffer": 40,
-					"file": "/C/xampp/htdocs/kn2/application/views/front/main_suspended.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7343,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1988,
-								1988
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 221.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 35,
-					"type": "text"
-				},
-				{
-					"buffer": 41,
-					"file": "/C/xampp/htdocs/kn2/application/views/front/main_index_page.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 14796,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1949,
-								1949
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 221.0,
-						"translation.y": -0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 34,
-					"type": "text"
-				},
-				{
-					"buffer": 42,
-					"file": "/C/xampp/htdocs/kn2/application/views/front/main_no_style.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 30339,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2312,
-								2312
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 221.0,
-						"translation.y": -0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 33,
-					"type": "text"
-				},
-				{
-					"buffer": 43,
-					"file": "/C/xampp/htdocs/kn2/application/views/front/main_customer_login.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15640,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1812,
-								1812
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 221.0,
-						"translation.y": -0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 29,
-					"type": "text"
-				},
-				{
-					"buffer": 44,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/my_account_alert.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7179,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								361,
-								361
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 25,
-					"type": "text"
-				},
-				{
-					"buffer": 45,
-					"file": "/C/xampp/htdocs/kn2/application/views/front/main_light_footer_only.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3585,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								955,
-								955
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 221.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 24,
-					"type": "text"
-				},
-				{
-					"buffer": 46,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/main_error_template.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3963,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								861,
-								861
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 221.0,
-						"translation.y": -0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 32,
-					"type": "text"
-				},
-				{
-					"buffer": 47,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/main_customer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 23955,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1372,
-								1372
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 221.0,
-						"translation.y": 54.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 46,
-					"type": "text"
-				},
-				{
-					"buffer": 48,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/main_buyers.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 23935,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1180,
-								1180
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 42,
-					"type": "text"
-				},
-				{
-					"buffer": 49,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/main_affiliate_page.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8344,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8344,
-								8344
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2873.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 41,
-					"type": "text"
-				},
-				{
-					"buffer": 50,
-					"file": "/C/xampp/htdocs/kn2/application/views/marketplace_main_new.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6423,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6414,
-								6414
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2197.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 22,
-					"type": "text"
-				},
-				{
-					"buffer": 51,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/main_affiliate_menu.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4277,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 156.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 23,
-					"type": "text"
-				},
-				{
-					"buffer": 52,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/main_portal.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15260,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1180,
-								1180
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 40,
-					"type": "text"
-				},
-				{
-					"buffer": 53,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/membership/backend_config.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 113083,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								86662,
-								86662
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 82.0,
-						"translation.y": 23584.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 45,
-					"type": "text"
-				},
-				{
-					"buffer": 54,
-					"file": "/C/xampp/htdocs/kn2/css/new/sass/_membership_backend.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 23424,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								19083,
-								19083
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9861.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 44,
-					"type": "text"
-				},
-				{
-					"buffer": 55,
-					"file": "/C/xampp/htdocs/kn2/application/views/front/main_checkout.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8482,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1796,
-								1796
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 43,
-					"type": "text"
-				},
-				{
-					"buffer": 56,
-					"file": "/C/xampp/htdocs/kn2/css/new/sass/_transaction_page.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 42951,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								42951,
-								42951
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 25844.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 28,
-					"type": "text"
-				},
-				{
-					"buffer": 57,
-					"file": "/C/xampp/htdocs/kn2/application/views/checkout/transaction_page.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 89593,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								40575,
-								40575
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 12686.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 64,
-					"type": "text"
-				},
-				{
-					"buffer": 58,
-					"file": "/C/xampp/htdocs/kn2/application/views/checkout/transaction_page_frame.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 126325,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								119080,
-								119083
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 30223.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 20,
-					"type": "text"
-				},
-				{
-					"buffer": 59,
-					"file": "/C/xampp/htdocs/kn2/css/modal_checkout_styles.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 57703,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								41802,
-								41819
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 24095.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 60,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/ipn/ipn_existing_rows.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1595,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								485,
-								474
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 67,
-					"type": "text"
-				},
-				{
-					"buffer": 61,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/membership_scripts/membership_add_edit.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 35537,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								35537,
-								35537
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 8760.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 82,
-					"type": "text"
-				},
-				{
-					"buffer": 62,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/products/product_checkout_popup.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1890,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								499,
-								499
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 65,
-					"type": "text"
-				},
-				{
-					"buffer": 63,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/communications/goals/goals.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 78038,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								44786,
-								44786
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 11009.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 81,
-					"type": "text"
-				},
-				{
-					"buffer": 64,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/products/product_creation_price_points_tags_dropdown.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1536,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1536,
-								1536
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 80,
-					"type": "text"
-				},
-				{
-					"buffer": 65,
-					"file": "/C/xampp/htdocs/kn2/css/new/sass/_affiliates_page.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4184,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2353.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 56,
-					"type": "text"
-				},
-				{
-					"buffer": 66,
-					"file": "/C/xampp/htdocs/kn2/css/new/sass/styles3.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 271514,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								250774,
-								250774
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 137620.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 48,
-					"type": "text"
-				},
-				{
-					"buffer": 67,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/communications/statistics/statistics.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 57124,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								45320,
-								45329
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 14900.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 72,
-					"type": "text"
-				},
-				{
-					"buffer": 68,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/communications/statistics/lists/statistics_content.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19016,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								157,
-								161
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 71,
-					"type": "text"
-				},
-				{
-					"buffer": 69,
-					"file": "/C/xampp/htdocs/kn2/application/controllers/members/design_test.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9487,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								983,
-								995
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": -0.0,
-						"translation.y": 312.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 70,
-					"type": "text"
-				},
-				{
-					"buffer": 70,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/account/profile/my_account_profile.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 36062,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								26433,
-								26435
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5657.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 79,
-					"type": "text"
-				},
-				{
-					"buffer": 71,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sellers/enterprise/affiliate_details.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10220,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6747,
-								6747
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1666.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 73,
-					"type": "text"
-				},
-				{
-					"buffer": 72,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/products/product_generate_buttons.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5856,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								723,
-								723
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 85,
-					"type": "text"
-				},
-				{
-					"buffer": 73,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/ipn/ipn_add_edit.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9896,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7300,
-								7300
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2182.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 84,
-					"type": "text"
-				},
-				{
-					"buffer": 74,
-					"file": "/C/xampp/htdocs/kn2/css/new/sass/_modals.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 254732,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								62307,
-								62307
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 34348.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 83,
-					"type": "text"
-				},
-				{
-					"buffer": 75,
-					"file": "/C/xampp/htdocs/kn2/css/modal_checkout_styles_new.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 52854,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31467,
-								31467
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 17877.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 63,
-					"type": "text"
-				},
-				{
-					"buffer": 76,
-					"file": "/C/xampp/htdocs/kn2/css/new/sass/_line-icons.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 57626,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								39329,
-								39392
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 35440.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 87,
-					"type": "text"
-				},
-				{
-					"buffer": 77,
-					"file": "/C/xampp/htdocs/kn2/application/views/checkout/transaction_page_modal.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 103755,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								27019,
-								27019
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5540.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 86,
-					"type": "text"
-				},
-				{
-					"buffer": 78,
-					"file": "/C/xampp/htdocs/en_repo/web-api/html_template/css/styles.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 43489,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9130,
-								9130
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4388.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 74,
-					"type": "text"
-				},
-				{
-					"buffer": 79,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/analytics/sales_reports.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 33061,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								30612,
-								30626
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 11065.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 78,
-					"type": "text"
-				},
-				{
-					"buffer": 80,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/analytics/funnel_sales_details.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10993,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2034,
-								2034
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 143.0,
-						"translation.y": 167.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 62,
-					"type": "text"
-				},
-				{
-					"buffer": 81,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/affiliate_analytics_to_be_deleted/funnel_sales_details.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7971,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								406,
-								406
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 61,
-					"type": "text"
-				},
-				{
-					"buffer": 82,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sellers/sales_reports.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 54081,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								29643,
-								29643
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 874.0,
-						"translation.y": 6875.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 76,
-					"type": "text"
-				},
-				{
-					"buffer": 83,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/affiliate_analytics/funnel_sales_details.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8066,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1761,
-								1761
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 41.0,
-						"translation.y": 297.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 60,
-					"type": "text"
-				},
-				{
-					"buffer": 84,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/affiliate/jv_analytics/funnel_sales_details_jv.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13454,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								436,
-								444
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 59,
-					"type": "text"
-				},
-				{
-					"buffer": 85,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/sales/jv_analytics/funnel_sales_details_jv.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11848,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								237,
-								237
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 58,
-					"type": "text"
-				},
-				{
-					"buffer": 86,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/affiliates/funnel_sales_details.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7964,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1581,
-								1581
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 77,
-					"type": "text"
-				},
-				{
-					"buffer": 87,
-					"file": "/C/xampp/htdocs/kn2/application/views/members/jvs/funnel_sales_details.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6907,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1832,
-								1832
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 271.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 57,
-					"type": "text"
-				},
-				{
-					"buffer": 88,
-					"file": "/C/xampp/htdocs/kn2/css/new/sass/_analytics.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19575,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4186,
-								4186
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1508.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 75,
-					"type": "text"
-				},
-				{
-					"buffer": 89,
-					"file": "/C/xampp/htdocs/en_repo/web-api/html_template/sass/styles.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 50566,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9302,
-								9302
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5798.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 90,
-					"type": "text"
-				},
-				{
-					"buffer": 90,
-					"file": "/C/xampp/htdocs/en_repo/web-api/html_template/11_login_register_screen_coupon.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4516,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4157,
-								4160
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 52.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 89,
-					"type": "text"
-				},
-				{
-					"buffer": 91,
-					"file": "/C/xampp/htdocs/en_repo/web-api/html_template/10_quest7_screen_manual_coupon.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4496,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2671,
-								2671
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 390.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 91,
-					"type": "text"
-				},
-				{
-					"buffer": 92,
-					"file": "/C/Users/johnx_000/Documents/_Work/eagleNinja/new_stuff/emails/quest_coupon_btn.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6647,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2797,
-								2797
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 71.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 88,
-					"type": "text"
-				},
-				{
-					"buffer": 93,
+					"buffer": 10,
 					"file": "sass/_max992.scss",
 					"semi_transient": false,
 					"settings":
@@ -4172,11 +1046,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 101,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
-					"buffer": 94,
+					"buffer": 11,
 					"file": "sass/_max480.scss",
 					"semi_transient": false,
 					"settings":
@@ -4202,11 +1076,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 92,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 95,
+					"buffer": 12,
 					"file": "sass/_max768.scss",
 					"semi_transient": false,
 					"settings":
@@ -4232,11 +1106,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 100,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 96,
+					"buffer": 13,
 					"file": "sass/_max1150.scss",
 					"semi_transient": false,
 					"settings":
@@ -4262,11 +1136,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 99,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 97,
+					"buffer": 14,
 					"file": "sass/_max1360.scss",
 					"semi_transient": false,
 					"settings":
@@ -4278,8 +1152,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								293,
+								293
 							]
 						],
 						"settings":
@@ -4292,11 +1166,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 98,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 98,
+					"buffer": 15,
 					"file": "sass/_agency_page.scss",
 					"semi_transient": false,
 					"settings":
@@ -4322,11 +1196,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 97,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 99,
+					"buffer": 16,
 					"file": "sass/_animations.scss",
 					"semi_transient": false,
 					"settings":
@@ -4352,11 +1226,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 96,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 100,
+					"buffer": 17,
 					"file": "sass/_variables.scss",
 					"semi_transient": false,
 					"settings":
@@ -4380,11 +1254,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 30,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 101,
+					"buffer": 18,
 					"file": "sass/_mixins.scss",
 					"semi_transient": false,
 					"settings":
@@ -4408,7 +1282,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 95,
+					"stack_index": 13,
 					"type": "text"
 				}
 			]
@@ -4453,7 +1327,7 @@
 	"project": "poject.sublime-project",
 	"replace":
 	{
-		"height": 38.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":

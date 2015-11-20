@@ -186,9 +186,14 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <ul id="draggablePanelList" class="task_list">
+
+
+<!-- WATCH VIDEO -->
                         <li class="panel panel-info">
                           <div class="panel-heading"><i class="fa fa-arrows"></i></div>
                           <div class="panel-body">
+
+<!-- MINIMIZED -->
                             <div class="minimized" style="display: none;">
                               <div class="form-group new_input col-left validated col-sm-8">
                                 <label for="">Activity description and/or instructions</label>
@@ -197,41 +202,21 @@
                               <div class="form-group new_input col-right col-sm-4">
                                 <label for="">Type</label>
                                 <h5>
-                                Single choice
+                                Watch a video
                                 </h5>
                               </div>
                               <div class="clearfix"></div>
                             </div>
+<!-- // MINIMIZED -->     
+<!-- MAXIMIZED -->
                             <div class="full form-horizontal" style="">
                               <div class="form-group">
                                 <label for="inputEmail3" class="col-sm-5 control-label">Type</label>
                                 <div class="col-sm-7">
-                                  <select class="form-control questType" disabled>
-                                    <option disabled>
-                                      Select Quest type
-                                    </option>
-                                    <option selected value="quest_video_upload">
-                                      View a video
-                                    </option>
-                                    <option value="quest_single_choice">
-                                      Single choice
-                                    </option>
-                                    <option value="quest_multiple_choice">
-                                      Multiple choice
-                                    </option>
-                                    <option value="quest_rating">
-                                      Rating
-                                    </option>
-                                    <option value="quest_text_answer">
-                                      Text answer
-                                    </option>
-                                    <option value="quest_take_picture">
-                                      Take a picture
-                                    </option>
-                                    <option value="quest_action_task">
-                                      Action task
-                                    </option>
-                                  </select>
+                                      <div class="static-input">
+                                      Watch a video
+                                      </div>
+
                                 </div>
                               </div>
                               <div class="form-group">
@@ -244,98 +229,79 @@
                                 <div class="col-sm-offset-5 col-sm-7">
                                   <div class="quest_video_upload" style="">
                                     <a href="javascript:void()">
-                                      <span>Browse</span>
                                       <input type="file" data-id="video" accept="video/*" data-filename-placement="inside" data-jq-val="video" data-jq-toggle="enabled" style="">
                                     </a>
-                                  </div>
-                                  <div class="quest_image_upload" style="display: none;">
-                                    <div class="input-group" style="width: 100%;">
-                                      <div data-id="photo" data-jq-toggle="editable">
-                                        <div>
-                                          <input type="file" data-id="photo_file" style="display: none">
-                                          <div class="modal fade" data-id="crop_photo_modal">
-                                            <div class="modal-dialog">
-                                              <div class="modal-content">
-                                                <div class="modal-header">
-                                                  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                                                  <h4 class="modal-title">Select the part of the image you want to display</h4>
-                                                </div>
-                                                <div class="modal-body">
-                                                  <div class="error"></div>
-                                                  <div data-id="pic_box" class="pic_box">
-                                                    <img src="images/no_image.png" alt="no image" data-id="photo_preview" class="empty_image">
-                                                  </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                  <button type="button" class="btn btn-default" data-dismiss="modal" data-id="crop_modal_cancel_btn">Close</button>
-                                                  <button type="button" class="btn btn-grey" data-id="crop_modal_accept_btn">Save changes</button>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <div class="outer_pic row" data-id="outer_pic">
-                                            <div class="inner_pic col-xs-4" data-id="photo_div">
-                                              <img data-id="no_image" src="images/no_image.png" alt="Please, select an image" class="empty_image">
-                                              <img data-id="photo" style="display: none;">
-                                            </div>
-                                            <div class="right-box col-xs-8">
-                                              <p data-id="text">
-                                                <span data-jq-text="msg">Choose a background image that will be visible throughout the Quest.</span><br><span>Photo must be <span data-jq-text="width">416</span>x<span data-jq-text="height">170</span> pixels minimum</span><br><span>Valid extensions are: <span data-jq-text="extensions">png, jpg, jpeg</span></span><br><label data-id="validation_msg" class="error" style="display:none">The image is required</label>
-                                              </p>
-                                              <div class="clearfix"></div>
-                                              <div style="margin-top: 10px">
-                                                <button type="button" class="btn btn-grey " data-id="photo_btn">
-                                                <span style="margin-right: 5px" class="fa fa-file"></span> Select image
-                                                </button>
-                                                
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <div data-id="photo_effects"></div>
-                                        </div>
-                                      </div>
+                                    <div class="help-block">
+                                        <p>Free Mobile Quests are limited to only one video per Quest, of a maximum of 15MB. In Premium Quests you can set up as many Video tasks as you like, and with larger size video files.</p>
                                     </div>
+
                                   </div>
                                 </div>
                               </div>
-                              
-                              <div class="quest_single_choice" style="display: none;">
-                                <div class="form-group new_input">
-                                  <label for="">Options <small>(coma separated)</small></label>
-                                  <input type="text" class="form-control" id="" placeholder="Enter options" value="">
-                                </div>
-                              </div>
-                              <div class="quest_multiple_choice" style="display: none;">
-                                <div class="form-group new_input">
-                                  <label for="">Options <small>(coma separated)</small></label>
-                                  <input type="text" class="form-control" id="" placeholder="Enter options" value="">
-                                </div>
-                              </div>
-                              <div class="quest_rating" style="display: none;">
-                              </div>
-                              <div class="quest_text_answer" style="display: none;">
-                              </div>
-                              <div class="quest_take_picture" style="display: none;">
-                              </div>
-                              <div class="quest_html_container" style="display: none;">
-                                <div class="form-group new_input">
-                                  <label for="">URL</label>
-                                  <input type="url" class="form-control" id="" placeholder="Enter URL" value="">
-                                </div>
-                              </div>
-                            </div>
+                             
+                          </div>
+<!-- // MAXIMIZED -->
                           </div>
                           <button type="button" class="collapse_task" data-toggle2="tooltip" title="Collapse Task"><i class="fa fa-minus"></i></button>
                           <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Task"><i class="fa fa-times"></i></button>
                         </li>
+<!-- // WATCH VIDEO -->
+<!-- TAKE A PICTURE/UPLOAD IMAGE -->
                         <li class="panel panel-info">
                           <div class="panel-heading"><i class="fa fa-arrows"></i>
                           </div>
                           <div class="panel-body">
+<!-- MINIMIZED -->                                                      
                             <div class="minimized" style="display: none;">
                               <div class="form-group new_input col-left validated col-sm-8">
                                 <label for="">Activity description and/or instructions</label>
                                 <h5>Take a Selfie or Upload the screenshot you just took</h5>
+                              </div>
+                              <div class="form-group new_input col-right col-sm-4">
+                                <label for="">Type</label>
+                                <h5>
+                                Take a picture
+                                </h5>
+                              </div>
+                              <div class="clearfix"></div>
+                              <button type="button" class="collapse_task" data-toggle2="tooltip" title="Expand Task"><i class="fa fa-plus"></i></button>
+                              <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Task"><i class="fa fa-times"></i></button>
+                            </div>
+<!-- // MINIMIZED -->     
+<!-- MAXIMIZED -->
+                            <div class="full form-horizontal" style="">
+                              <div class="form-group">
+                                <label for="inputEmail3" class="col-sm-5 control-label">Type</label>
+                                <div class="col-sm-7">
+                                      <div class="static-input">
+                                      Take a picture
+                                      </div>
+                                </div>
+                              </div>
+                              <div class="form-group">
+                                <label for="inputEmail3" class="col-sm-5 control-label">Activity description and/or instructions</label>
+                                <div class="col-sm-7">
+                                  <textarea name="editorT2" id="editorT2" rows="10" cols="80" class="form-control" placeholder="Enter question">Take a Selfie <br/><br/>OR<br /><br/>Upload the screenshot you just took<br /><br/>OR similar instructions</textarea>
+                                </div>
+                              </div>
+                             
+                            </div>
+<!-- // MAXIMIZED -->
+                          </div>
+                          <button type="button" class="collapse_task" data-toggle2="tooltip" title="Collapse Task"><i class="fa fa-minus"></i></button>
+                          <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Quest"><i class="fa fa-times"></i></button>
+                        </li>
+<!-- // TAKE A PICTURE/UPLOAD IMAGE -->                        
+<!-- SINGLE CHOICE -->
+                        <li class="panel panel-info">
+                          <div class="panel-heading"><i class="fa fa-arrows"></i>
+                          </div>
+                          <div class="panel-body">
+<!-- MINIMIZED -->                                                      
+                            <div class="minimized" style="display: none;">
+                              <div class="form-group new_input col-left validated col-sm-8">
+                                <label for="">Activity description and/or instructions</label>
+                                <h5>Here you can set up a question where the participant is obliged to select only one of the potential answers. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.</h5>
                               </div>
                               <div class="form-group new_input col-right col-sm-4">
                                 <label for="">Type</label>
@@ -347,132 +313,189 @@
                               <button type="button" class="collapse_task" data-toggle2="tooltip" title="Expand Task"><i class="fa fa-plus"></i></button>
                               <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Task"><i class="fa fa-times"></i></button>
                             </div>
+<!-- // MINIMIZED -->
+<!-- MAXIMIZED -->
                             <div class="full form-horizontal" style="">
                               <div class="form-group">
                                 <label for="inputEmail3" class="col-sm-5 control-label">Type</label>
                                 <div class="col-sm-7">
-                                  <select class="form-control questType" disabled>
-                                    <option disabled>
-                                      Select Quest type
-                                    </option>
-                                    <option value="quest_video_upload">
-                                      View a video
-                                    </option>
-                                    <option value="quest_single_choice">
+                                      <div class="static-input">
                                       Single choice
-                                    </option>
-                                    <option value="quest_multiple_choice">
-                                      Multiple choice
-                                    </option>
-                                    <option value="quest_rating">
-                                      Rating
-                                    </option>
-                                    <option value="quest_text_answer">
-                                      Text answer
-                                    </option>
-                                    <option selected value="quest_take_picture">
-                                      Take a picture
-                                    </option>
-                                    <option value="quest_action_task">
-                                      Action task
-                                    </option>
-                                  </select>
+                                      </div>
                                 </div>
                               </div>
                               <div class="form-group">
                                 <label for="inputEmail3" class="col-sm-5 control-label">Activity description and/or instructions</label>
                                 <div class="col-sm-7">
-                                  <textarea name="editorT2" id="editorT2" rows="10" cols="80" class="form-control" placeholder="Enter question">Take a Selfie <br/><br/>OR<br /><br/>Upload the screenshot you just took<br /><br/>OR similar instructions</textarea>
-                                </div>
-                              </div>
-                              <div class="form-group">
-                                <div class="col-sm-offset-5 col-sm-7">
-                                  <div class="quest_video_upload" style="display: none;">
-                                    <a href="javascript:void()">
-                                      <span>Browse</span>
-                                      <input type="file" data-id="video" accept="video/*" data-filename-placement="inside" data-jq-val="video" data-jq-toggle="enabled" style="">
-                                    </a>
-                                  </div>
-                                  <div class="quest_image_upload" style="">
-                                    <div class="input-group" style="width: 100%;">
-                                      <div data-id="photo" data-jq-toggle="editable">
-                                        <div>
-                                          <input type="file" data-id="photo_file" style="display: none">
-                                          <div class="modal fade" data-id="crop_photo_modal">
-                                            <div class="modal-dialog">
-                                              <div class="modal-content">
-                                                <div class="modal-header">
-                                                  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                                                  <h4 class="modal-title">Select the part of the image you want to display</h4>
-                                                </div>
-                                                <div class="modal-body">
-                                                  <div class="error"></div>
-                                                  <div data-id="pic_box" class="pic_box">
-                                                    <img src="images/no_image.png" alt="no image" data-id="photo_preview" class="empty_image">
-                                                  </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                  <button type="button" class="btn btn-default" data-dismiss="modal" data-id="crop_modal_cancel_btn">Close</button>
-                                                  <button type="button" class="btn btn-grey" data-id="crop_modal_accept_btn">Save changes</button>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <div class="outer_pic row" data-id="outer_pic">
-                                            <div class="inner_pic col-xs-4" data-id="photo_div">
-                                              <img data-id="no_image" src="images/no_image.png" alt="Please, select an image" class="empty_image">
-                                              <img data-id="photo" style="display: none;">
-                                            </div>
-                                            <div class="right-box col-xs-8">
-                                              <p data-id="text">
-                                                <span data-jq-text="msg">Choose a background image that will be visible throughout the Quest.</span><br><span>Photo must be <span data-jq-text="width">416</span>x<span data-jq-text="height">170</span> pixels minimum</span><br><span>Valid extensions are: <span data-jq-text="extensions">png, jpg, jpeg</span></span><br><label data-id="validation_msg" class="error" style="display:none">The image is required</label>
-                                              </p>
-                                              <div class="clearfix"></div>
-                                              <div style="margin-top: 10px">
-                                                <button type="button" class="btn btn-grey " data-id="photo_btn">
-                                                <span style="margin-right: 5px" class="fa fa-file"></span> Select image
-                                                </button>
-                                                
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <div data-id="photo_effects"></div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
+                                  <textarea name="editorT2" id="editorT2" rows="10" cols="80" class="form-control" placeholder="Enter question">Here you can set up a question where the participant is obliged to select only one of the potential answers. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.</textarea>
                                 </div>
                               </div>
                               
-                              <div class="quest_single_choice" style="display: none;">
+                              <div class="quest_single_choice" style="">
                                 <div class="form-group new_input">
-                                  <label for="">Options <small>(coma separated)</small></label>
+                                  <label class="col-sm-5 control-label" for="">Options </label>
+                                  <div class="col-sm-7">
                                   <input type="text" class="form-control" id="" placeholder="Enter options" value="">
-                                </div>
-                              </div>
-                              <div class="quest_multiple_choice" style="display: none;">
-                                <div class="form-group new_input">
-                                  <label for="">Options <small>(coma separated)</small></label>
-                                  <input type="text" class="form-control" id="" placeholder="Enter options" value="">
-                                </div>
-                              </div>
-                              <div class="quest_rating" style="display: none;">
-                              </div>
-                              <div class="quest_text_answer" style="display: none;">
-                              </div>
-                              <div class="quest_take_picture" style="display: none;">
-                              </div>
-                              <div class="quest_html_container" style="display: none;">
-                                <div class="form-group new_input">
-                                  <label for="">URL</label>
-                                  <input type="url" class="form-control" id="" placeholder="Enter URL" value="">
+                                  <div class="pull-right help-block"><small>Coma separated</small></div>
+                                  </div>
                                 </div>
                               </div>
                             </div>
+<!-- // MAXIMIZED -->
                           </div>
                           <button type="button" class="collapse_task" data-toggle2="tooltip" title="Collapse Task"><i class="fa fa-minus"></i></button>
                           <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Quest"><i class="fa fa-times"></i></button>
                         </li>
+<!-- // SINGLE CHOICE -->                        
+<!-- MULTI CHOICE -->
+                        <li class="panel panel-info">
+                          <div class="panel-heading"><i class="fa fa-arrows"></i>
+                          </div>
+                          <div class="panel-body">
+<!-- MINIMIZED -->                                                      
+                            <div class="minimized" style="display: none;">
+                              <div class="form-group new_input col-left validated col-sm-8">
+                                <label for="">Activity description and/or instructions</label>
+                                <h5>Here you can set up a question where the participant can select as many of the potential answers mas they like. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.</h5>
+                              </div>
+                              <div class="form-group new_input col-right col-sm-4">
+                                <label for="">Type</label>
+                                <h5>
+                                Multiple choice
+                                </h5>
+                              </div>
+                              <div class="clearfix"></div>
+                              <button type="button" class="collapse_task" data-toggle2="tooltip" title="Expand Task"><i class="fa fa-plus"></i></button>
+                              <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Task"><i class="fa fa-times"></i></button>
+                            </div>
+<!-- // MINIMIZED -->              
+<!-- MAXIMIZED -->
+                            <div class="full form-horizontal" style="">
+                              <div class="form-group">
+                                <label for="inputEmail3" class="col-sm-5 control-label">Type</label>
+                                <div class="col-sm-7">
+                                      <div class="static-input">
+                                      Multiple choice
+                                      </div>
+                                </div>
+                              </div>
+                              <div class="form-group">
+                                <label for="inputEmail3" class="col-sm-5 control-label">Activity description and/or instructions</label>
+                                <div class="col-sm-7">
+                                  <textarea name="editorT2" id="editorT2" rows="10" cols="80" class="form-control" placeholder="Enter question">Here you can set up a question where the participant can select as many of the potential answers mas they like. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.</textarea>
+                                </div>
+                              </div>
+                              <div class="quest_multiple_choice" style="">
+                                <div class="form-group new_input">
+                                  <label class="col-sm-5 control-label" for="">Options </label>
+                                  <div class="col-sm-7">
+                                  <input type="text" class="form-control" id="" placeholder="Enter options" value="">
+                                  <div class="pull-right help-block"><small>Coma separated</small></div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+<!-- // MAXIMIZED -->
+                          </div>
+                          <button type="button" class="collapse_task" data-toggle2="tooltip" title="Collapse Task"><i class="fa fa-minus"></i></button>
+                          <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Quest"><i class="fa fa-times"></i></button>
+                        </li>
+<!-- // MULTI CHOICE -->                        
+<!-- ACTION TASK -->
+                        <li class="panel panel-info">
+                          <div class="panel-heading"><i class="fa fa-arrows"></i>
+                          </div>
+                          <div class="panel-body">
+<!-- MINIMIZED -->                                                      
+                            <div class="minimized" style="display: none;">
+                              <div class="form-group new_input col-left validated col-sm-8">
+                                <label for="">Activity description and/or instructions</label>
+                                <h5>Here you can direct participants to go to a specific physical location, or online destination, or both, or to download an app, or call a telephone number, or search for an item, etc. You can provide any kind of instruction (or explanation) as you like, and of course you can have as many of these types of "Activity Instruction" tasks as you like, in whatever order you like.</h5>
+                              </div>
+                              <div class="form-group new_input col-right col-sm-4">
+                                <label for="">Type</label>
+                                <h5>
+                                Action task
+                                </h5>
+                              </div>
+                              <div class="clearfix"></div>
+                              <button type="button" class="collapse_task" data-toggle2="tooltip" title="Expand Task"><i class="fa fa-plus"></i></button>
+                              <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Task"><i class="fa fa-times"></i></button>
+                            </div>
+<!-- // MINIMIZED -->               
+<!-- MAXIMIZED -->                                                                     
+                            <div class="full form-horizontal" style="">
+                              <div class="form-group">
+                                <label for="inputEmail3" class="col-sm-5 control-label">Type</label>
+                                <div class="col-sm-7">
+                                      <div class="static-input">
+                                      Action task
+                                      </div>
+
+                                  
+                                </div>
+                              </div>
+                              <div class="form-group">
+                                <label for="inputEmail3" class="col-sm-5 control-label">Activity description and/or instructions</label>
+                                <div class="col-sm-7">
+                                  <textarea name="editorT2" id="editorT2" rows="10" cols="80" class="form-control" placeholder="Enter question">Here you can direct participants to go to a specific physical location, or online destination, or both, or to download an app, or call a telephone number, or search for an item, etc. You can provide any kind of instruction (or explanation) as you like, and of course you can have as many of these types of "Activity Instruction" tasks as you like, in whatever order you like.</textarea>
+                                </div>
+                              </div>
+                            
+                            </div>
+<!-- // MAXIMIZED -->
+                          </div>
+                          <button type="button" class="collapse_task" data-toggle2="tooltip" title="Collapse Task"><i class="fa fa-minus"></i></button>
+                          <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Quest"><i class="fa fa-times"></i></button>
+                        </li>
+<!-- // ACTION TASK -->                        
+<!-- TEXT ANSWER -->
+                        <li class="panel panel-info">
+                          <div class="panel-heading"><i class="fa fa-arrows"></i>
+                          </div>
+                          <div class="panel-body">
+<!-- // MINIMIZED -->                                                      
+                            <div class="minimized" style="display: none;">
+                              <div class="form-group new_input col-left validated col-sm-8">
+                                <label for="">Activity description and/or instructions</label>
+                                <h5>Here you can set up a question where the participant verbally answers, and their answer is automatically transcribed (or they can also type the answer). You may want to point out to your audience that they can speak their answers out loud, using the microphone, and that their answer will be automatically transcribed.</h5>
+                              </div>
+                              <div class="form-group new_input col-right col-sm-4">
+                                <label for="">Type</label>
+                                <h5>
+                                Text answer
+                                </h5>
+                              </div>
+                              <div class="clearfix"></div>
+                              <button type="button" class="collapse_task" data-toggle2="tooltip" title="Expand Task"><i class="fa fa-plus"></i></button>
+                              <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Task"><i class="fa fa-times"></i></button>
+                            </div>
+<!-- // MINIMIZED -->             
+<!-- MAXIMIZED -->                                                                       
+                            <div class="full form-horizontal" style="">
+                              <div class="form-group">
+                                <label for="inputEmail3" class="col-sm-5 control-label">Type</label>
+                                <div class="col-sm-7">
+                                      <div class="static-input">
+                                      Text answer
+                                      </div>
+                                </div>
+                              </div>
+                              <div class="form-group">
+                                <label for="inputEmail3" class="col-sm-5 control-label">Activity description and/or instructions</label>
+                                <div class="col-sm-7">
+                                  <textarea name="editorT2" id="editorT2" rows="10" cols="80" class="form-control" placeholder="Enter question">Here you can set up a question where the participant verbally answers, and their answer is automatically transcribed (or they can also type the answer). You may want to point out to your audience that they can speak their answers out loud, using the microphone, and that their answer will be automatically transcribed.</textarea>
+                                </div>
+                              </div>
+                            
+                            </div>
+<!-- // MAXIMIZED -->
+                          </div>
+                          <button type="button" class="collapse_task" data-toggle2="tooltip" title="Collapse Task"><i class="fa fa-minus"></i></button>
+                          <button type="button" class="remove_task" data-toggle2="tooltip" title="Remove Quest"><i class="fa fa-times"></i></button>
+                        </li>
+<!-- // TEXT ANSWER -->                        
+
                       </ul>
                       <div class="text-center" style="margin: 20px 0 0 0">
                         <div class="btn-group">
@@ -480,13 +503,12 @@
                           <i style="margin-right: 10px" class="fa fa-plus"></i>Add activity <span class="caret"></span>
                           </button>
                           <ul class="dropdown-menu">
-                            <li><a href="#">View a video</a></li>
+                            <li><a href="#">Watch a video</a></li>
+                            <li><a href="#">Take a picture</a></li>
                             <li><a href="#">Single choice</a></li>
                             <li><a href="#">Multiple choice</a></li>
-                            <li><a href="#">Rating</a></li>
-                            <li><a href="#">Text answer</a></li>
-                            <li><a href="#">Take a picture</a></li>
                             <li><a href="#">Action task</a></li>
+                            <li><a href="#">Text answer</a></li>
                           </ul>
                         </div>
                       </div>
@@ -939,68 +961,115 @@
 
 <script type="text/javascript">
 $(document).ready(function() {
-$(".builder_step_list > li").hide();
-$(".builder_step_list > li:nth-child(1)").show();
-$(".btn-cyan").on("click", function(){
-var stepCurr = parseInt($(this).attr("rel"));
-$(".create-product-step-list-new > li:nth-child("+ (stepCurr +1) +") a").addClass("active");
-$(".builder_step_list > li:nth-child("+ stepCurr  +")").hide();
-$(".builder_step_list > li:nth-child("+ (stepCurr + 1) +")").show();
+    $(".builder_step_list > li").hide();
+    $(".builder_step_list > li:nth-child(1)").show();
+    $(".btn-cyan").on("click", function() {
+        var stepCurr = parseInt($(this).attr("rel"));
+        $(".create-product-step-list-new > li:nth-child(" + (stepCurr + 1) + ") a").addClass("active");
+        $(".builder_step_list > li:nth-child(" + stepCurr + ")").hide();
+        $(".builder_step_list > li:nth-child(" + (stepCurr + 1) + ")").show();
+    })
+    $(".btn-back").on("click", function() {
+        var stepCurr = parseInt($(this).attr("rel"));
+        $(".create-product-step-list-new > li:nth-child(" + (stepCurr) + ") a").removeClass("active");
+        $(".builder_step_list > li:nth-child(" + stepCurr + ")").hide();
+        $(".builder_step_list > li:nth-child(" + (stepCurr - 1) + ")").show();
+    })
+    jQuery(function($) {
+        var panelList = $('#draggablePanelList');
+        panelList.sortable({
+            // Only make the .panel-heading child elements support dragging.
+            // Omit this to make then entire <li>...</li> draggable.
+            handle: '.panel-heading',
+            update: function() {
+                $('.panel', panelList).each(function(index, elem) {
+                    var $listItem = $(elem),
+                        newIndex = $listItem.index();
+                    // Persist the new indices.
+                });
+            }
+        });
+    });
+    CKEDITOR.replace('editorTPcontent');
+    CKEDITOR.replace('editorT1');
+    CKEDITOR.replace('editorT2');
+    $('.input-daterange').datepicker({
+        startDate: "Today",
+        clearBtn: true,
+        autoclose: true,
+        todayHighlight: true,
+        defaultViewDate: {
+            year: 1977,
+            month: 04,
+            day: 25
+        }
+    });
+    $(".questType").on('change', function() {
+        var selectedOption = $(this).val();
+        $(this).parents(".task_block ul li").find('[class*="quest_"]').hide();
+        $(this).parents(".task_block ul li").find("." + selectedOption).fadeIn();
+    })
+    $(".collapse_task").on("click", function() {
+        if ($(this).hasClass("closed")) {
+            $(this).html("<i class='fa fa-minus'></i>");
+            $(this).siblings(".panel-body").find(".minimized").hide();
+            $(this).siblings(".panel-body").find(".full").fadeIn();
+            $(this).removeClass("closed");
+        } else {
+            $(this).html("<i class='fa fa-plus'></i>");
+            $(this).siblings(".panel-body").find(".minimized").fadeIn();
+            $(this).siblings(".panel-body").find(".full").hide();
+            $(this).addClass("closed");
+        }
+    })
+});
+
+
+//Check Mobile Devices
+var checkMobile = function() {
+    //Check Device
+    var isTouch = ('ontouchstart' in document.documentElement);
+    //Check Device //All Touch Devices
+    if (isTouch) {
+        $('html').addClass('touch');
+        $(".fixed-bar").addClass("mini-bar");
+        $(window).scroll({
+                previousTop: 0
+            },
+            function() {
+                var currentTop = $(window).scrollTop();
+                if (currentTop < this.previousTop) {} else {
+                    /*$(".fixed-bar").fadeOut(300);*/
+                    $(".fixed-bar").addClass("mini-bar");
+                }
+                this.previousTop = currentTop;
+            });
+    } else {
+        $('html').addClass('no-touch');
+        $(window).scroll({
+                previousTop: 0
+            },
+            function() {
+                var currentTop = $(window).scrollTop();
+                if (currentTop < this.previousTop) {
+                    /*$(".fixed-bar").fadeIn(500);*/
+                    $(".fixed-bar").removeClass("mini-bar");
+                } else {
+                    /*$(".fixed-bar").fadeOut(300);*/
+                    $(".fixed-bar").addClass("mini-bar");
+                }
+                this.previousTop = currentTop;
+            });
+    };
+};
+//Execute Check
+checkMobile();
+/*
+$(".fixed-bar").on("mouseover", function(){
+$(this).removeClass(".mini-bar");
 })
-$(".btn-back").on("click", function(){
-var stepCurr = parseInt($(this).attr("rel"));
-$(".create-product-step-list-new > li:nth-child("+ (stepCurr) +") a").removeClass("active");
-$(".builder_step_list > li:nth-child("+ stepCurr  +")").hide();
-$(".builder_step_list > li:nth-child("+ (stepCurr - 1) +")").show();
-})
-jQuery(function($) {
-var panelList = $('#draggablePanelList');
-panelList.sortable({
-// Only make the .panel-heading child elements support dragging.
-// Omit this to make then entire <li>...</li> draggable.
-handle: '.panel-heading',
-update: function() {
-$('.panel', panelList).each(function(index, elem) {
-var $listItem = $(elem),
-newIndex = $listItem.index();
-// Persist the new indices.
-});
-}
-});
-});
-CKEDITOR.replace('editorTPcontent');
-CKEDITOR.replace('editorT1');
-CKEDITOR.replace('editorT2');
-$('.input-daterange').datepicker({
-startDate: "Today",
-clearBtn: true,
-autoclose: true,
-todayHighlight: true,
-defaultViewDate: {
-year: 1977,
-month: 04,
-day: 25
-}
-});
-$(".questType").on('change', function() {
-var selectedOption = $(this).val();
-$(this).parents(".task_block ul li").find('[class*="quest_"]').hide();
-$(this).parents(".task_block ul li").find("." + selectedOption).fadeIn();
-})
-$(".collapse_task").on("click", function() {
-if ($(this).hasClass("closed")) {
-$(this).html("<i class='fa fa-minus'></i>");
-$(this).siblings(".minimized").hide();
-$(this).siblings(".full").fadeIn();
-$(this).removeClass("closed");
-} else {
-$(this).html("<i class='fa fa-plus'></i>");
-$(this).siblings(".minimized").fadeIn();
-$(this).siblings(".full").hide();
-$(this).addClass("closed");
-}
-})
-});
+*/
+
 </script>
 </body>
 </html>

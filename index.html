@@ -45,6 +45,7 @@
     $('#sponsors .bg').parallax("50%", 0.7);
     $('#how-does-it-work').parallax("50%", 0.3);
     $('#how-do-join').parallax("50%", 0.3);
+    $('#contact').parallax("50%", 0.3);
     })
     </script>
   </head>
@@ -71,7 +72,9 @@
               <li><a href="#pricing">Pricing</a></li>
               <li><a href="team.html">Who we are</a></li>
               <li><a href="in-news.html">In the News</a></li>
+              <li><a href="#contact">Contact</a></li>
               <li><a href="#clients">Clients</a></li>
+
             </ul>
             <!--
             <a href="javascript:void(0)" id="nav-show"><i class="fa fa-bars"></i></a>
@@ -202,6 +205,27 @@
         </div>
       </div>
     </div>
+    <div id="contact" class="pseudopage">
+
+      <div class="float-bottom">
+        <div class="container">
+          <div class="story row">
+            <div class="story-div col-xs-12 col-sm-8 col-sm-offset-2">
+              <h2><strong>Contact</strong></h2>
+              <p>541 Jefferson Ave, STE 100<br />
+                Redwood City, CA 94063<br />
+                +1 415 944 9279<br />
+                <a class="email" href="mailto:info@eaglenija.com">info@eaglenija.com</a>
+                </p>
+
+              
+              <p><a class="" data-toggle="modal" data-target="#sponsor-form" href="javascript:void(0)">Learn More</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>    
     <div id="clients" class="">
       <div class="float-bottom">
         <div class="container">
@@ -637,45 +661,41 @@ ga('create', 'UA-53060589-1', 'auto');
 ga('send', 'pageview');
 */
 //Check Mobile Devices
-var checkMobile = function(){
-//Check Device
-var isTouch = ('ontouchstart' in document.documentElement);
-//Check Device //All Touch Devices
-if ( isTouch ) {
-$('html').addClass('touch');
-$(".fixed-bar").addClass("mini-bar");
-$(window).scroll(
-{
-previousTop: 0
-},
-function () {
-var currentTop = $(window).scrollTop();
-if (currentTop < this.previousTop) {
-} else {
-/*$(".fixed-bar").fadeOut(300);*/
-$(".fixed-bar").addClass("mini-bar");
-}
-this.previousTop = currentTop;
-});
-}
-else {
-$('html').addClass('no-touch');
-$(window).scroll(
-{
-previousTop: 0
-},
-function () {
-var currentTop = $(window).scrollTop();
-if (currentTop < this.previousTop) {
-/*$(".fixed-bar").fadeIn(500);*/
-$(".fixed-bar").removeClass("mini-bar");
-} else {
-/*$(".fixed-bar").fadeOut(300);*/
-$(".fixed-bar").addClass("mini-bar");
-}
-this.previousTop = currentTop;
-});
-};
+var checkMobile = function() {
+    //Check Device
+    var isTouch = ('ontouchstart' in document.documentElement);
+    //Check Device //All Touch Devices
+    if (isTouch) {
+        $('html').addClass('touch');
+        $(".fixed-bar").addClass("mini-bar");
+        $(window).scroll({
+                previousTop: 0
+            },
+            function() {
+                var currentTop = $(window).scrollTop();
+                if (currentTop < this.previousTop) {} else {
+                    /*$(".fixed-bar").fadeOut(300);*/
+                    $(".fixed-bar").addClass("mini-bar");
+                }
+                this.previousTop = currentTop;
+            });
+    } else {
+        $('html').addClass('no-touch');
+        $(window).scroll({
+                previousTop: 0
+            },
+            function() {
+                var currentTop = $(window).scrollTop();
+                if (currentTop < this.previousTop) {
+                    /*$(".fixed-bar").fadeIn(500);*/
+                    $(".fixed-bar").removeClass("mini-bar");
+                } else {
+                    /*$(".fixed-bar").fadeOut(300);*/
+                    $(".fixed-bar").addClass("mini-bar");
+                }
+                this.previousTop = currentTop;
+            });
+    };
 };
 //Execute Check
 checkMobile();

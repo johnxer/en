@@ -295,6 +295,11 @@ ol.example li.placeholder:before {
 
             .panel-body {
                 padding: 15px;
+
+                .static-input {
+                    font-size: 14px;
+                    padding-top: 7px;
+                }
             }
 
             .form-control {
@@ -366,6 +371,11 @@ ol.example li.placeholder:before {
             }
 
             .minimized {
+                background: #fff;
+                padding: 10px;
+                margin-left: 30px;
+                border-radius: 4px;
+
                 .new_input {
                     padding-top: 0;
                     margin: 0;
@@ -373,11 +383,10 @@ ol.example li.placeholder:before {
 
                 label {
                     position: static;
-                    border-bottom: 0.2em solid rgba(51, 122, 183, 0.2);
+                    border-bottom: 0.1em solid #ddd;
                     margin-bottom: 0.2em;
                     padding-bottom: 0.2em;
                     font-weight: 600;
-                    color: rgba(51, 122, 183, 0.6);
                 }
 
                 .col-left {
@@ -393,7 +402,6 @@ ol.example li.placeholder:before {
                     font-weight: 400;
                     font-size: 0.9em;
                     line-height: 1.3;
-                    color: rgba(51, 122, 183, 0.6);
                 }
             }
         }
@@ -462,7 +470,7 @@ body {
 
 .main_menu {
     float: right;
-    margin: 25px 0 25px 0;
+    margin: 35px 0 25px 0;
     padding: 0;
 
     > li {
@@ -543,7 +551,7 @@ img {
 
     #logo {
         img {
-            max-height: 50px;
+            max-height: 70px;
         }
     }
 
@@ -1382,6 +1390,22 @@ ul#nav {
         }
     }
 
+    &#contact {
+        background: url(../images/firstBG.jpg) 50% 0 no-repeat fixed;
+
+        .float-bottom {
+            background: $bg_red;
+
+            a.email {
+                font-size: 16px;
+            }
+
+            h2 {
+                background: $bg_red;
+            }
+        }
+    }
+
     &#how-do-join,
     &#value-proposition {
         //background: url(../images/fifthBG2.jpg) 50% 0 no-repeat fixed;
@@ -1440,6 +1464,7 @@ ul#nav {
             margin-right: 10px;
             position: relative;
             top: 2px;
+            text-shadow: none;
 
             &:hover,
             &:focus {
