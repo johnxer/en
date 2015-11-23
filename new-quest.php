@@ -7,11 +7,17 @@
   <!-- COMMON HEADER -->
   <?php include 'includes/header.php' ?>
   <!-- // COMMON HEADER -->
-  </head>
-    
+  
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.0/css/bootstrap-datepicker3.min.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="js/jquery-ui.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.0/js/bootstrap-datepicker.min.js"></script>
     <script src="https://cdn.ckeditor.com/4.4.7/basic/ckeditor.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.js"></script>  
+  </head>
+    
+
 
   </head>
   <body class="quest-builder">
@@ -688,7 +694,6 @@ content_editor.on( 'change', function(evt) {
 
     $('.button_delete_task').on('click', function()
     {
-      if ($(task_to_delete).hasClass('video')) $('.add_activity_type a[data-type="video"]').removeClass('disabled');
       $(task_to_delete).remove();
       $('#delete-modal').modal('hide');
       validate_step_3();
@@ -703,7 +708,12 @@ content_editor.on( 'change', function(evt) {
     {
       validate_step_6();
     })
-    $('.datepicker').datepicker();
+    $('.datepicker').datepicker({
+        startDate: "today",
+        clearBtn: true,
+        autoclose: true,
+        todayHighlight: true
+        });
 
     $('.create_quest_button').on('click', function()
     {
@@ -960,8 +970,8 @@ quest_data['video']={'type' : 'Watch a video', 'description' : 'Watch this brief
 quest_data['picture']={'type' : 'Take a picture', 'description' : "Take a Selfie\n\nOR\n\nUpload the screenshot you just took\n\nOR similar instructions" , 'extra' : ''};
 quest_data['single']={'type' : 'Single choice', 'description' : 'Here you can set up a question where the participant is obliged to select only one of the potential answers. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.' , 'extra' : 'single'};
 quest_data['multi']={'type' : 'Multiple choice', 'description' : 'Here you can set up a question where the participant can select as many of the potential answers mas they like. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.' , 'extra' : 'multi'};
-quest_data['action']={'type' : 'Instructions & Activities', 'description' : 'Here you can direct participants to go to a specific physical location, or online destination, or both, or to download an app, or call a telephone number, or search for an item, etc. You can provide any kind of instruction (or explanation) as you like, and of course you can have as many of these types of "Activity Instruction" tasks as you like, in whatever order you like.' , 'extra' : ''};
-quest_data['text']={'type' : 'Open ended', 'description' : 'Here you can set up a question where the participant verbally answers, and their answer is automatically transcribed (or they can also type the answer). You may want to point out to your audience that they can speak their answers out loud, using the microphone, and that their answer will be automatically transcribed.' , 'extra' : ''};
+quest_data['action']={'type' : 'Action task', 'description' : 'Here you can direct participants to go to a specific physical location, or online destination, or both, or to download an app, or call a telephone number, or search for an item, etc. You can provide any kind of instruction (or explanation) as you like, and of course you can have as many of these types of "Activity Instruction" tasks as you like, in whatever order you like.' , 'extra' : ''};
+quest_data['text']={'type' : 'Text answer', 'description' : 'Here you can set up a question where the participant verbally answers, and their answer is automatically transcribed (or they can also type the answer). You may want to point out to your audience that they can speak their answers out loud, using the microphone, and that their answer will be automatically transcribed.' , 'extra' : ''};
 
 </script>
 </body>
