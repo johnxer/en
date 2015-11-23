@@ -18,13 +18,10 @@
           <!--<li><a data-toggle="modal" data-target="#affiliate-form" href="javascript:void(0)">Become an Affiliate</a></li>-->
           <!--<li><a href="in-news.html">In the news</a></li>-->
           <!--<li><a href="download-app.html">Download App</a></li>-->
-          <li><a href="faq.html">FAQ</a></li>
-          <li><a href="privacy.html">Privacy policy</a></li>
-          <li><a href="terms-of-service.html">Terms of service</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <!--<li><a href="team.html">EagleNinja Team</a></li>-->
-          <!--<li><a href="#" onclick="downloadApp()">Download app</a></li>-->
-          <!--<li><a href="https://chrome.google.com/webstore/detail/eagleninja/bckpbnecdjkffdjnhcjpmggfoegdaimp">Download extension</a></li>-->
+          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/faq.php' ? ' active' : '');?>" href="/faq.php">FAQ</a></li></li>
+          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/privacy.php' ? ' active' : '');?>" href="/privacy.php">Privacy policy</a></li></li>
+          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/terms-of-service.php' ? ' active' : '');?>" href="/terms-of-service.php">Terms of service</a></li></li>
+          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/blog.php' ? ' active' : '');?>" href="/blog.php">Blog</a></li></li>
         </ul>
         <p>&copy; 2015 eagleninja</p>
         <ul class="social-icons" style="clear: left">
@@ -125,8 +122,7 @@
         </div>
       </div>
     </div>
-    
-    <!-- Modal -->
+      <!-- Modal -->
     <div class="modal fade" id="sponsor-form" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -135,7 +131,7 @@
             <h4 class="modal-title" id="myModalLabel">Custom Demo</h4>
           </div>
           <div class="screen-1" style="">
-            <form id="form-sponsor">
+            <form id="learn_more_form" action="learn_more.php" method="post">
               <div class="modal-body ">
                 
                 <div class="control-group">
@@ -143,7 +139,7 @@
                     Name:
                   </label>
                   <div class="controls">
-                    <input name="sponsor_name" type="text" placeholder="Please enter your name" id="sponsor_name">
+                    <input name="sponsor_name" type="text" placeholder="Please enter your name" id="sponsor_name" class="learn_more_validation">
                   </div>
                 </div>
                 <div class="control-group">
@@ -151,7 +147,7 @@
                     Email:
                   </label>
                   <div class="controls">
-                    <input name="sponsor_email" type="email" placeholder="Please enter your email" id="sponsor_email">
+                    <input name="sponsor_email" type="email" placeholder="Please enter your email" id="sponsor_email" class="learn_more_validation">
                   </div>
                 </div>
                 <div class="control-group">
@@ -159,7 +155,7 @@
                     Tel.number:
                   </label>
                   <div class="controls">
-                    <input name="sponsor_phone" type="phone" placeholder="Please enter your phone number" id="sponsor_phone">
+                    <input name="sponsor_phone" type="phone" placeholder="Please enter your phone number" id="sponsor_phone" class="learn_more_validation">
                   </div>
                 </div>
                 <div class="control-group">
@@ -167,7 +163,7 @@
                     Company name:
                   </label>
                   <div class="controls">
-                    <input name="sponsor_cname" type="text" placeholder="Please enter your company name" id="sponsor_cname">
+                    <input name="sponsor_cname" type="text" placeholder="Please enter your company name" id="sponsor_cname" class="learn_more_validation">
                   </div>
                 </div>
                 <div class="control-group">
@@ -175,7 +171,7 @@
                     Please enter the category or product you are interested in:
                   </label>
                   <div class="" style="margin-top: 5px">
-                    <textarea name="aff_intend" id="aff_intend" placeholder="Please write your message here..."></textarea>
+                    <textarea name="aff_intend" id="aff_intend" placeholder="Please write your message here..." class="learn_more_validation"></textarea>
                   </div>
                 </div>
                 
@@ -184,7 +180,7 @@
                     How did you hear of eagleninja?
                   </label>
                   <div class="controls select-block" style="margin-left: 310px;">
-                    <select name="sponsor_heard">
+                    <select name="sponsor_heard" class="learn_more_validation">
                       <option disabled selected>Please select one option</option>
                       <option value="1">Blog</option>
                       <option value="2">Press mention</option>
@@ -199,14 +195,14 @@
                     Please let us know who referred you so we can thank them:
                   </label>
                   <div class="controls select-block" style="margin-left:130px">
-                    <input name="sponsor_referral" type="text" placeholder="Enter your referral" id="sponsor_referral">
+                    <input name="sponsor_referral" type="text" placeholder="Enter your referral" id="sponsor_referral" class="learn_more_validation">
                   </div>
                 </div>
                 
               </div>
               <div class="modal-footer" style="margin-top: 0;">
                 <button style="float: left; width: 100px;" type="button" class="button button-grey" data-dismiss="modal">Close</button>
-                <button style="width: 200px;" type="submit" class="button button-green"><i class="fa fa-paper-plane"></i> Submit</button>
+                <button style="width: 200px;" class="button button-green learn_more_submit disabled" type="button"><i class="fa fa-paper-plane"></i> Submit</button>
               </div>
             </form>
           </div>
@@ -274,18 +270,7 @@
 
 
 
-<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-body">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <div>
-                    <iframe width="100%" height="350" src=""></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 
 <script type="text/javascript">
   

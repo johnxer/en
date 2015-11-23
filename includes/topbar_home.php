@@ -18,8 +18,7 @@
               <li><a href="#value-proposition">Value Proposition</a></li>
               <li><a href="#types-of-quests">Examples</a></li>
               <li><a href="#pricing">Pricing</a></li>
-<li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/team.php' ? ' active' : '');?>" href="/team.html">Who we are</a></li></li>
-              <li><a href="">Who we are</a></li>
+<li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/team.php' ? ' active' : '');?>" href="/team.php">Who we are</a></li></li>
 <li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/in-news.php' ? ' active' : '');?>" href="/in-news.php">In the News</a></li></li>
 
               <li><a href="#contact">Contact</a></li>

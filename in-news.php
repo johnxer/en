@@ -18,7 +18,7 @@
       <div class="container">
         
         <h2>
-        <a href="index.html"><i class="fa fa-chevron-left"></i></a> In the News
+        <a href="index.php#welcome"><i class="fa fa-chevron-left"></i></a> In the News
         </h2>
         <div class="well">
           <ul class="container-list">

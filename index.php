@@ -5,44 +5,42 @@
     <meta name="keywords" content="mobile advertising, mobile marketing, location based services,geofencing,gamification,geotargeting,quest marketing">
     <title>Mobile Advertising | eagleninja</title>
 
-  <!-- COMMON HEADER -->
+      <!-- COMMON HEADER -->
   <?php include 'includes/header.php' ?>
   <!-- // COMMON HEADER -->
+<script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
 
-      <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
-
-
-  
     <script type="text/javascript">
-    $(document).ready(function() {
-        $(".pseudopage").css('height', $(window).height());
-        $('.fixed-bar').localScroll(800);
-
-        //.parallax(xPosition, speedFactor, outerHeight) options:
-        //xPosition - Horizontal position of the element
-        //inertia - speed to move relative to vertical scroll. Example: 0.1 is one tenth the speed of scrolling, 2 is twice the speed of scrolling
-        //outerHeight (true/false) - Whether or not jQuery should use it's outerHeight option to determine when a section is in the viewport
-        $('#welcome').parallax("50%", 0.3);
-        $('#welcome .bg').parallax("30%", 0.7);
-        $('#welcome-video-well').parallax("30%", 0.7);
-        $('#what-is-eagleninja').parallax("50%", 0.1);
-        $('#what-is-eagleninja .bg').parallax("70%", 0.7);
-        $('#types-of-quests').parallax("50%", 0.1);
-        $('#types-of-quests .bg').parallax("30%", 0.7);
-        $('#pricing').parallax("50%", 0.1);
-        $('#value-proposition').parallax("50%", 0.1);
-        $('#pricing .bg').parallax("70%", 0.7);
-        $('#agency').parallax("50%", 0.3);
-        $('#agency').parallax("50%", 0.3);
-        $('#sponsors').parallax("50%", 0.3);
-        $('#sponsors .bg').parallax("50%", 0.7);
-        $('#how-does-it-work').parallax("50%", 0.3);
-        $('#how-do-join').parallax("50%", 0.3);
-        $('#contact').parallax("50%", 0.3);
+    $(document).ready(function(){
+    $(".pseudopage").css('height', $(window).height());
+    $('.main_menu').localScroll(800);
+    
+    //.parallax(xPosition, speedFactor, outerHeight) options:
+    //xPosition - Horizontal position of the element
+    //inertia - speed to move relative to vertical scroll. Example: 0.1 is one tenth the speed of scrolling, 2 is twice the speed of scrolling
+    //outerHeight (true/false) - Whether or not jQuery should use it's outerHeight option to determine when a section is in the viewport
+    $('#welcome').parallax("50%", 0.3);
+    $('#welcome .bg').parallax("30%", 0.7);
+    $('#welcome-video-well').parallax("30%", 0.7);
+    $('#what-is-eagleninja').parallax("50%", 0.1);
+    $('#what-is-eagleninja .bg').parallax("70%", 0.7);
+    $('#types-of-quests').parallax("50%", 0.1);
+    $('#types-of-quests .bg').parallax("30%", 0.7);
+    $('#pricing').parallax("50%", 0.1);
+    $('#value-proposition').parallax("50%", 0.1);
+    $('#pricing .bg').parallax("70%", 0.7);
+    $('#agency').parallax("50%", 0.3);
+    $('#agency').parallax("50%", 0.3);
+    $('#sponsors').parallax("50%", 0.3);
+    $('#sponsors .bg').parallax("50%", 0.7);
+    $('#how-does-it-work').parallax("50%", 0.3);
+    $('#how-do-join').parallax("50%", 0.3);
+    $('#contact').parallax("50%", 0.3);
     })
     </script>
   </head>
   <body class="home">
+
   <!-- COMMON HEADER -->
   <?php include 'includes/topbar_home.php' ?>
   <!-- // COMMON HEADER -->
@@ -50,9 +48,9 @@
     <div id="welcome" class="pseudopage">
       <!--      <div class="bg"></div>-->
       <div class="bubble">
-        <p class="text-center">Conversion &amp; Engagement through fun Mobile Quests</p>
+        <p class="text-center">Conversion & Engagement through fun Mobile Quests</p>
         <div class="clear:  both; display: block"></div>
-        <a class="button" href="new-quest.html">Set up a Mobile Quest for free!</a>
+        <a class="button" href="new-quest.php">Set up a Mobile Quest for free!</a>
         
         
       </div>
@@ -75,7 +73,7 @@
               <div class="cleafix"></div>
               <p>Decrease your mobile customer acquisition cost by up to 10X!</p>
               </div>
-              <!--<a id="video_button" class="button pull-right" data-toggle="modal" data-target="#video-modal" href="javascript:void(0)"><i class="fa fa-video-camera"></i> Watch video</a>-->
+              
             </div>
           </div>
         </div>
@@ -83,7 +81,7 @@
     </div>
     <div id="what-is-eagleninja" class="pseudopage">
       <div class="bg"></div>
-      <!--<a class="bubble" data-toggle="modal" data-target="#sponsor-form" href="javascript:void(0)">Set up your first Quest for free in few easy steps!</a>-->
+      
       <div class="float-bottom">
         <div class="container">
           <div class="story row">
@@ -92,7 +90,7 @@
               
               <p>Mobile as a media is exploding: You need to convert & engage your mobile audience with gamification techniques, leverage the experiential marketing capabilities of Mobile devices and deal with millennial attention spans.</p>
               <p>Whether through online e-commerce, offline m-commerce, conversion of mobile app downloads into high lifetime value users, or gamification of advertising and marketing, we help you convert leads into customers, and customers into loyal advocates.</p>
-              <p><a href="new-quest.html">Set up your first Quest for free in a few easy steps!</a></p>
+              <p><a href="new-quest.php">Set up your first Quest for free in a few easy steps!</a></p>
             </div>
           </div>
         </div>
@@ -111,7 +109,7 @@
               <p>We use experiential marketing and mobile gamification marketing to convert your leads into customers, and your customers into loyal advocates. </p>
               <p>Offline leads to offline customers, online apps to online customers, offline to online and online to offline. </p>
               <p>We help you seduce your leads through fun activities involving your brand, value attributes and channels.</p>
-              <p>Want to give it a try? <a href="new-quest.html">Set up your first Quest for free in a few easy steps</a>.</p>
+              <p>Want to give it a try? <a href="new-quest.php">Set up your first Quest for free in a few easy steps</a>.</p>
               
             </div>
           </div>
@@ -127,9 +125,9 @@
             <div class="story-div col-xs-12 col-sm-8 col-sm-offset-2">
               <h2 class="pull-left"><strong>Examples</strong></h2>
               <div class="clearfix"></div>
-              <p><a href="javascript:void(0)" data-toggle="modal" data-target="#videoModal" data-theVideo="http://www.youtube.com/embed/loFtozxZG0s">Click here</a> to see some Mobile Quest examples</p>
+              <p><a data-toggle="modal" data-target="#videoModal" data-theVideo="http://www.youtube.com/embed/loFtozxZG0s" href="javascript:void(0)">Click here</a> to see some Mobile Quest examples</p>
               <p>It's really easy to set up a Quest by using our mobile web platform or our native iOS and Android apps. You can create a Quest in just a few minutes, at no charge, and insert the Quest invitation link into any of your media or send to lists of prospects.</p>
-              <p>Prospects and customers who click on the Quest link will be directed to the Quest you have created, with your logo, images, videos, instructions, prizes, etc. Its very easy, <a href="new-quest.html">check it out for free!</a></p>
+              <p>Prospects and customers who click on the Quest link will be directed to the Quest you have created, with your logo, images, videos, instructions, prizes, etc. Its very easy, <a href="new-quest.php">check it out for free!</a></p>
               <p>Scavenger Hunts, Geocaching, Retail Promotion Audits, Test Drives in Dealerships, Customer interactions and Engagement within store locations, Discovery of new mobile apps and new product features, Mobile customer Experience Surveys, Experiential Marketing, Bottom of funnel conversion, Gamification Marketing, Engagement Marketing, Mobile Direct Response Marketing, Offline & Online Mobile User Experience Surveys...</p>
             </div>
             
@@ -145,7 +143,7 @@
             <div class="story-div col-xs-12 col-sm-8 col-sm-offset-2">
               <h2><strong>Pricing</strong></h2>
               <p>You can create as many Quests as you like, at no charge, by using your own promotional coupon or loyalty code as the incentive.</p>
-              <p><a href="new-quest.html">Want to give it a free try?</a></p>
+              <p><a href="new-quest.php">Want to give it a free try?</a></p>
               <p>If you wish to set up a Quest with validation of whether the Quests have been satisfactorily performed, we will handle the Quest validation & conversion attribution and charge you on a "Per Completed Quest" basis.</p>
               <p>If you want additional activities & features, beyond those available in the Free Quests, such as QR/Bar Code scanning, branded HTML based micro games, social sharing of activities, location based services, demographic filters, push notifications and others, we can set those up for you and charge you on a "Per Completed Quest" basis.
               </p>
@@ -212,14 +210,63 @@
         </div>
       </div>
     </div>
+
   <!-- COMMON FOOTER -->
   <?php include 'includes/footer.php' ?>
   <!-- // COMMON FOOTER -->
 
+
+
+<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-video">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <div>
+                    <iframe width="100%" height="350" src=""></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
   </body>
 </html>
 <script>
+ function validate_learn_more()
+  {
+    console.log('xxx');
+    $('.learn_more_submit').addClass('disabled');
+    var all_good=true;
+    
+    $.each($('.learn_more_validation'), function()
+    {
+        if ($(this).val()=='')
+        {
+          all_good=false;
+          return false;
+        }
+    })
+
+    if (all_good ) $('.learn_more_submit').removeClass('disabled');
+  }
 $(document).ready(function(){
+  $('.learn_more_validation').on('change keyup', function()
+  {
+    console.log('dsdassda');
+    validate_learn_more();
+  });
+
+ 
+
+  $('.learn_more_submit').on('click', function()
+  {
+    if ($(this).hasClass('disabled')) return;
+    $('#learn_more_form').submit();
+
+  });
+
+
 //$(".fixed-bar").addClass("mini-bar");
 $("a#nav-show").click(function(){
 $("#nav").fadeIn(300);
@@ -311,11 +358,7 @@ var checkMobile = function() {
 };
 //Execute Check
 checkMobile();
-/*
-$(".fixed-bar").on("mouseover", function(){
-$(this).removeClass(".mini-bar");
-})
-*/
+
 
   autoPlayYouTubeModal();
 
@@ -335,5 +378,6 @@ $(this).removeClass(".mini-bar");
           });
       });
   }
+
 
 </script>

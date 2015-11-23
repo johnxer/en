@@ -14,12 +14,12 @@
   <body class="team">
     <div class="div-wrapper">
   <!-- COMMON HEADER -->
-  <?php include 'includes/topbar_home.php' ?>
+  <?php include 'includes/topbar.php' ?>
   <!-- // COMMON HEADER -->
       
       <div class="container">
         <h2>
-        <a href="index.html"><i class="fa fa-chevron-left"></i></a> Eagleninja Team
+        <a href="index.php#welcome"><i class="fa fa-chevron-left"></i></a> Eagleninja Team
         </h2>
         <div class="well">
           <div class="wrapper">

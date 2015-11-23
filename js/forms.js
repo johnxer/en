@@ -1,30 +1,24 @@
 $(document).ready(function(){
 
-      $('#form-sponsor').on('submit', function (e) {
+      $('#learn_more_form').on('submit', function (e) {
             e.preventDefault();
 
             var oldLabel = $('#form-sponsor button[type="submit"]').html();
-            $('#form-sponsor button[type="submit"]').prop('disabled', true).text('Sending...');
+            $('#learn_more_form .learn_more_submit').prop('disabled', true).text('Sending...');
 
             $.ajax({
              type:'POST',
-             url: 'http://www.eagleninja.com/sponsor',
-             data: $('#form-sponsor').serialize()})
+             url: './learn_more.php',
+             data: $('#learn_more_form').serialize()})
                 .done(function() {
-                      $('#form-sponsor').get(0).reset();
+                      $('#learn_more_form').get(0).reset();
                       $('.screen-1').hide();
                       $('.screen-2').show();
-                })
-                .fail(function () {
-                   alert('Please fill all the form fields.');
-                   })
-                .always(function () {
-                  $('#form-sponsor button[type="submit"]').prop('disabled', false).html(oldLabel);
                 });
 
       });
 
-      $('#sponsor-form').on('hidden.bs.modal', function (e) {
+      $('#learn_more_form').on('hidden.bs.modal', function (e) {
             $('.screen-2').hide();
             $('.screen-1').show();
       });
