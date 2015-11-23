@@ -56,6 +56,9 @@
     </div>
     <div class="push"></div>
   </div>
+  <!-- COMMON FOOTER -->
+  <?php include 'includes/footer.php' ?>
+  <!-- // COMMON FOOTER -->
 
 </body>
 </html>

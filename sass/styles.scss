@@ -1394,14 +1394,14 @@ ul#nav {
         background: url(../images/firstBG.jpg) 50% 0 no-repeat fixed;
 
         .float-bottom {
-            background: $bg_red;
+            background: $bg_pink;
 
             a.email {
                 font-size: 16px;
             }
 
             h2 {
-                background: $bg_red;
+                background: $bg_pink;
             }
         }
     }
@@ -2690,3 +2690,57 @@ ul.download_links {
 @import "animations";
 
 /* */
+
+/***** MODAL PROPERTIES *****/
+.modal-content {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: transparent;
+    border: none;
+    outline: none;
+}
+
+.modal-content iframe {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.close {
+    color: #fff;
+    font-size: 30px;
+    opacity: 1;
+    text-shadow: none;
+
+    &:hover {
+        opacity: 0.8;
+        color: #fff;
+    }
+}
+
+/***** MEDIA QUERIES *****/
+@media only screen and (max-width: 641px) {
+    /***** MODAL PROPERTIES *****/
+    .modal-body {
+        height: 100px;
+        padding: 0;
+        margin: 0;
+    }
+
+    .modal-content {
+        padding: 0;
+        margin: 0;
+    }
+
+    .modal-dialog {
+        position: relative;
+        width: auto;
+        margin: 15px;
+    }
+    .close {}
+}
+
+@media only screen and (min-width: 768px) {
+    /***** MODAL PROPERTIES *****/
+    .close {}
+}

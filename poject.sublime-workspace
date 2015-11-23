@@ -192,14 +192,6 @@
 			}
 		},
 		{
-			"file": "sass/styles.scss",
-			"settings":
-			{
-				"buffer_size": 63540,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "sass/_max992.scss",
 			"settings":
 			{
@@ -334,6 +326,7 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/en/sass/styles.scss",
 		"/C/xampp/htdocs/kn2/application/views/front/affiliate_page_own_product_modal.php",
 		"/C/Users/johnx_000/Documents/_Work/eagleNinja/new_stuff/emails/quest_coupon_btn.html",
 		"/C/xampp/htdocs/en_repo/web-api/html_template/10_quest7_screen_manual_coupon.html",
@@ -460,8 +453,7 @@
 		"/C/xampp/htdocs/kn2/application/views/members/communications/optin/optin_create.php",
 		"/C/xampp/htdocs/kn2/application/views/members/sales/enterprise/payment_list.php",
 		"/C/xampp/htdocs/kartra_new/js/members/sellers/enterprise.js",
-		"/C/xampp/htdocs/kn2/application/views/members/shared/pagination.php",
-		"/C/Users/johnx_000/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/Default (Windows).sublime-keymap"
+		"/C/xampp/htdocs/kn2/application/views/members/shared/pagination.php"
 	],
 	"find":
 	{
@@ -746,7 +738,7 @@
 						"translation.y": 8545.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -792,8 +784,8 @@
 						"selection":
 						[
 							[
-								36133,
-								36133
+								12929,
+								12929
 							]
 						],
 						"settings":
@@ -803,7 +795,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 6656.0,
+						"translation.y": 2626.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -836,7 +828,7 @@
 						"translation.y": 2301.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -926,7 +918,7 @@
 						"translation.y": 130.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -956,7 +948,7 @@
 						"translation.y": 393.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
@@ -986,41 +978,11 @@
 						"translation.y": 269.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 9,
-					"file": "sass/styles.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 63540,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6181,
-								6181
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3466.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
 					"file": "sass/_max992.scss",
 					"semi_transient": false,
 					"settings":
@@ -1046,11 +1008,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 10,
 					"file": "sass/_max480.scss",
 					"semi_transient": false,
 					"settings":
@@ -1076,11 +1038,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 11,
 					"file": "sass/_max768.scss",
 					"semi_transient": false,
 					"settings":
@@ -1106,11 +1068,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 12,
 					"file": "sass/_max1150.scss",
 					"semi_transient": false,
 					"settings":
@@ -1136,11 +1098,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 13,
 					"file": "sass/_max1360.scss",
 					"semi_transient": false,
 					"settings":
@@ -1166,11 +1128,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
+					"buffer": 14,
 					"file": "sass/_agency_page.scss",
 					"semi_transient": false,
 					"settings":
@@ -1196,11 +1158,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 16,
+					"buffer": 15,
 					"file": "sass/_animations.scss",
 					"semi_transient": false,
 					"settings":
@@ -1226,11 +1188,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 17,
+					"buffer": 16,
 					"file": "sass/_variables.scss",
 					"semi_transient": false,
 					"settings":
@@ -1254,11 +1216,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 17,
 					"file": "sass/_mixins.scss",
 					"semi_transient": false,
 					"settings":
@@ -1282,7 +1244,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 12,
 					"type": "text"
 				}
 			]

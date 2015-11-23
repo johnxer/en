@@ -1,51 +1,40 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Mobile Marketing & Advertising Gamification Platform">
-    <meta name="keywords" content="mobile advertising, mobile marketing, location based services,geofencing,gamification,geotargeting,quest marketing">
-    <title>Mobile Advertising | eagleninja</title>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon2.ico"/>
-    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="css/bootstrap-select.min.css">
-    <link href="css/styles.css" rel="stylesheet" type="text/css" />
-    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-    <!--<script type="text/javascript" src="http://www.youtube.com/player_api"></script>-->
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap-select.min.js"></script>
-    <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
-    <script type="text/javascript" src="js/jquery.localscroll-1.2.7-min.js"></script>
-    <script type="text/javascript" src="js/jquery.scrollTo.min.js"></script>
-    <script type="text/javascript" src="js/forms.js"></script>
+
+
+  <!-- COMMON HEADER -->
+  
+  <!-- // COMMON HEADER -->
+
+
+
     <script type="text/javascript">
-    $(document).ready(function(){
-    $(".pseudopage").css('height', $(window).height());
-    $('.main_menu').localScroll(800);
-    
-    //.parallax(xPosition, speedFactor, outerHeight) options:
-    //xPosition - Horizontal position of the element
-    //inertia - speed to move relative to vertical scroll. Example: 0.1 is one tenth the speed of scrolling, 2 is twice the speed of scrolling
-    //outerHeight (true/false) - Whether or not jQuery should use it's outerHeight option to determine when a section is in the viewport
-    $('#welcome').parallax("50%", 0.3);
-    $('#welcome .bg').parallax("30%", 0.7);
-    $('#welcome-video-well').parallax("30%", 0.7);
-    $('#what-is-eagleninja').parallax("50%", 0.1);
-    $('#what-is-eagleninja .bg').parallax("70%", 0.7);
-    $('#types-of-quests').parallax("50%", 0.1);
-    $('#types-of-quests .bg').parallax("30%", 0.7);
-    $('#pricing').parallax("50%", 0.1);
-    $('#value-proposition').parallax("50%", 0.1);
-    $('#pricing .bg').parallax("70%", 0.7);
-    $('#agency').parallax("50%", 0.3);
-    $('#agency').parallax("50%", 0.3);
-    $('#sponsors').parallax("50%", 0.3);
-    $('#sponsors .bg').parallax("50%", 0.7);
-    $('#how-does-it-work').parallax("50%", 0.3);
-    $('#how-do-join').parallax("50%", 0.3);
-    $('#contact').parallax("50%", 0.3);
+    $(document).ready(function() {
+        $(".pseudopage").css('height', $(window).height());
+        $('.main_menu').localScroll(800);
+
+        //.parallax(xPosition, speedFactor, outerHeight) options:
+        //xPosition - Horizontal position of the element
+        //inertia - speed to move relative to vertical scroll. Example: 0.1 is one tenth the speed of scrolling, 2 is twice the speed of scrolling
+        //outerHeight (true/false) - Whether or not jQuery should use it's outerHeight option to determine when a section is in the viewport
+        $('#welcome').parallax("50%", 0.3);
+        $('#welcome .bg').parallax("30%", 0.7);
+        $('#welcome-video-well').parallax("30%", 0.7);
+        $('#what-is-eagleninja').parallax("50%", 0.1);
+        $('#what-is-eagleninja .bg').parallax("70%", 0.7);
+        $('#types-of-quests').parallax("50%", 0.1);
+        $('#types-of-quests .bg').parallax("30%", 0.7);
+        $('#pricing').parallax("50%", 0.1);
+        $('#value-proposition').parallax("50%", 0.1);
+        $('#pricing .bg').parallax("70%", 0.7);
+        $('#agency').parallax("50%", 0.3);
+        $('#agency').parallax("50%", 0.3);
+        $('#sponsors').parallax("50%", 0.3);
+        $('#sponsors .bg').parallax("50%", 0.7);
+        $('#how-does-it-work').parallax("50%", 0.3);
+        $('#how-do-join').parallax("50%", 0.3);
+        $('#contact').parallax("50%", 0.3);
     })
     </script>
   </head>
@@ -97,7 +86,7 @@
     <div id="welcome" class="pseudopage">
       <!--      <div class="bg"></div>-->
       <div class="bubble">
-        <p class="text-center">Conversion & engagement through fun Mobile Quests</p>
+        <p class="text-center">Conversion &amp; Engagement through fun Mobile Quests</p>
         <div class="clear:  both; display: block"></div>
         <a class="button" href="new-quest.html">Set up a Mobile Quest for free!</a>
         
@@ -152,9 +141,9 @@
           <div class="story row">
             <div class="story-div col-xs-12 col-sm-8 col-sm-offset-2">
               <h2><strong>Value</strong> Proposition</h2>
-              <p>There are many marketing platforms that provide you with leads, whether online or offline. Some of them include location based services capability, ibeacons, demographic and location based targeting, programmatic and other advanced ad-tech and marketing tech features.</p>
+              <p>There are many marketing platforms that provide you with leads, whether online or offline. Some of them include location based services capability, ibeacons, demographic and location based targeting, programmatic and other advanced ad-tech and marketing tech features that our platform includes.</p>
               
-              <p><i>We take it from there and turn those leads into customers.</i></p>
+              <p><i>We turn those leads into customers.</i></p>
               <p>We use experiential marketing and mobile gamification marketing to convert your leads into customers, and your customers into loyal advocates. </p>
               <p>Offline leads to offline customers, online apps to online customers, offline to online and online to offline. </p>
               <p>We help you seduce your leads through fun activities involving your brand, value attributes and channels.</p>
@@ -177,7 +166,7 @@
               <p><a class="" href="#">Click here</a> to see some Mobile Quest examples</p>
               <p>It's really easy to set up a Quest by using our mobile web platform or our native iOS and Android apps. You can create a Quest in just a few minutes, at no charge, and insert the Quest invitation link into any of your media or send to lists of prospects.</p>
               <p>Prospects and customers who click on the Quest link will be directed to the Quest you have created, with your logo, images, videos, instructions, prizes, etc. Its very easy, <a href="new-quest.html">check it out for free!</a></p>
-              <p>Scavenger Hunts, Geocaching, Retail Promotion Audits, Test Drives in Dealerships, Customer interactions and Engagement within store locations, Discovery of new mobile apps and new product features, Mobile customer Experience Surveys, Experiential Marketing, Gamification Marketing, Engagement Marketing, Offline & Online Mobile User Experience Surveys...</p>
+              <p>Scavenger Hunts, Geocaching, Retail Promotion Audits, Test Drives in Dealerships, Customer interactions and Engagement within store locations, Discovery of new mobile apps and new product features, Mobile customer Experience Surveys, Experiential Marketing, Bottom of funnel conversion, Gamification Marketing, Engagement Marketing, Mobile Direct Response Marketing, Offline & Online Mobile User Experience Surveys...</p>
             </div>
             
           </div>
@@ -196,9 +185,9 @@
               <p>If you wish to set up a Quest with validation of whether the Quests have been satisfactorily performed, we will handle the Quest validation & conversion attribution and charge you on a "Per Completed Quest" basis.</p>
               <p>If you want additional activities & features, beyond those available in the Free Quests, such as QR/Bar Code scanning, branded HTML based micro games, social sharing of activities, location based services, demographic filters, push notifications and others, we can set those up for you and charge you on a "Per Completed Quest" basis.
               </p>
-              <p>If you wish to set up a Quest where the incentive is a monetary reward paid through PayPal we will handle all of the payment logistics and charge you on a "Per Completed Quest" basis"
+              <p>If you wish to set up a Quest where the incentive is a monetary reward paid through PayPal we will handle all of the payment logistics and charge you on a "Per Completed Quest" basis. The same goes for Quests where the incentive is a donation to a favorite cause.
               </p>
-              <p>We can also provide you with a <strong><i>Private Labelled</i></strong> version of our native Apps, or integrate our functionality within your existing apps.</p>
+              <p>We can also provide you with a <strong><i>Private Label</i></strong> version of our native Apps, or integrate our functionality within your existing apps.</p>
               <p>Want to explore one of these options? <a class="" data-toggle="modal" data-target="#sponsor-form" href="javascript:void(0)">Learn More</a></p>
             </div>
           </div>
@@ -215,7 +204,7 @@
               <p>541 Jefferson Ave, STE 100<br />
                 Redwood City, CA 94063<br />
                 +1 415 944 9279<br />
-                <a class="email" href="mailto:info@eaglenija.com">info@eaglenija.com</a>
+                <a class="email" href="mailto:info@eagleninja.com">info@eagleninja.com</a>
                 </p>
 
               
