@@ -14,15 +14,15 @@
           <div class="col-xs-12 col-md-10">
             <ul id="" class="main_menu">
               
-              <li><a href="#what-is-eagleninja">What we do</a></li>
-              <li><a href="#value-proposition">Value Proposition</a></li>
-              <li><a href="#types-of-quests">Examples</a></li>
-              <li><a href="#pricing">Pricing</a></li>
-<li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/team.php' ? ' active' : '');?>" href="/team.php">Who we are</a></li></li>
-<li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/in-news.php' ? ' active' : '');?>" href="/in-news.php">In the News</a></li></li>
+              <li><a href="/#what-is-eagleninja">What we do</a></li>
+              <li><a href="/#value-proposition">Value Proposition</a></li>
+              <li><a href="/#types-of-quests">Examples</a></li>
+              <li><a href="/#pricing">Pricing</a></li>
+<li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/static/team.html' ? ' active' : '');?>" href="/static/team.html">Who we are</a></li></li>
+<li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/static/in-news' ? ' active' : '');?>" href="/static/in-news">In the News</a></li></li>
 
-              <li><a href="#contact">Contact</a></li>
-              <li><a href="#clients">Clients</a></li>
+              <li><a href="/#contact">Contact</a></li>
+              <li><a href="/#clients">Clients</a></li>
 
             </ul>
             <!--
