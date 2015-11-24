@@ -2,7 +2,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-8 col-xs-offset-2 col-md-2 col-md-offset-0 logo_wrapper">
-            <a id="logo" href="index.php#welcome" alt=""><img class="img-responsive" src="images/logo.png"></a>
+            <a id="logo" href="#welcome" alt=""><img class="img-responsive" src="/images/logo.png"></a>
           </div>
           <!--
           <div class="button-list">
@@ -18,11 +18,11 @@
               <li><a href="/#value-proposition">Value Proposition</a></li>
               <li><a href="/#types-of-quests">Examples</a></li>
               <li><a href="/#pricing">Pricing</a></li>
-<li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/static/team.html' ? ' active' : '');?>" href="/static/team.html">Who we are</a></li></li>
-<li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/static/in-news' ? ' active' : '');?>" href="/static/in-news">In the News</a></li></li>
+<li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/team.php' ? ' active' : '');?>" href="/static/team.html">Who we are</a></li></li>
+<li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/in-news.php' ? ' active' : '');?>" href="/static/in-news">In the News</a></li></li>
 
-              <li><a href="/#contact">Contact</a></li>
-              <li><a href="/#clients">Clients</a></li>
+              <li><a href="<?php print $homeURL ?>/index.html#contact">Contact</a></li>
+              <li><a href="<?php print $homeURL ?>/index.html#clients">Clients</a></li>
 
             </ul>
             <!--

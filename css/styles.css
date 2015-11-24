@@ -2,6 +2,32 @@
 body.dragging, body.dragging * {
   cursor: move !important; }
 
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.8); }
+  .overlay div {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center; }
+    .overlay div img {
+      opacity: 0.4;
+      display: inline-block;
+      vertical-align: top; }
+    .overlay div h4 {
+      font-size: 20px;
+      margin-top: 20px;
+      color: #999;
+      text-transform: uppercase; }
+
 a, button {
   outline: none; }
   a:focus, button:focus {

@@ -276,4 +276,44 @@
 
 <script type="text/javascript">
   
+ function validate_learn_more()
+  {
+    //console.log('xxx');
+    $('.learn_more_submit').addClass('disabled');
+    $('.important_lm').show();
+    var all_good=true;
+    
+    $.each($('.learn_more_validation'), function()
+    {
+        if ($(this).val()=='')
+        {
+          all_good=false;
+          return false;
+        }
+    })
+
+    if (all_good ) {
+      $('.learn_more_submit').removeClass('disabled');
+      $('.important_lm').hide();
+    }
+  }
+
+  
+$(document).ready(function(){
+  $('.learn_more_validation').on('change keyup', function()
+  {
+    //console.log('dsdassda');
+    validate_learn_more();
+  });
+
+ 
+
+  $('.learn_more_submit').on('click', function()
+  {
+    if ($(this).hasClass('disabled')) return;
+    $('#learn_more_form').submit();
+
+  });
+});
+
 </script>

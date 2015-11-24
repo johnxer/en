@@ -29,7 +29,7 @@
               </div>
               <div class="col-sm-6 col-md-3 col-xs-12 quadruple-col second-row">
                 <div class="photo">
-                  <img src="images/photo_alejandro.jpg">
+                  <img src="/images/photo_alejandro.jpg">
                 </div>
                 <div class="title">
                   <h2>Alejandro Rivas-Micoud</h2>
@@ -41,7 +41,7 @@
               </div>
               <div class="col-sm-6 col-md-3 col-xs-12 quadruple-col second-row">
                 <div class="photo">
-                  <img src="images/photo_jonas.jpg">
+                  <img src="/images/photo_jonas.jpg">
                 </div>
                 <div class="title">
                   <h2>Jonas Da Cruz</h2>
@@ -54,7 +54,7 @@
               <div class="visible-sm-block clearfix"></div>
               <div class="col-sm-6 col-md-3 col-xs-12 quadruple-col second-row">
                 <div class="photo">
-                  <img src="images/photo_bengt.jpg">
+                  <img src="/images/photo_bengt.jpg">
                 </div>
                 <div class="title">
                   <h2>Bengt Eliasson</h2>
@@ -66,7 +66,7 @@
               </div>
               <div class="col-sm-6 col-md-3 col-xs-12 quadruple-col second-row">
                 <div class="photo">
-                  <img src="images/photo_ninja.png">
+                  <img src="/images/photo_ninja.png">
                 </div>
                 <div class="title">
                   <h2>Stealth Ninja</h2>
@@ -86,7 +86,7 @@
 
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col">
               <div class="photo photo-t">
-                <img src="images/photo_angel.jpg">
+                <img src="/images/photo_angel.jpg">
                 <div class="copy">
                   Angel Sánchez
                 </div>
@@ -94,7 +94,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col">
               <div class="photo photo-t">
-                <img src="images/photo_tono.jpg">
+                <img src="/images/photo_tono.jpg">
                 <div class="copy">
                   Antonio Guerrero
                 </div>
@@ -102,7 +102,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_david.jpg">
+                <img src="/images/photo_david.jpg">
                 <div class="copy">
                   David Suarez
                 </div>
@@ -110,7 +110,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_diego.jpg">
+                <img src="/images/photo_diego.jpg">
                 <div class="copy">
                   Diego Romera
                 </div>
@@ -120,7 +120,7 @@
             <div class="row row-last">
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_jan.jpg">
+                <img src="/images/photo_jan.jpg">
                 <div class="copy">
                   Jan Filas
                 </div>
@@ -128,7 +128,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_josecarlos.jpg">
+                <img src="/images/photo_josecarlos.jpg">
                 <div class="copy">
                   Jose Carlos Miñarro
                 </div>
@@ -136,7 +136,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_josepablo.jpg">
+                <img src="/images/photo_josepablo.jpg">
                 <div class="copy">
                   Jose Pablo Martin
                 </div>
@@ -144,7 +144,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_luis.jpg">
+                <img src="/images/photo_luis.jpg">
                 <div class="copy">
                   Luis González
                 </div>

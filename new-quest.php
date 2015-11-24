@@ -11,7 +11,7 @@
 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.0/css/bootstrap-datepicker3.min.css" rel="stylesheet" type="text/css" />
-  <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.0/js/bootstrap-datepicker.min.js"></script>
     <script src="https://cdn.ckeditor.com/4.4.7/basic/ckeditor.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.js"></script>  
@@ -21,7 +21,12 @@
 
   </head>
   <body class="quest-builder">
-    <div style="position:absolute; width:100%; height:100%; opacity:0.4; display:none" class="overlay"></div>
+    <div style=" display:none" class="overlay">
+        <div>
+        <img src="/images/477.GIF" alt="">
+        <h4>Submitting Form...</h4>
+        </div>
+    </div>
     <div class="div-wrapper">
 
   <!-- COMMON FOOTER -->
@@ -48,7 +53,7 @@
             </ul>
             <div class="clearfix"></div>
           </div>
-          <form method="post" action="create_quest.php" id="the_form" name="the_form">
+          <form method="post" action="/create_quest.php" id="the_form" name="the_form">
           <ul class="builder_step_list">
             <li class="step_1_holder">
               <div class="step_box">
@@ -87,7 +92,7 @@
                         
                         <div class="outer_pic row" data-id="outer_pic">
                           <div class="inner_pic col-xs-2" data-id="photo_div">
-                            <img data-id="no_image" id="no_background_image" src="images/no_image.png" alt="Please, select an image" class="empty_image">
+                            <img data-id="no_image" id="no_background_image" src="/images/no_image.png" alt="Please, select an image" class="empty_image">
                             <img data-id="photo" id="background_image_preview" style="display: none; max-width:100%; max-height:100%">
                           </div>
                           <div class="right-box col-xs-10">
@@ -448,7 +453,7 @@
 
           <div class="builder_footer">
 
-              <a class="btn-lg btn btn-default back col-xs-4 pull-left" href="index.html#welcome">
+              <a class="btn-lg btn btn-default back col-xs-4 pull-left" href="/static/index.html#welcome">
                 Return to the Homepage
               </a>
           
@@ -724,6 +729,7 @@ content_editor.on( 'change', function(evt) {
     $('.create_quest_button').on('click', function()
     {
       $('.overlay').show();
+      $('body').addClass("modal-open");
       $('#the_form').submit();
     })
 
@@ -752,6 +758,7 @@ content_editor.on( 'change', function(evt) {
       {
         //success
         $('.overlay').hide();
+        $('body').removeClass("modal-open");
       }
     })
 });

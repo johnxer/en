@@ -21,8 +21,13 @@ Deny from all
 RewriteCond %{THE_REQUEST} ^.*/index\.php 
 RewriteRule ^(.*)index.php$ /$1 [R=301,L] 
 
-RewriteRule ^static/team.html$                              /team.php [L] 
-RewriteRule ^static/in-news.html$                           /in-news.php [L] 
-RewriteRule ^static/faq.html$                               /faq.php [L] 
-RewriteRule ^static/terms-of-service.html$                  /terms-of-service.php [L] 
-RewriteRule ^static/privacy.html$                  			/privacy.php [L] 
+RewriteRule ^static/team.html$                              team.php [L] 
+RewriteRule ^static/in-news.html$                           in-news.php [L] 
+RewriteRule ^static/faq.html$                               faq.php [L] 
+RewriteRule ^static/terms-of-service.html$                  terms-of-service.php [L] 
+RewriteRule ^static/privacy.html$                  			privacy.php [L] 
+RewriteRule ^static/blog.html$                  			blog.php [L] 
+RewriteRule ^static/download-app.html$                  	download-app.php [L] 
+RewriteRule ^static/new-quest.html$                  		new-quest.php [L]	
+RewriteRule ^static/create-quest.php$                  									create-quest.php [L]
+RewriteRule ^static/blogpost_challenges_mobile_advertising.html$                  		blogpost_challenges_mobile_advertising.php [L]

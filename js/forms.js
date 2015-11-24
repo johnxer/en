@@ -8,7 +8,7 @@ $(document).ready(function(){
 
             $.ajax({
              type:'POST',
-             url: './learn_more.php',
+             url: '/learn_more.php',
              data: $('#learn_more_form').serialize()})
                 .done(function() {
                       $('#learn_more_form').get(0).reset();
