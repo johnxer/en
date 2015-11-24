@@ -5,10 +5,26 @@ body.dragging, body.dragging * {
     cursor: move !important;
 }
 
+a, button {
+    outline: none;
+
+    &:focus {
+        outline: none;
+    }
+}
+
 .dragged {
     position: absolute;
     opacity: 0.5;
     z-index: 2000;
+}
+
+.important_block {
+    float: right;
+    position: relative;
+    top: 14px;
+    font-size: 14px;
+    margin-right: 10px;
 }
 
 .highlighted_box {
@@ -68,6 +84,17 @@ ol.example li.placeholder:before {
                 top: 1px;
                 line-height: 1;
             }
+        }
+    }
+
+    &.disabled {
+        background: #eee;
+        border-color: #ddd;
+        color: #ccc;
+
+        .circle {
+            background: #ddd;
+            color: #fff;
         }
     }
 }
@@ -2546,6 +2573,13 @@ ul#nav {
         color: #fff;
         background-color: #47a447;
         border-color: #398439;
+    }
+
+    &.disabled {
+        cursor: default;
+        background: #eee;
+        border-color: #ddd;
+        color: #ccc;
     }
 }
 

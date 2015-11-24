@@ -66,6 +66,7 @@
                   <a class="next btn-lg btn btn-cyan col-xs-3 pull-right next_step_1" rel="1" href="javascript:void(0)">
                     Next<span class="circle"><i class="fa fa-angle-right"></i></span>
                   </a>
+                  <div style="display: none;" class="important_block important_1">Please describe the Quest!</div>
                   <div class="clearfix"></div>
                 </div>
                 <div class="clearfix"></div>
@@ -115,6 +116,7 @@
                 <a class=" pull-right btn-lg btn btn-cyan next col-xs-3 next_step_2" rel="2" href="javascript:void(0)">
                   <span class="circle"><i class="fa fa-angle-right"></i></span>Next
                 </a>
+                <div class="important_block important_2">Please upload the image first!</div>
                 <div class="clearfix"></div>
               </div>
               <div class="clearfix"></div>
@@ -161,6 +163,7 @@
                 <a class="btn-lg btn btn-cyan next col-xs-3 pull-right next_step_3" rel="3" href="javascript:void(0)">
                   Next<span class="circle"><i class="fa fa-angle-right"></i></span>
                 </a>
+                <div class="important_block important_3">Please define at least one activity and/or fill all the fields!</div>
                 <div class="clearfix"></div>
               </div>
               <div class="clearfix"></div>
@@ -221,6 +224,7 @@
               <a class="btn-lg btn btn-cyan col-xs-3 next pull-right next_step_4" rel="4" href="javascript:void(0)">
                 Next<span class="circle"><i class="fa fa-angle-right"></i></span>
               </a>
+              <div class="important_block important_3">Please fill all the fields first!</div>
               <div class="clearfix"></div>
             </div>
             <div class="clearfix"></div>
@@ -373,6 +377,7 @@
               <a class="btn-lg btn btn-cyan col-xs-3 pull-right next next_step_5" rel="5" href="javascript:void(0)">
                 Next<span class="circle"><i class="fa fa-angle-right"></i></span>
               </a>
+              <div class="important_block important_5">Please fill all the fields first!</div>
               <div class="clearfix"></div>
             </div>
             <div class="clearfix"></div>
@@ -424,6 +429,7 @@
             <a class="btn-lg btn next pull-right btn-cyan col-xs-4 next_step_6 create_quest_button" rel="6" href="javascript:void(0)">
               Receive Quest URL<span class="circle"><i class="fa fa-angle-right"></i></span>
             </a>
+            <div class="important_block important_6">Please fill all the fields first!</div>
             <div class="clearfix"></div>
           </div>
           <div class="clearfix"></div>
@@ -799,9 +805,11 @@ $(this).removeClass(".mini-bar");
 function validate_step_1()
 {
   $('.next_step_1').addClass('disabled');
+  $('.important_1').show();
   if (CKEDITOR.instances['editorTPcontent'].getData().length > 0)
   {
      $('.next_step_1').removeClass('disabled');
+     $('.important_1').hide();
   }
 }
 
@@ -811,12 +819,15 @@ function validate_step_2()
   if ($('#background_image').val() != '')
   {
      $('.next_step_2').removeClass('disabled');
+     $('.important_2').hide();
+
   }
 }
 
 function validate_step_3()
 {
   $('.next_step_3').addClass('disabled');
+  $('.important_3').fadeIn();
 
   if ($('.task_list > li').length == 0) return;
 
@@ -848,6 +859,7 @@ function validate_step_3()
   if (all_good)
   {
       $('.next_step_3').removeClass('disabled');
+      $('.important_3').hide();
   } 
 
   console.log(all_good)
@@ -859,6 +871,7 @@ function validate_step_4()
   if ($('#coupon_code').val()!='')
   {
     $('.next_step_4').removeClass('disabled');
+    $('.important_4').hide();
   }
 }
 
@@ -877,6 +890,7 @@ function validate_step_5()
 
   if (all_good)
     $('.next_step_5').removeClass('disabled');
+    $('.important_5').hide();
 }
 
 function validate_step_6()
@@ -894,6 +908,7 @@ function validate_step_6()
 
   if (all_good)
     $('.next_step_6').removeClass('disabled');
+    $('.important_6').hide();
 }
 
 function readURL(input) {
