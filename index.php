@@ -237,6 +237,7 @@
   {
     console.log('xxx');
     $('.learn_more_submit').addClass('disabled');
+    $('.important_lm').show();
     var all_good=true;
     
     $.each($('.learn_more_validation'), function()
@@ -248,7 +249,10 @@
         }
     })
 
-    if (all_good ) $('.learn_more_submit').removeClass('disabled');
+    if (all_good ) {
+      $('.learn_more_submit').removeClass('disabled');
+      $('.important_lm').hide();
+    }
   }
 $(document).ready(function(){
   $('.learn_more_validation').on('change keyup', function()

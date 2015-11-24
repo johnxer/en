@@ -816,6 +816,7 @@ function validate_step_1()
 function validate_step_2()
 {
   $('.next_step_2').addClass('disabled');
+  $('.important_2').show();
   if ($('#background_image').val() != '')
   {
      $('.next_step_2').removeClass('disabled');
@@ -868,6 +869,7 @@ function validate_step_3()
 function validate_step_4()
 {
   $('.next_step_4').addClass('disabled');
+  $('.important_4').show();
   if ($('#coupon_code').val()!='')
   {
     $('.next_step_4').removeClass('disabled');
@@ -878,6 +880,7 @@ function validate_step_4()
 function validate_step_5()
 {
   $('.next_step_5').addClass('disabled');
+  $('.important_5').show();
   var all_good=true;
   $.each($('.step_5_validation'), function()
   {
@@ -888,14 +891,16 @@ function validate_step_5()
     }
   })
 
-  if (all_good)
+  if (all_good){
     $('.next_step_5').removeClass('disabled');
-    $('.important_5').hide();
+    $('.important_5').hide(); 
+  }
 }
 
 function validate_step_6()
 {
   $('.next_step_6').addClass('disabled');
+  $('.important_6').show(); 
   var all_good=true;
   $.each($('.step_6_validation'), function()
   {
@@ -906,9 +911,10 @@ function validate_step_6()
     }
   })
 
-  if (all_good)
+  if (all_good){
     $('.next_step_6').removeClass('disabled');
     $('.important_6').hide();
+  }
 }
 
 function readURL(input) {

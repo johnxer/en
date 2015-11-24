@@ -202,7 +202,9 @@
               </div>
               <div class="modal-footer" style="margin-top: 0;">
                 <button style="float: left; width: 100px;" type="button" class="button button-grey" data-dismiss="modal">Close</button>
-                <button style="width: 200px;" class="button button-green learn_more_submit disabled" type="button"><i class="fa fa-paper-plane"></i> Submit</button>
+                <button style="float: right;width: 200px;" class="button button-green learn_more_submit disabled" type="button"><i class="fa fa-paper-plane"></i> Submit</button>
+                <div class="important_block important_lm">Please fill all the fields first!</div>
+
               </div>
             </form>
           </div>
