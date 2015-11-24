@@ -47,3 +47,4 @@ require_once('swiftmailer/swift_required.php');
 	$message->setBody($the_body, 'text/html');
 
 	$result = $mailer->send($message);
+ 
