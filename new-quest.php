@@ -224,7 +224,7 @@
               <a class="btn-lg btn btn-cyan col-xs-3 next pull-right next_step_4" rel="4" href="javascript:void(0)">
                 Next<span class="circle"><i class="fa fa-angle-right"></i></span>
               </a>
-              <div class="important_block important_3">Please fill all the fields first!</div>
+              <div class="important_block important_4">Please fill all the fields first!</div>
               <div class="clearfix"></div>
             </div>
             <div class="clearfix"></div>
@@ -827,7 +827,7 @@ function validate_step_2()
 function validate_step_3()
 {
   $('.next_step_3').addClass('disabled');
-  $('.important_3').fadeIn();
+  $('.important_3').show();
 
   if ($('.task_list > li').length == 0) return;
 
