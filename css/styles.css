@@ -24,14 +24,6 @@ ol.example li.placeholder:before {
   /** Define arrowhead **/ }
 
 .btn-cyan {
-  color: #fff;
-  background: #36d6c5;
-  border-color: #17B7A6; }
-  .btn-cyan:hover {
-    color: #fff;
-    background: #17B7A6; }
-
-.btn-cyan {
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;

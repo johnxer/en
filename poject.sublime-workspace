@@ -120,74 +120,155 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "includes/header.php",
 			"settings":
 			{
-				"buffer_size": 35263,
+				"buffer_size": 1355,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "in-news.html",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 20557,
+				"buffer_size": 16370,
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta name=\"description\" content=\"Short video of the Eagle Ninja Quest Marketing App and app download link so you can earn money while having fun and improving the products you like\">\n<meta name=\"keywords\" content=\"Gaming app discovery,quest marketing,mobile shopping,performance based advertising,CPA based advertising,mobile advertising,mobile app gamification,advertising gamification\">\n<title>Download of the Eagle Ninja Quest Marketing App</title>\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"favicon2.ico\"/>\n<link href=\"https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n<link href=\"css/bootstrap.min.css\" rel=\"stylesheet\" type=\"text/css\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap-select.min.css\">\n<link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/css\" />\n<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>\n<script type=\"text/javascript\" src=\"https://code.jquery.com/jquery-1.11.0.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/bootstrap-select.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/jquery.parallax-1.1.3.js\"></script>\n<script type=\"text/javascript\" src=\"js/jquery.localscroll-1.2.7-min.js\"></script>\n<script type=\"text/javascript\" src=\"js/jquery.scrollTo.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/jquery-timing.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/forms.js\"></script>   \n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n</head>\n\n<body class=\"download_app\">            \n  <div class=\"div-wrapper\">\n\n\n    <div class=\"fixed-bar\">\n      <div class=\"container-fluid\">\n        <div class=\"row\">\n          <div class=\"col-xs-8 col-xs-offset-2 col-md-2 col-md-offset-0 logo_wrapper\">\n            <a id=\"logo\" href=\"index.php#welcome\" alt=\"\"><img class=\"img-responsive\" src=\"images/logo.png\"></a>\n          </div>\n          \n          <div class=\"col-xs-12 col-md-10\">\n            <ul id=\"\" class=\"main_menu\">\n              \n              <li><a href=\"index.php#what-is-eagleninja\">What we do</a></li>\n              <li><a href=\"index.php#value-proposition\">Value Proposition</a></li>\n              <li><a href=\"index.php#types-of-quests\">Examples</a></li>\n              <li><a href=\"index.php#pricing\">Pricing</a></li>\n              <li><a href=\"/team.php\">Who we are</a></li></li>\n              <li><a href=\"/in-news.php\">In the News</a></li></li>\n              <li><a href=\"index.php#contact\">Contact</a></li>\n              <li><a href=\"index.php#clients\">Clients</a></li>\n\n            </ul>\n\n          </div>\n        </div>\n      </div>\n    </div>\n\n      \n      <div class=\"container \">\n      	<div class=\"row\" >\n      	<div class=\"col-xs-12 col-sm-10 col-sm-offset-1\">\n<h2 style=\"background: none;border-bottom: 0; color:#fff; text-transform: none; margin-bottom: 20px; color: rgba(255,255,255,0.9)\">\n<!--<a href=\"index.html\"><i class=\"fa fa-chevron-left\"></i></a> --><strong style=\"color: #168e7d\">WATCH</strong> & <strong>DOWNLOAD APP</strong>\n</h2>      \n</div>\n</div>\n            <div class=\"well\" style=\"background: none;border: none; box-shadow: none;\">\n            <div class=\"row\">\n            	<div class=\"col-sm-6 col-sm-offset-1\">\n					<div style=\"padding: 0px\">\n						<div class='embed-container'><iframe src='http://www.youtube.com/embed/hA68UhxdWn4' frameborder='0' allowfullscreen></iframe>\n						</div>\n					</div>\n            	</div>            	\n            	<div class=\"col-sm-4\">\n            	<div style=\"padding: 0px\">\n              <p style=\"font-size: 14px;color: #fff;\">Download the Eagle Ninja Quest Marketing App to earn money while doing the things you like, and improving the products you care about!</p>\n\n<p style=\"font-size: 14px;color: #fff;margin-bottom: 10px;\">Download games, play them and earn money for reaching key levels</p>\n\n<p style=\"font-size: 14px;color: #fff;margin-bottom: 10px;\">Give us your feedback on new apps</p>\n\n<p style=\"font-size: 14px;color: #fff;margin-bottom: 10px;\">Test drive cars in nearby dealerships</p>\n\n<p style=\"font-size: 14px;color: #fff;margin-bottom: 10px;\">Try on cool outfits or new cosmetic brands</p>\n\n<p style=\"font-size: 14px;color: #fff;margin-bottom: 10px;\">And earn money while having fun!!</p>\n				</p>\n              <ul class=\"download_links\">\n              <li>\n                <a href=\"https://itunes.apple.com/app/id944191030\">\n                  <img alt=\"DOwnload on the AppStore\"\n                       src=\"images/Download_on_the_App_Store_Badge_US-UK_135x40.svg\" />\n                </a>\n                <div style=\"clear:both; display: block; \"></div>\n              </li>\n              <li>\n                <a href=\"https://play.google.com/store/apps/details?id=com.eagleninja.app&hl=en\">\n                  <img alt=\"Get it on Google Play\"\n                       src=\"https://developer.android.com/images/brand/en_generic_rgb_wo_45.png\" />\n                </a>\n                <div style=\"clear:both; display: block; \"></div>\n              </li>\n              </ul>              \n        <div style=\"clear:both; display: block; \"></div>\n				</div>\n            	</div>\n            </div>\n            <div style=\"clear:both; display: block; \"></div>\n    </div>\n  </div>\n  <div class=\"push\"></div>\n</div>\n    <div id=\"footer\">\n      <div class=\"story text-center\">\n        <ul class=\"download_links\">\n          <li>\n            <a href=\"https://itunes.apple.com/app/id944191030\">\n              <img alt=\"DOwnload on the AppStore\" src=\"images/Download_on_the_App_Store_Badge_US-UK_135x40.svg\">\n            </a>\n            <div style=\"clear:both; display: block; \"></div>\n          </li>\n          <li>\n            <a href=\"https://play.google.com/store/apps/details?id=com.eagleninja.app&amp;hl=en\">\n              <img alt=\"Get it on Google Play\" src=\"https://developer.android.com/images/brand/en_generic_rgb_wo_45.png\">\n            </a>\n            <div style=\"clear:both; display: block; \"></div>\n          </li>\n        </ul>\n        <ul>\n          <!--<li><a data-toggle=\"modal\" data-target=\"#affiliate-form\" href=\"javascript:void(0)\">Become an Affiliate</a></li>-->\n          <!--<li><a href=\"in-news.html\">In the news</a></li>-->\n          <!--<li><a href=\"download-app.html\">Download App</a></li>-->\n          <li><a class=\"<?php echo ($_SERVER['PHP_SELF'] == '/faq.php' ? ' active' : '');?>\" href=\"/faq.php\">FAQ</a></li></li>\n          <li><a class=\"<?php echo ($_SERVER['PHP_SELF'] == '/privacy.php' ? ' active' : '');?>\" href=\"/privacy.php\">Privacy policy</a></li></li>\n          <li><a class=\"<?php echo ($_SERVER['PHP_SELF'] == '/terms-of-service.php' ? ' active' : '');?>\" href=\"/terms-of-service.php\">Terms of service</a></li></li>\n          <li><a class=\"<?php echo ($_SERVER['PHP_SELF'] == '/blog.php' ? ' active' : '');?>\" href=\"/blog.php\">Blog</a></li></li>\n        </ul>\n        <p>&copy; 2015 eagleninja</p>\n        <ul class=\"social-icons\" style=\"clear: left\">\n          <li><a class=\"fb\" href=\"https://www.facebook.com/EagleNinja\"><i class=\"fa fa-facebook\"></i></a></li>\n          <li><a class=\"tw\" href=\"https://twitter.com/EagleNinjaCorp\"><i class=\"fa fa-twitter\"></i></a></li>\n          <li><a class=\"gp\" href=\"https://plus.google.com/103793372995570130930\" rel=\"publisher\"><i class=\"fa fa-google-plus\"></i></a></li>\n        </ul>\n      </div>\n    </div>\n\n        <!-- Modal -->\n    <div class=\"modal fade\" id=\"affiliate-form\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">\n      <div class=\"modal-dialog\">\n        <div class=\"modal-content\">\n          <div class=\"modal-header\">\n            <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n            <h4 class=\"modal-title\" id=\"myModalLabel\">Interested in collaborating with Eagle Ninja?</h4>\n          </div>\n          <div class=\"screen-1\">\n            <form id=\"form-affiliate\">\n              <div class=\"modal-body \">\n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Name:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"aff_name\" type=\"text\" placeholder=\"Please enter your name\" id=\"aff_name\">\n                  </div>\n                </div>\n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Email:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"aff_email\" type=\"email\" placeholder=\"Please enter your email\" id=\"aff_email\">\n                  </div>\n                </div>\n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Tel. number:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"aff_phone\" type=\"phone\" placeholder=\"Please enter your phone number\" id=\"aff_phone\">\n                  </div>\n                </div>\n                <div class=\"control-group\" style=\"margin-bottom: 0;\">\n                  <label class=\"\" style=\"\">\n                    Please let us know the categories, product or service areas or verticals in which you would be able to collaborate in because of your expertise and network:\n                  </label>\n                  <div class=\"\" style=\"margin-top: 5px\">\n                    <textarea name=\"aff_intend\" id=\"aff_intend\" placeholder=\"Please write your message here...\"></textarea>\n                  </div>\n                </div>\n                \n              </div>\n              <div class=\"modal-footer\" style=\"margin-top: 0;\">\n                <button style=\"float: left; width: 100px;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n                <button style=\"width: 200px;\" type=\"submit\" class=\"button button-green\"><i class=\"fa fa-paper-plane\"></i> Submit</button>\n              </div>\n            </form>\n          </div>\n          <div class=\"screen-2\" style=\"display: none;\">\n            <div class=\"modal-body \">\n              <h4 style=\"\">\n              <i style=\"\" class=\"fa fa-check-circle\"></i> Message successfully sent!\n              </h4>\n              \n            </div>\n            <div class=\"modal-footer\" style=\"margin-top: 0;\">\n              <button style=\"float: left; width: 100%;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n              \n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n    <!-- Modal -->\n    <div class=\"modal fade\" id=\"video-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">\n      <div class=\"modal-dialog\">\n        <div class=\"modal-content\">\n          <div class=\"modal-header\">\n            <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n            <h4 class=\"modal-title\" id=\"myModalLabel\">Eagle ninja</h4>\n          </div>\n          <div class=\"modal-body \">\n            <div class=\"video-box\" style=\"text-align: center; position: relative; height: 100%;\">\n              <div class=\"videoWrapper\">\n                \n                <!--                                <iframe id=\"utubevideo\" width=\"\" height=\"\" src=\"http://www.youtube.com/embed/n_dZNLr2cME?rel=0&hd=1&enablejsapi=1\" frameborder=\"0\" allowfullscreen></iframe>-->\n                <!--<iframe id=\"utubevideo\" width=\"800\" height=\"450\" src=\"//www.youtube.com/embed/hA68UhxdWn4?rel=0&enablejsapi=1\" frameborder=\"0\" allowfullscreen></iframe>-->\n              </div>\n            </div>\n            \n          </div>\n          <div class=\"modal-footer\" style=\"margin-top: 0;\">\n            <button id=\"stopVideo\" style=\"float: left; width: 100%;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n          </div>\n        </div>\n      </div>\n    </div>\n      <!-- Modal -->\n    <div class=\"modal fade\" id=\"sponsor-form\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">\n      <div class=\"modal-dialog\">\n        <div class=\"modal-content\">\n          <div class=\"modal-header\">\n            <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n            <h4 class=\"modal-title\" id=\"myModalLabel\">Custom Demo</h4>\n          </div>\n          <div class=\"screen-1\" style=\"\">\n            <form id=\"learn_more_form\" action=\"learn_more.php\" method=\"post\">\n              <div class=\"modal-body \">\n                \n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Name:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"sponsor_name\" type=\"text\" placeholder=\"Please enter your name\" id=\"sponsor_name\" class=\"learn_more_validation\">\n                  </div>\n                </div>\n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Email:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"sponsor_email\" type=\"email\" placeholder=\"Please enter your email\" id=\"sponsor_email\" class=\"learn_more_validation\">\n                  </div>\n                </div>\n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Tel.number:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"sponsor_phone\" type=\"phone\" placeholder=\"Please enter your phone number\" id=\"sponsor_phone\" class=\"learn_more_validation\">\n                  </div>\n                </div>\n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Company name:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"sponsor_cname\" type=\"text\" placeholder=\"Please enter your company name\" id=\"sponsor_cname\" class=\"learn_more_validation\">\n                  </div>\n                </div>\n                <div class=\"control-group\">\n                  <label class=\"\">\n                    Please enter the category or product you are interested in:\n                  </label>\n                  <div class=\"\" style=\"margin-top: 5px\">\n                    <textarea name=\"aff_intend\" id=\"aff_intend\" placeholder=\"Please write your message here...\" class=\"learn_more_validation\"></textarea>\n                  </div>\n                </div>\n                \n                <div class=\"control-group\" style=\"\">\n                  <label class=\"control-label\" style=\"width: 300px;\">\n                    How did you hear of eagleninja?\n                  </label>\n                  <div class=\"controls select-block\" style=\"margin-left: 310px;\">\n                    <select name=\"sponsor_heard\" class=\"learn_more_validation\">\n                      <option disabled selected>Please select one option</option>\n                      <option value=\"1\">Blog</option>\n                      <option value=\"2\">Press mention</option>\n                      <option value=\"3\">Advertisement</option>\n                      <option value=\"4\">Referral</option>\n                      <option value=\"5\">Other</option>\n                    </select>\n                  </div>\n                </div>\n                <div class=\"control-group\" style=\"margin-bottom: 0;\">\n                  <label class=\"\" style=\"margin-bottom: 5px;\">\n                    Please let us know who referred you so we can thank them:\n                  </label>\n                  <div class=\"controls select-block\" style=\"margin-left:130px\">\n                    <input name=\"sponsor_referral\" type=\"text\" placeholder=\"Enter your referral\" id=\"sponsor_referral\" class=\"learn_more_validation\">\n                  </div>\n                </div>\n                \n              </div>\n              <div class=\"modal-footer\" style=\"margin-top: 0;\">\n                <button style=\"float: left; width: 100px;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n                <button style=\"width: 200px;\" class=\"button button-green learn_more_submit disabled\" type=\"button\"><i class=\"fa fa-paper-plane\"></i> Submit</button>\n              </div>\n            </form>\n          </div>\n          <div class=\"screen-2\" style=\"display: none;\">\n            <div class=\"modal-body \">\n              <h4 style=\"\">\n              <i style=\"\" class=\"fa fa-check-circle\"></i> Message successfully sent!\n              </h4>\n              \n            </div>\n            <div class=\"modal-footer\" style=\"margin-top: 0;\">\n              <button style=\"float: left; width: 100%;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n              \n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n    <!-- Modal iOS User-->\n    <div class=\"modal fade\" id=\"iOS-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">\n      <div class=\"modal-dialog\">\n        <div class=\"modal-content\">\n          <div class=\"modal-header\">\n            <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n            <h4 class=\"modal-title\" id=\"myModalLabel\">iOS App</h4>\n            <h5>You are trying to download the Eagle Ninja App from an iOS device.\n            For the moment the Eagle Ninja App is only available for Android devices. We shall have a version for iOS in the near future, please fill in this form if you would like to be notified when the iOS version is available:</h5>\n          </div>\n          <form id=\"iOS-form\">\n            <div class=\"modal-body \">\n              <div class=\"control-group\">\n                <label class=\"control-label\">\n                  Name:\n                </label>\n                <div class=\"controls\">\n                  <input name=\"iOS_name\" type=\"text\" placeholder=\"Please enter your name\" id=\"iOS_name\">\n                </div>\n              </div>\n              <div class=\"control-group\">\n                <label class=\"control-label\">\n                  Email:\n                </label>\n                <div class=\"controls\">\n                  <input name=\"iOS_email\" type=\"email\" placeholder=\"Please enter your email\" id=\"iOS_email\">\n                </div>\n              </div>\n              <div class=\"control-group\">\n                <label class=\"control-label\">\n                  Tel.number:\n                </label>\n                <div class=\"controls\">\n                  <input name=\"iOS_phone\" type=\"phone\" placeholder=\"Please enter your phone number\" id=\"iOS_phone\">\n                </div>\n              </div>\n            </div>\n            <div class=\"modal-footer\" style=\"margin-top: 0;\">\n              <button style=\"float: left; width: 100px;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n              <button style=\"width: 200px;\" type=\"submit\" class=\"button button-green\"><i class=\"fa fa-paper-plane\"></i> Submit</button>\n            </div>\n            <div id=\"email_confirmation\" class=\"alert alert-success\" role=\"alert\" style=\"display:none;\">Thank you, we shall contact you as soon as we have the iOS version of Eagle Ninja available at the Apple Store</div>\n          </form>\n        </div>\n      </div>\n    </div>\n\n\n</body>\n</html>\n<script>\n$(document).ready(function(){\n\n$(\".fixed-bar\").addClass(\"mini-bar\");\n\n      $(\"a#nav-show\").click(function(){\n            $(\"#nav\").fadeIn(300);\n            $(this).addClass(\"active\");\n      \n     \n     });\n\n\n      $(\"a.circle-arrow\").click(function(){\n            if($(\".fixed-bar\").hasClass(\"mini-bar\")){\n               \n               $(\".fixed-bar\").removeClass(\"mini-bar\");\n\n            }else{\n\n            $(\".fixed-bar\").addClass(\"mini-bar\");\n            }\n      });\n    \n\n\n});  \n$(document).mouseup(function (e)\n{\n    var container = $(\"#nav\");\n    var trigger = $(\"a#nav-show\");\n    \n    if (!container.is(e.target) // if the target of the click isn't the container...\n        && container.has(e.target).length === 0) // ... nor a descendant of the container\n    {\n        container.hide();\n        trigger.removeClass(\"active\");\n    }\n});\n\n\n        $(window).on('load', function () {\n\n            $('.selectpicker').selectpicker({\n                'selectedText': 'cat'\n            });\n\n            // $('.selectpicker').selectpicker('hide');\n        });\n\n</script>                                                                        \n\n<script>\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()\n{ (i[r].q=i[r].q||[]).push(arguments)}\n,i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\nga('create', 'UA-53060589-1', 'auto');\nga('send', 'pageview');\n\n\n\n//Check Mobile Devices\n\nvar checkMobile = function(){\n\n\n\n    //Check Device\n\n    var isTouch = ('ontouchstart' in document.documentElement);\n\n\n\n    //Check Device //All Touch Devices\n\n    if ( isTouch ) {\n\n\n\n        $('html').addClass('touch');\n\n        $(\".fixed-bar\").addClass(\"mini-bar\");\n\n      $(window).scroll(\n    {\n        previousTop: 0\n    }, \n    function () {\n    var currentTop = $(window).scrollTop();\n    if (currentTop < this.previousTop) {\n   \n    } else {\n   \n        /*$(\".fixed-bar\").fadeOut(300);*/\n        $(\".fixed-bar\").addClass(\"mini-bar\");\n    }\n    this.previousTop = currentTop;\n});\n\n\n    }\n\n    else {\n\n\n\n        $('html').addClass('no-touch');\n\n\n\n      $(window).scroll(\n    {\n        previousTop: 0\n    }, \n    function () {\n    var currentTop = $(window).scrollTop();\n    if (currentTop < this.previousTop) {\n   \n        /*$(\".fixed-bar\").fadeIn(500);*/\n        $(\".fixed-bar\").removeClass(\"mini-bar\");\n    } else {\n   \n        /*$(\".fixed-bar\").fadeOut(300);*/\n        $(\".fixed-bar\").addClass(\"mini-bar\");\n    }\n    this.previousTop = currentTop;\n});\n\n\n\n    };\n\n\n\n};\n\n\n\n//Execute Check\n\ncheckMobile();\n\n</script>",
+			"file": "download-app.php",
+			"file_size": 22987,
+			"file_write_time": 130927804573048930,
+			"settings":
+			{
+				"buffer_size": 22461,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <title>Launch of new Mobile Advertising & App Gamification | eagleninja</title>\n    <meta name=\"description\" content=\"Mobile App & Advertising Gamification\">\n    <meta name=\"keywords\" content=\"mobile advertising,mobile app gamification,mobile ad format,mobile marketing,quest marketing,advertising gamification\">\n    <link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"favicon2.ico\"/>\n    <link href=\"https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n    <link href=\"css/bootstrap.min.css\" rel=\"stylesheet\" type=\"text/css\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap-select.min.css\">\n    <link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>\n    <script type=\"text/javascript\" src=\"https://code.jquery.com/jquery-1.11.0.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/bootstrap-select.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/forms.js\"></script>\n    <script type=\"text/javascript\" src=\"js/jquery-ui.min.js\"></script>\n    \n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.0/js/bootstrap-datepicker.min.js\"></script>\n    <script src=\"https://cdn.ckeditor.com/4.4.7/basic/ckeditor.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.js\"></script>\n\n  </head>\n  <body class=\"quest-builder\">\n    <div style=\"position:absolute; width:100%; height:100%; opacity:0.4; display:none\" class=\"overlay\"></div>\n    <div class=\"div-wrapper\">\n      <div class=\"fixed-bar\">\n        <div class=\"container-fluid\">\n          <div class=\"row\">\n            <div class=\"col-xs-8 col-xs-offset-2 col-md-2 col-md-offset-0 logo_wrapper\">\n              <a id=\"logo\" href=\"index.html#welcome\" alt=\"\"><img class=\"img-responsive\" src=\"images/logo.png\"></a>\n            </div>\n            <!--\n            <div class=\"button-list\">\n              <a class=\"button\" href=\"#\" onclick=\"downloadApp()\"><i class=\"fa fa-android\"></i> Download app</a>\n              <a class=\"button\" href=\"https://chrome.google.com/webstore/detail/eagleninja/bckpbnecdjkffdjnhcjpmggfoegdaimp\"><i class=\"fa fa-puzzle-piece\"></i> Download extension</a>\n            </div>\n            -->\n            \n            <div class=\"col-xs-12 col-md-10\">\n              <ul class=\"main_menu\">\n                \n                <li><a href=\"index.html#what-is-eagleninja\">What we do</a></li>\n                <li><a href=\"index.html#value-proposition\">Value Proposition</a></li>\n                <li><a href=\"index.html#types-of-quests\">Types of Quests</a></li>\n                <li><a href=\"index.html#pricing\">Pricing</a></li>\n                <li><a href=\"team.html\">Who we are</a></li>\n                <li><a href=\"in-news.html\">In the News</a></li>\n                <li><a href=\"index.html#clients\">Clients</a></li>\n              </ul>\n              <!--\n              <a href=\"javascript:void(0)\" id=\"nav-show\"><i class=\"fa fa-bars\"></i></a>\n              <ul id=\"nav\" style=\"display: none;\">\n                <li><a href=\"#welcome\" title=\"Next Section\"><span class=\"circle\"></span> Welcome</a></li>\n                <li><a href=\"#what-is-eagleninja\" title=\"Next Section\"><span class=\"circle\"></span> What is eagleninja?</a></li>\n                <li><a href=\"#how-does-it-work\" title=\"Next Section\"><span class=\"circle\"></span> How does it work?</a></li>\n                <li><a href=\"index.html#agency\" title=\"Next Section\"><span class=\"circle\"></span> Are you an agency?</a></li>\n                <li><a href=\"#sponsors\" title=\"Next Section\"><span class=\"circle\"></span> What is a Sponsor?</a></li>\n                <li><a href=\"#how-do-join\" title=\"Next Section\"><span class=\"circle\"></span> How do I check it out?</a></li>\n                <li><a href=\"blog.html\" title=\"Next Section\"><span class=\"circle\"></span> Blog</a></li>\n              </ul>\n              \n              <a href=\"javascript:void(0)\" class=\"circle-arrow\"><img style=\"\" src=\"images/en-circle.png\"></a>\n              -->\n            </div>\n          </div>\n        </div>\n      </div>\n      \n      <div class=\"container\">\n        <h2>\n        <a href=\"index.html\"><i class=\"fa fa-chevron-left\"></i></a> Create a Quest for free\n        </h2>\n        <div class=\"well\">\n          <div class=\"progress-header-out\">\n            <ul class=\"create-product-step-list-new \">\n              <li> <a href=\"javascript:void(0)\" class=\"step-1 active\" rel=\"1\"><span class=\"value\"> Description</span> </a>  </li>\n              <li> <a href=\"javascript:void(0)\" class=\"step-2\" rel=\"2\"><span class=\"value\">Background Image</span></a> </li>\n              <li> <a href=\"javascript:void(0)\" class=\"step-3\" rel=\"3\" disabled=\"\"><span class=\"value\">Define activities</span></a></li>\n              <li style=\"\"> <a href=\"javascript:void(0)\" class=\"step-4 step-done\" rel=\"4\"><span class=\"value\">Set Reward</span></a></li>\n              <li> <a href=\"javascript:void(0)\" class=\"step-5\" rel=\"5\"><span class=\"value\">Other settings</span></a></li>\n              <li style=\"display:\"> <a href=\"javascript:void(0)\" rel=\"6\" class=\"step-6\"><span class=\"value\">Your details</span></a></li>\n              <li style=\"display:\"> <a href=\"javascript:void(0)\" rel=\"7\" class=\"step-7\"><span class=\"value\">Receive Quest URL</span></a></li>\n              \n              \n            </ul>\n            <div class=\"clearfix\"></div>\n          </div>\n          <form method=\"post\" action=\"create_quest.php\" id=\"the_form\" name=\"the_form\">\n          <ul class=\"builder_step_list\">\n            <li class=\"step_1_holder\">\n              <div class=\"step_box\">\n                <span>Step</span><div class=\"circle\"><span>1</span></div>\n              </div>\n              <div class=\"step_content\">\n                <h4>Describe the Quest</h4>\n                <div class=\"form-group new_input validated\">\n                  \n                  \n                  <textarea class=\"form-control\" id=\"editorTPcontent\" placeholder=\"\" name=\"description\">This is the description of what you will be asking your prospects or customers to do: <br />Make it sound fun and make sure you remind them of the reward they will receive!</textarea>\n                  \n                </div>\n                <div class=\"builder_footer\">\n                  <a class=\"next btn-lg btn btn-cyan col-xs-3 pull-right next_step_1\" rel=\"1\" href=\"javascript:void(0)\">\n                    Next<span class=\"circle\"><i class=\"fa fa-angle-right\"></i></span>\n                  </a>\n                  <div class=\"clearfix\"></div>\n                </div>\n                <div class=\"clearfix\"></div>\n              </div>\n            </li>\n            <li  class=\"step_2_holder\">\n              <div class=\"step_box\">\n                <span>Step</span><div class=\"circle\"><span>2</span></div>\n              </div>\n              <div class=\"step_content\">\n                <h4>Upload a background image</h4>\n                <div class=\"form-group new_input\">\n                  \n                  <div class=\"input-group\" style=\"width: 100%;\">\n                    <div data-id=\"photo\" data-jq-toggle=\"editable\">\n                      <div>\n                        \n                        \n                        <div class=\"outer_pic row\" data-id=\"outer_pic\">\n                          <div class=\"inner_pic col-xs-2\" data-id=\"photo_div\">\n                            <img data-id=\"no_image\" id=\"no_background_image\" src=\"images/no_image.png\" alt=\"Please, select an image\" class=\"empty_image\">\n                            <img data-id=\"photo\" id=\"background_image_preview\" style=\"display: none; max-width:100%; max-height:100%\">\n                          </div>\n                          <div class=\"right-box col-xs-10\">\n                            <p data-id=\"text\">\n                              <span data-jq-text=\"msg\">Choose a background image that will be visible throughout the Quest.</span><br><span>Photo must be <span data-jq-text=\"width\">416</span>x<span data-jq-text=\"height\">170</span> pixels minimum</span><br><span>Valid extensions are: <span data-jq-text=\"extensions\">png, jpg, jpeg</span></span><br><label data-id=\"validation_msg\" class=\"error\" style=\"display:none\">The image is required</label>\n                            </p>\n                            <div style=\"margin-top: 10px; position:relative;\">\n                              <input type=\"file\" data-id=\"photo_file\" name=\"background_image\" id=\"background_image\" style=\"opacity:0; position:absolute;width:120px; cursor:pointer\">\n                              <button type=\"button\" class=\"btn btn-grey \" data-id=\"photo_btn\">\n                              <span style=\"margin-right: 5px\" class=\"fa fa-file\"></span> Select image\n                              <div id=\"background_image_error\" style=\"position:absolute; font-weight:bold; color:red; top:40px; display:none;\"></div>\n                              </button>\n                              \n                            </div>\n                          </div>\n                        </div>\n                        <div data-id=\"photo_effects\"></div>\n                      </div>\n                    </div>\n                  </div>\n                </div>\n                <div class=\"builder_footer\">\n                  <a class=\"btn-lg btn-back back btn btn-default col-xs-2\" href=\"javascript:void(0)\" rel=\"2\" ><span class=\"circle\"><i class=\"fa fa-angle-left\"></i></span>\n                  Back\n                </a>\n                <a class=\" pull-right btn-lg btn btn-cyan next col-xs-3 next_step_2\" rel=\"2\" href=\"javascript:void(0)\">\n                  <span class=\"circle\"><i class=\"fa fa-angle-right\"></i></span>Next\n                </a>\n                <div class=\"clearfix\"></div>\n              </div>\n              <div class=\"clearfix\"></div>\n            </div>\n          </li>\n          <li class=\"step_3_holder\">\n            <div class=\"step_box\">\n              <span>Step</span><div class=\"circle\"><span>3</span></div>\n            </div>\n            <div class=\"step_content\">\n              <h4>Define the activities</h4>\n              <p>\n                Define the tasks, instructions and questions for the Quest. They can be arranged (drag & drop) in any order, and can include watching a video, uploading an image, taking a photo, answering questions, an offer for a special discount or promotion, instructions on activities, places to visit, links to download an app etc.\n              </p>\n              <div class=\"tasks_wrapper\">\n                <div class=\"task_block\">\n                  <div class=\"row\">\n                    <div class=\"col-xs-12\">\n                      <ul id=\"draggablePanelList\" class=\"task_list\"><!-- \n\n\n                        <li class=\"panel panel-info\">\n                          <div class=\"panel-heading\"><i class=\"fa fa-arrows\"></i></div>\n                          <div class=\"panel-body\">\n\n                            <div class=\"minimized\" style=\"display: none;\">\n                              <div class=\"form-group new_input col-left validated col-sm-8\">\n                                <label for=\"\">Activity description and/or instructions</label>\n                                <h5>Please watch this brief clip</h5>\n                              </div>\n                              <div class=\"form-group new_input col-right col-sm-4\">\n                                <label for=\"\">Type</label>\n                                <h5>\n                                Watch a video\n                                </h5>\n                              </div>\n                              <div class=\"clearfix\"></div>\n                            </div>\n                            <div class=\"full form-horizontal\" style=\"\">\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Type</label>\n                                <div class=\"col-sm-7\">\n                                      <div class=\"static-input\">\n                                      Watch a video\n                                      </div>\n\n                                </div>\n                              </div>\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Activity description and/or instructions</label>\n                                <div class=\"col-sm-7\">\n                                  <textarea name=\"editorT1\" id=\"editorT1\" rows=\"10\" cols=\"80\" class=\"form-control\" placeholder=\"Enter question\">Watch this brief clip</textarea>\n                                </div>\n                              </div>\n                              <div class=\"form-group\" style=\"margin-bottom: 0;\">\n                                <div class=\"col-sm-offset-5 col-sm-7\">\n                                  <div class=\"quest_video_upload\" style=\"\">\n                                    <a href=\"javascript:void()\">\n                                      <input type=\"file\" data-id=\"video\" accept=\"video/*\" data-filename-placement=\"inside\" data-jq-val=\"video\" data-jq-toggle=\"enabled\" style=\"\">\n                                    </a>\n                                    <div class=\"help-block\">\n                                        <p>Free Mobile Quests are limited to only one video per Quest, of a maximum of 15MB. In Premium Quests you can set up as many Video tasks as you like, and with larger size video files.</p>\n                                    </div>\n\n                                  </div>\n                                </div>\n                              </div>\n                             \n                          </div>\n                          </div>\n                          <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Collapse Task\"><i class=\"fa fa-minus\"></i></button>\n                          <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Task\"><i class=\"fa fa-times\"></i></button>\n                        </li>\n                        <li class=\"panel panel-info\">\n                          <div class=\"panel-heading\"><i class=\"fa fa-arrows\"></i>\n                          </div>\n                          <div class=\"panel-body\">\n                            <div class=\"minimized\" style=\"display: none;\">\n                              <div class=\"form-group new_input col-left validated col-sm-8\">\n                                <label for=\"\">Activity description and/or instructions</label>\n                                <h5>Take a Selfie or Upload the screenshot you just took</h5>\n                              </div>\n                              <div class=\"form-group new_input col-right col-sm-4\">\n                                <label for=\"\">Type</label>\n                                <h5>\n                                Take a picture\n                                </h5>\n                              </div>\n                              <div class=\"clearfix\"></div>\n                              <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Expand Task\"><i class=\"fa fa-plus\"></i></button>\n                              <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Task\"><i class=\"fa fa-times\"></i></button>\n                            </div>\n                            <div class=\"full form-horizontal\" style=\"\">\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Type</label>\n                                <div class=\"col-sm-7\">\n                                      <div class=\"static-input\">\n                                      Take a picture\n                                      </div>\n                                </div>\n                              </div>\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Activity description and/or instructions</label>\n                                <div class=\"col-sm-7\">\n                                  <textarea name=\"editorT2\" id=\"editorT2\" rows=\"10\" cols=\"80\" class=\"form-control\" placeholder=\"Enter question\">Take a Selfie <br/><br/>OR<br /><br/>Upload the screenshot you just took<br /><br/>OR similar instructions</textarea>\n                                </div>\n                              </div>\n                             \n                            </div>\n                          </div>\n                          <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Collapse Task\"><i class=\"fa fa-minus\"></i></button>\n                          <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Quest\"><i class=\"fa fa-times\"></i></button>\n                        </li>\n                        <li class=\"panel panel-info\">\n                          <div class=\"panel-heading\"><i class=\"fa fa-arrows\"></i>\n                          </div>\n                          <div class=\"panel-body\">\n                            <div class=\"minimized\" style=\"display: none;\">\n                              <div class=\"form-group new_input col-left validated col-sm-8\">\n                                <label for=\"\">Activity description and/or instructions</label>\n                                <h5>Here you can set up a question where the participant is obliged to select only one of the potential answers. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.</h5>\n                              </div>\n                              <div class=\"form-group new_input col-right col-sm-4\">\n                                <label for=\"\">Type</label>\n                                <h5>\n                                Single choice\n                                </h5>\n                              </div>\n                              <div class=\"clearfix\"></div>\n                              <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Expand Task\"><i class=\"fa fa-plus\"></i></button>\n                              <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Task\"><i class=\"fa fa-times\"></i></button>\n                            </div>\n                            <div class=\"full form-horizontal\" style=\"\">\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Type</label>\n                                <div class=\"col-sm-7\">\n                                      <div class=\"static-input\">\n                                      Single choice\n                                      </div>\n                                </div>\n                              </div>\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Activity description and/or instructions</label>\n                                <div class=\"col-sm-7\">\n                                  <textarea name=\"editorT2\" id=\"editorT2\" rows=\"10\" cols=\"80\" class=\"form-control\" placeholder=\"Enter question\">Here you can set up a question where the participant is obliged to select only one of the potential answers. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.</textarea>\n                                </div>\n                              </div>\n                              \n                              <div class=\"quest_single_choice\" style=\"\">\n                                <div class=\"form-group new_input\">\n                                  <label class=\"col-sm-5 control-label\" for=\"\">Options </label>\n                                  <div class=\"col-sm-7\">\n                                  <input type=\"text\" class=\"form-control\" id=\"\" placeholder=\"Enter options\" value=\"\">\n                                  <div class=\"pull-right help-block\"><small>Coma separated</small></div>\n                                  </div>\n                                </div>\n                              </div>\n                            </div>\n                          </div>\n                          <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Collapse Task\"><i class=\"fa fa-minus\"></i></button>\n                          <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Quest\"><i class=\"fa fa-times\"></i></button>\n                        </li>\n                        <li class=\"panel panel-info\">\n                          <div class=\"panel-heading\"><i class=\"fa fa-arrows\"></i>\n                          </div>\n                          <div class=\"panel-body\">\n                            <div class=\"minimized\" style=\"display: none;\">\n                              <div class=\"form-group new_input col-left validated col-sm-8\">\n                                <label for=\"\">Activity description and/or instructions</label>\n                                <h5>Here you can set up a question where the participant can select as many of the potential answers mas they like. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.</h5>\n                              </div>\n                              <div class=\"form-group new_input col-right col-sm-4\">\n                                <label for=\"\">Type</label>\n                                <h5>\n                                Multiple choice\n                                </h5>\n                              </div>\n                              <div class=\"clearfix\"></div>\n                              <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Expand Task\"><i class=\"fa fa-plus\"></i></button>\n                              <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Task\"><i class=\"fa fa-times\"></i></button>\n                            </div>\n                            <div class=\"full form-horizontal\" style=\"\">\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Type</label>\n                                <div class=\"col-sm-7\">\n                                      <div class=\"static-input\">\n                                      Multiple choice\n                                      </div>\n                                </div>\n                              </div>\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Activity description and/or instructions</label>\n                                <div class=\"col-sm-7\">\n                                  <textarea name=\"editorT2\" id=\"editorT2\" rows=\"10\" cols=\"80\" class=\"form-control\" placeholder=\"Enter question\">Here you can set up a question where the participant can select as many of the potential answers mas they like. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.</textarea>\n                                </div>\n                              </div>\n                              <div class=\"quest_multiple_choice\" style=\"\">\n                                <div class=\"form-group new_input\">\n                                  <label class=\"col-sm-5 control-label\" for=\"\">Options </label>\n                                  <div class=\"col-sm-7\">\n                                  <input type=\"text\" class=\"form-control\" id=\"\" placeholder=\"Enter options\" value=\"\">\n                                  <div class=\"pull-right help-block\"><small>Coma separated</small></div>\n                                  </div>\n                                </div>\n                              </div>\n                            </div>\n                          </div>\n                          <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Collapse Task\"><i class=\"fa fa-minus\"></i></button>\n                          <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Quest\"><i class=\"fa fa-times\"></i></button>\n                        </li>\n                        <li class=\"panel panel-info\">\n                          <div class=\"panel-heading\"><i class=\"fa fa-arrows\"></i>\n                          </div>\n                          <div class=\"panel-body\">\n                            <div class=\"minimized\" style=\"display: none;\">\n                              <div class=\"form-group new_input col-left validated col-sm-8\">\n                                <label for=\"\">Activity description and/or instructions</label>\n                                <h5>Here you can direct participants to go to a specific physical location, or online destination, or both, or to download an app, or call a telephone number, or search for an item, etc. You can provide any kind of instruction (or explanation) as you like, and of course you can have as many of these types of \"Activity Instruction\" tasks as you like, in whatever order you like.</h5>\n                              </div>\n                              <div class=\"form-group new_input col-right col-sm-4\">\n                                <label for=\"\">Type</label>\n                                <h5>\n                                Action task\n                                </h5>\n                              </div>\n                              <div class=\"clearfix\"></div>\n                              <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Expand Task\"><i class=\"fa fa-plus\"></i></button>\n                              <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Task\"><i class=\"fa fa-times\"></i></button>\n                            </div>\n                            <div class=\"full form-horizontal\" style=\"\">\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Type</label>\n                                <div class=\"col-sm-7\">\n                                      <div class=\"static-input\">\n                                      Action task\n                                      </div>\n\n                                  \n                                </div>\n                              </div>\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Activity description and/or instructions</label>\n                                <div class=\"col-sm-7\">\n                                  <textarea name=\"editorT2\" id=\"editorT2\" rows=\"10\" cols=\"80\" class=\"form-control\" placeholder=\"Enter question\">Here you can direct participants to go to a specific physical location, or online destination, or both, or to download an app, or call a telephone number, or search for an item, etc. You can provide any kind of instruction (or explanation) as you like, and of course you can have as many of these types of \"Activity Instruction\" tasks as you like, in whatever order you like.</textarea>\n                                </div>\n                              </div>\n                            \n                            </div>\n                          </div>\n                          <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Collapse Task\"><i class=\"fa fa-minus\"></i></button>\n                          <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Quest\"><i class=\"fa fa-times\"></i></button>\n                        </li>\n                        <li class=\"panel panel-info\">\n                          <div class=\"panel-heading\"><i class=\"fa fa-arrows\"></i>\n                          </div>\n                          <div class=\"panel-body\">\n                            <div class=\"minimized\" style=\"display: none;\">\n                              <div class=\"form-group new_input col-left validated col-sm-8\">\n                                <label for=\"\">Activity description and/or instructions</label>\n                                <h5>Here you can set up a question where the participant verbally answers, and their answer is automatically transcribed (or they can also type the answer). You may want to point out to your audience that they can speak their answers out loud, using the microphone, and that their answer will be automatically transcribed.</h5>\n                              </div>\n                              <div class=\"form-group new_input col-right col-sm-4\">\n                                <label for=\"\">Type</label>\n                                <h5>\n                                Text answer\n                                </h5>\n                              </div>\n                              <div class=\"clearfix\"></div>\n                              <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Expand Task\"><i class=\"fa fa-plus\"></i></button>\n                              <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Task\"><i class=\"fa fa-times\"></i></button>\n                            </div>\n                            <div class=\"full form-horizontal\" style=\"\">\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Type</label>\n                                <div class=\"col-sm-7\">\n                                      <div class=\"static-input\">\n                                      Text answer\n                                      </div>\n                                </div>\n                              </div>\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Activity description and/or instructions</label>\n                                <div class=\"col-sm-7\">\n                                  <textarea name=\"editorT2\" id=\"editorT2\" rows=\"10\" cols=\"80\" class=\"form-control\" placeholder=\"Enter question\">Here you can set up a question where the participant verbally answers, and their answer is automatically transcribed (or they can also type the answer). You may want to point out to your audience that they can speak their answers out loud, using the microphone, and that their answer will be automatically transcribed.</textarea>\n                                </div>\n                              </div>\n                            \n                            </div>\n                          </div>\n                          <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Collapse Task\"><i class=\"fa fa-minus\"></i></button>\n                          <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Quest\"><i class=\"fa fa-times\"></i></button>\n                        </li>\n\n                       --></ul>\n                      <div class=\"text-center\" style=\"margin: 20px 0 0 0\">\n                        <div class=\"btn-group\">\n                          <button type=\"button\" class=\"add_task btn btn-warning btn-md dropdown-toggle\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\n                          <i style=\"margin-right: 10px\" class=\"fa fa-plus\"></i>Add activity <span class=\"caret\"></span>\n                          </button>\n                          <ul class=\"dropdown-menu add_activity_type\">\n                            <li><a href=\"javascript:void(0);\" data-type=\"video\">Watch a video</a></li>\n                            <li><a href=\"javascript:void(0);\" data-type=\"picture\">Take a picture</a></li>\n                            <li><a href=\"javascript:void(0);\" data-type=\"single\">Single choice</a></li>\n                            <li><a href=\"javascript:void(0);\" data-type=\"multi\">Multiple choice</a></li>\n                            <li><a href=\"javascript:void(0);\" data-type=\"action\">Action task</a></li>\n                            <li><a href=\"javascript:void(0);\" data-type=\"text\">Text answer</a></li>\n                          </ul>\n                        </div>\n                      </div>\n                    </div>\n                  </div>\n                </div>\n              </div>\n              <div class=\"builder_footer\">\n                <a class=\"btn-lg btn-back back btn btn-default back col-xs-2\" href=\"javascript:void(0)\" rel=\"3\" >\n                  Back<span class=\"circle\"><i class=\"fa fa-angle-left\"></i></span>\n                </a>\n                <a class=\"btn-lg btn btn-cyan next col-xs-3 pull-right next_step_3\" rel=\"3\" href=\"javascript:void(0)\">\n                  Next<span class=\"circle\"><i class=\"fa fa-angle-right\"></i></span>\n                </a>\n                <div class=\"clearfix\"></div>\n              </div>\n              <div class=\"clearfix\"></div>\n            </div>\n          </li>\n          <li class=\"step_4_holder\">\n            <div class=\"step_box\">\n              <span>Step</span><div class=\"circle\"><span>4</span></div>\n            </div>\n            <div class=\"step_content form-horizontal\">\n              <h4>Set Reward</h4>\n              <div class=\"clearfix\"></div>\n              <div class=\"form-group new_input new_input_short col-sm-12 validated\" style=\"margin-top: 20px;\">\n                <label class=\"control-label col-sm-3\" for=\"\">Coupon code</label>\n                <div class=\"input-group col-sm-3 pull-left\">\n                  <input type=\"text\" class=\"form-control\" placeholder=\"ABC123\" name=\"coupon_code\" id=\"coupon_code\" value=\"\">\n                </div>\n                <div class=\"pull-left col-sm-6\" style=\"\">\n                  <p>Here you can define any type of alphanumeric promotional code or coupon that participants will see when they finish the Quest.</p>\n                </div>\n                <div class=\"clearfix\"></div>\n              </div>\n              <div class=\"clearfix\"></div>\n              <div style=\"position: relative\">\n                <div class=\"overflow-div\" style=\"\">\n                  <span style=\"\">Only available for Premium Quests (Paid)</span>\n                </div>\n                <div class=\"form-group new_input new_input_short  validated col-sm-12\">\n                  <label class=\"control-label col-sm-3\" for=\"\">Reward cash</label>\n                  <div class=\"input-group col-sm-3\">\n                    <input type=\"number\" class=\"form-control\" id=\"\" placeholder=\"XX\">\n                  </div>\n                  <div class=\"clearfix\"></div>\n                </div>\n                <div class=\"clearfix\"></div>\n                <div class=\"form-group new_input new_input_short  validated col-sm-12\">\n                  <label class=\"control-label col-sm-3\" for=\"\">Reward currency</label>\n                  <div class=\"input-group col-sm-3\">\n                    <select class=\"form-control questType\">\n                      <option selected=\"\">\n                        USD ($)\n                      </option>\n                      <option>\n                        Euro (€)\n                      </option>\n                    </select>\n                  </div>\n                  <div class=\"clearfix\"></div>\n                </div>\n                <div class=\"clearfix\"></div>\n              </div>\n\n              <div class=\"clearfix\"></div>\n              <div class=\"builder_footer\">\n                <a class=\"btn-lg btn-back back btn btn-default back col-xs-2\" href=\"javascript:void(0)\" rel=\"4\" ><span class=\"circle\"><i class=\"fa fa-angle-left\"></i></span>\n                Back\n              </a>\n              <a class=\"btn-lg btn btn-cyan col-xs-3 next pull-right next_step_4\" rel=\"4\" href=\"javascript:void(0)\">\n                Next<span class=\"circle\"><i class=\"fa fa-angle-right\"></i></span>\n              </a>\n              <div class=\"clearfix\"></div>\n            </div>\n            <div class=\"clearfix\"></div>\n          </div>\n        </li>\n        <li class=\"step_5_holder\">\n          <div class=\"step_box\">\n            <span>Step</span><div class=\"circle\"><span>5</span></div>\n          </div>\n          <div class=\"step_content \">\n            <h4>Last decisions</h4>\n            <div class=\"form-horizontal\">\n              <div class=\"form-group new_input new_input_short\">\n                <label for=\"\" class=\"col-sm-4 control-label\">Max number of participants</label>\n                <div class=\"input-group col-sm-2 pull-left\">\n                  <input type=\"number\" class=\"form-control step_5_validation\" id=\"\" placeholder=\"XX\" min=\"0\" name=\"number_of_participants\">\n                </div>\n                \n                <div class=\"col-sm-6\"><p>Irrespective of the number of participants who click on the Quest link we will generate for you, this is the maximum number of participants who will be allowed to start and finish the Quest</p></div>\n              </div>\n              <div class=\"form-group new_input validated new_input_short  new_input_append  startEndTime\" style=\"\">\n                <label class=\"col-sm-4 control-label\" for=\"\">Quest Availability Start Date</label>\n                <div class=\"input-group col-sm-2\">\n                  <input type=\"text\" class=\"form-control datepicker step_5_validation\" name=\"start\" />\n                </div>\n              </div>\n              <div class=\"form-group new_input validated new_input_short  new_input_append  startEndTime\" style=\"\">\n                <label class=\"col-sm-4 control-label\" for=\"\">Quest Availability Finish Date</label>\n                <div class=\"input-group col-sm-2\">\n                  \n                  <input type=\"text\" class=\"form-control datepicker step_5_validation\" name=\"end\" />\n                  \n                </div>\n                \n              </div>\n              <div class=\"form-group new_input new_input_append validated new_input_short\">\n                <label class=\"col-sm-4 control-label\" for=\"\">Max time allowed to finish Quest after start</label>\n                <div class=\"input-group col-sm-2 pull-left\">\n                  <input type=\"number\" class=\"form-control step_5_validation\" id=\"\" placeholder=\"XX\" min=\"0\" name=\"times\">\n                  <div class=\"input-group-addon\">min</div>\n                </div>\n                <div class=\"col-sm-4\">\n                  <p>The countdown to finish a quest once started. After this period from start the participant slot will be expired and can be used by another user.</p>\n                </div>\n              </div>\n              <ul class=\"filter_list\" >\n                <li style=\"position: relative\">\n                  <div class=\"overflow-div\" style=\"\">\n                    <span style=\"\">Only available for Premium Quests (Paid)</span>\n                  </div>\n                  <div class=\"\" style=\"background: #fff;padding: 15px; margin-bottom:20px; border-radius: 4px;\">\n                    <div class=\"col-xs-12\">\n                      <h5 style=\"margin-left: -15px;font-size:  20px;font-weight:  300;margin: 0 -15px 10px -15px;border-bottom: 1px solid #eee;padding-bottom: 10px;\">Demographics filter</h5>\n                    </div>\n                    <div class=\"col-xs-12 col-sm-5\">\n                      <div class=\"form-group new_input\" style=\"margin-bottom: 0;\">\n                        <label class=\"col-sm-4 control-label\" for=\"\">Filter</label>\n                        <div class=\"input-group col-sm-6\">\n                          <select class=\"form-control filterType\">\n                            <option>\n                              Gender\n                            </option>\n                            <option>\n                              Age\n                            </option>\n                          </select>\n                        </div>\n                      </div>\n                    </div>\n                    <div class=\"col-xs-12 col-sm-5\">\n                      <div class=\"form-group new_input\" style=\"margin-bottom: 0;\">\n                        <label class=\"col-sm-4 control-label\" for=\"\">Value</label>\n                        <div class=\"input-group col-sm-6\">\n                          <select class=\"form-control countryType\">\n                            <option>\n                              Men\n                            </option>\n                            <option>\n                              Women\n                            </option>\n                            <option>\n                              ...\n                            </option>\n                          </select>\n                        </div>\n                      </div>\n                    </div>\n                    <div class=\"col-xs-12 col-sm-2\">\n                      <div class=\"form-group new_input\">\n                        <button type=\"button\" class=\"btn btn-block btn-cyan btn-sm\"><i class=\"fa fa-plus\"></i></button>\n                      </div>\n                    </div>\n                    <div class=\"clearfix\"></div>\n                  </div>\n                </li>\n                <li style=\"position: relative\">\n                  <div class=\"overflow-div\" >\n                    <span >Only available for Premium Quests (Paid)</span>\n                  </div>\n                  <div class=\"\" style=\"background: #fff;padding: 15px; margin-bottom:20px; border-radius: 4px;\">\n                    <div class=\"col-xs-12\">\n                      <h5 style=\"margin-left: -15px;font-size:  20px;font-weight:  300;margin: 0 -15px 10px -15px;border-bottom: 1px solid #eee;padding-bottom: 10px;\">Location filter</h5>\n                    </div>\n                    <div class=\"col-xs-12 col-sm-5\">\n                      <div class=\"form-group new_input\" style=\"margin-bottom: 0;\">\n                        <label class=\"col-sm-4 control-label\" for=\"\">Filter</label>\n                        <div class=\"input-group col-sm-6\">\n                          <select class=\"form-control filterType\">\n                            <option>\n                              Country\n                            </option>\n                            <option>\n                              State\n                            </option>\n                          </select>\n                        </div>\n                      </div>\n                    </div>\n                    <div class=\"col-xs-12 col-sm-5\">\n                      <div class=\"form-group new_input\" style=\"margin-bottom: 0;\">\n                        <label class=\"col-sm-4 control-label\" for=\"\">Value</label>\n                        <div class=\"input-group col-sm-6\">\n                          <select class=\"form-control countryType\">\n                            <option>\n                              USA\n                            </option>\n                            <option>\n                              UK\n                            </option>\n                            <option>\n                              ...\n                            </option>\n                          </select>\n                        </div>\n                      </div>\n                    </div>\n                    <div class=\"col-xs-12 col-sm-2\">\n                      <div class=\"form-group new_input\">\n                        <button type=\"button\" class=\"btn btn-block btn-cyan btn-sm\"><i class=\"fa fa-plus\"></i></button>\n                      </div>\n                    </div>\n                    <div class=\"clearfix\"></div>\n                  </div>\n                </li>\n              </ul>\n              <div class=\"builder_footer\">\n                <a class=\"btn-lg back btn-back btn btn-default col-xs-2\" href=\"javascript:void(0)\" rel=\"5\" ><span class=\"circle\"><i class=\"fa fa-angle-left\"></i></span>\n                Back\n              </a>\n              <a class=\"btn-lg btn btn-cyan col-xs-3 pull-right next next_step_5\" rel=\"5\" href=\"javascript:void(0)\">\n                Next<span class=\"circle\"><i class=\"fa fa-angle-right\"></i></span>\n              </a>\n              <div class=\"clearfix\"></div>\n            </div>\n            <div class=\"clearfix\"></div>\n          </div>\n        </li>\n        <li class=\"step_6_holder\">\n          <div class=\"step_box\">\n            <span>Step</span><div class=\"circle\"><span>6</span></div>\n          </div>\n          <div class=\"step_content form-horizontal\">\n            <h4>Your details </h4>\n            <p><small>You are almost done! We will set up the Quest in accordance with what you just defined and within the next 24 hours we will send to you the Quest link that you can use to insert in your media, or send to prospect or customer lists.</small></p>\n            <div class=\"form-group new_input new_input_short\">\n              <label for=\"\" class=\"col-sm-2 control-label\">Your name</label>\n              <div class=\"col-sm-4\">\n                <input type=\"text\" class=\"form-control step_6_validation\" id=\"\" placeholder=\"\" name=\"name\">\n              </div>\n            </div>\n            <div class=\"form-group new_input new_input_short\">\n              <label for=\"\" class=\"col-sm-2 control-label\">Your email</label>\n              <div class=\"col-sm-4\">\n                <input type=\"email\" class=\"form-control step_6_validation\" id=\"\" placeholder=\"\" name=\"email\">\n              </div>\n            </div>\n            <div class=\"form-group new_input new_input_short\">\n              <label for=\"\" class=\"col-sm-2 control-label\">Your company</label>\n              <div class=\"col-sm-4\">\n                <input type=\"text\" class=\"form-control\" id=\"\" placeholder=\"\" name=\"company\">\n              </div>\n            </div>\n            <div class=\"form-group new_input new_input_short\">\n              <label for=\"\" class=\"col-sm-2 control-label\">Your title</label>\n              <div class=\"col-sm-4\">\n                <input type=\"text\" class=\"form-control\" id=\"\" placeholder=\"\" name=\"title\">\n              </div>\n            </div>\n            <div class=\"form-group new_input new_input_short\">\n              <label for=\"\" class=\"col-sm-2 control-label\">Your tel number</label>\n              <div class=\"col-sm-4\">\n                <input type=\"text\" class=\"form-control step_6_validation\" id=\"\" placeholder=\"\" name=\"phone\">\n              </div>\n            </div>\n            \n            \n            <div class=\"builder_footer\">\n              <a class=\"btn-lg btn-back back btn btn-default col-xs-2\" href=\"javascript:void(0)\" rel=\"6\" ><span class=\"circle\"><i class=\"fa fa-angle-left\"></i></span>\n              Back\n            </a>\n            <a class=\"btn-lg btn next pull-right btn-cyan col-xs-4 next_step_6 create_quest_button\" rel=\"6\" href=\"javascript:void(0)\">\n              Receive Quest URL<span class=\"circle\"><i class=\"fa fa-angle-right\"></i></span>\n            </a>\n            <div class=\"clearfix\"></div>\n          </div>\n          <div class=\"clearfix\"></div>\n        </div>\n      </li>\n      <li>\n        <div class=\"step_box\">\n          <span>Step</span><div class=\"circle\"><span>7</span></div>\n        </div>\n        <div class=\"step_content\">\n          <h4>That's it!</h4>\n          <p>\n            We will contact you within 24 hours with the Quest URL which you can insert into any media, or send to lists of leads, prospects and customers. Anyone clicking on the link will start the Quest\n          </p>\n\n\n          <div class=\"builder_footer\">\n\n              <a class=\"btn-lg btn btn-default back col-xs-4 pull-left\" href=\"index.html#welcome\">\n                Return to the Homepage\n              </a>\n          \n            <a class=\"next btn-lg btn-cyan btn btn-default pull-right col-xs-5\" data-toggle=\"modal\" data-target=\"#sponsor-form\" href=\"javascript:void(0)\" >\n              Learn about our Premium Quests\n            </a>\n          </div>\n          <div class=\"clearfix\"></div>\n        </div>\n      </li>\n      \n    </ul>\n  </form>\n  </div>\n</div>\n</div>\n<div class=\"push\"></div>\n<div id=\"footer\">\n<div class=\"story text-center\">\n  <ul class=\"download_links\">\n    <li>\n      <a href=\"https://itunes.apple.com/app/id944191030\">\n        <img alt=\"DOwnload on the AppStore\" src=\"images/Download_on_the_App_Store_Badge_US-UK_135x40.svg\">\n      </a>\n      <div style=\"clear:both; display: block; \"></div>\n    </li>\n    <li>\n      <a href=\"https://play.google.com/store/apps/details?id=com.eagleninja.app&amp;hl=en\">\n        <img alt=\"Get it on Google Play\" src=\"https://developer.android.com/images/brand/en_generic_rgb_wo_45.png\">\n      </a>\n      <div style=\"clear:both; display: block; \"></div>\n    </li>\n  </ul>\n  <ul>\n    <!--<li><a data-toggle=\"modal\" data-target=\"#affiliate-form\" href=\"javascript:void(0)\">Become an Affiliate</a></li>-->\n    <!--<li><a href=\"in-news.html\">In the news</a></li>-->\n    <!--<li><a href=\"download-app.html\">Download App</a></li>-->\n    <li><a href=\"faq.html\">FAQ</a></li>\n    <li><a href=\"privacy.html\">Privacy policy</a></li>\n    <li><a href=\"terms-of-service.html\">Terms of service</a></li>\n    <li><a href=\"blog.html\">Blog</a></li>\n    <!--<li><a href=\"team.html\">EagleNinja Team</a></li>-->\n    <!--<li><a href=\"#\" onclick=\"downloadApp()\">Download app</a></li>-->\n    <!--<li><a href=\"https://chrome.google.com/webstore/detail/eagleninja/bckpbnecdjkffdjnhcjpmggfoegdaimp\">Download extension</a></li>-->\n  </ul>\n  <p>© 2015 eagleninja</p>\n  <ul class=\"social-icons\" style=\"clear: left\">\n    <li><a class=\"fb\" href=\"https://www.facebook.com/EagleNinja\"><i class=\"fa fa-facebook\"></i></a></li>\n    <li><a class=\"tw\" href=\"https://twitter.com/EagleNinjaCorp\"><i class=\"fa fa-twitter\"></i></a></li>\n    <li><a class=\"gp\" href=\"https://plus.google.com/103793372995570130930\" rel=\"publisher\"><i class=\"fa fa-google-plus\"></i></a></li>\n  </ul>\n  \n  \n</div>\n</div>\n  <!-- Modal -->\n    <div class=\"modal fade\" id=\"sponsor-form\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">\n      <div class=\"modal-dialog\">\n        <div class=\"modal-content\">\n          <div class=\"modal-header\">\n            <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n            <h4 class=\"modal-title\" id=\"myModalLabel\">Custom Demo</h4>\n          </div>\n          <div class=\"screen-1\" style=\"\">\n            <form id=\"form-sponsor\">\n              <div class=\"modal-body \">\n                \n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Name:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"sponsor_name\" type=\"text\" placeholder=\"Please enter your name\" id=\"sponsor_name\">\n                  </div>\n                </div>\n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Email:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"sponsor_email\" type=\"email\" placeholder=\"Please enter your email\" id=\"sponsor_email\">\n                  </div>\n                </div>\n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Tel.number:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"sponsor_phone\" type=\"phone\" placeholder=\"Please enter your phone number\" id=\"sponsor_phone\">\n                  </div>\n                </div>\n                <div class=\"control-group\">\n                  <label class=\"control-label\">\n                    Company name:\n                  </label>\n                  <div class=\"controls\">\n                    <input name=\"sponsor_cname\" type=\"text\" placeholder=\"Please enter your company name\" id=\"sponsor_cname\">\n                  </div>\n                </div>\n                <div class=\"control-group\">\n                  <label class=\"\">\n                    Please enter the category or product you are interested in:\n                  </label>\n                  <div class=\"\" style=\"margin-top: 5px\">\n                    <textarea name=\"aff_intend\" id=\"aff_intend\" placeholder=\"Please write your message here...\"></textarea>\n                  </div>\n                </div>\n                \n                <div class=\"control-group\" style=\"\">\n                  <label class=\"control-label\" style=\"width: 300px;\">\n                    How did you hear of eagleninja?\n                  </label>\n                  <div class=\"controls select-block\" style=\"margin-left: 310px;\">\n                    <select name=\"sponsor_heard\">\n                      <option disabled selected>Please select one option</option>\n                      <option value=\"1\">Blog</option>\n                      <option value=\"2\">Press mention</option>\n                      <option value=\"3\">Advertisement</option>\n                      <option value=\"4\">Referral</option>\n                      <option value=\"5\">Other</option>\n                    </select>\n                  </div>\n                </div>\n                <div class=\"control-group\" style=\"margin-bottom: 0;\">\n                  <label class=\"\" style=\"margin-bottom: 5px;\">\n                    Please let us know who referred you so we can thank them:\n                  </label>\n                  <div class=\"controls select-block\" style=\"margin-left:130px\">\n                    <input name=\"sponsor_referral\" type=\"text\" placeholder=\"Enter your referral\" id=\"sponsor_referral\">\n                  </div>\n                </div>\n                \n              </div>\n              <div class=\"modal-footer\" style=\"margin-top: 0;\">\n                <button style=\"float: left; width: 100px;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n                <button style=\"width: 200px;\" type=\"submit\" class=\"button button-green\"><i class=\"fa fa-paper-plane\"></i> Submit</button>\n              </div>\n            </form>\n          </div>\n          <div class=\"screen-2\" style=\"display: none;\">\n            <div class=\"modal-body \">\n              <h4 style=\"\">\n              <i style=\"\" class=\"fa fa-check-circle\"></i> Message successfully sent!\n              </h4>\n              \n            </div>\n            <div class=\"modal-footer\" style=\"margin-top: 0;\">\n              <button style=\"float: left; width: 100%;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n              \n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n\n    <div class=\"modal fade\" id=\"delete-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">\n      <div class=\"modal-dialog\">\n        <div class=\"modal-content\">\n          <div class=\"modal-header\">\n            <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n            <h4 class=\"modal-title\" id=\"myModalLabel\">Delete task</h4>\n          </div>\n              <div class=\"modal-body \">Are you sure you wish to delete this task</div>\n              <div class=\"modal-footer\" style=\"margin-top: 0;\">\n                <button style=\"float: left; width: 100px;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Cancel</button>\n                <button style=\"width: 200px;\" type=\"button\" class=\"button button-green button_delete_task\"><i class=\"fa fa-paper-plane\"></i> Delete</button>\n              </div>\n          \n        </div>\n      </div>\n    </div>\n  <li class=\"panel panel-info new_task_clone\" style=\"display:none;\">\n                          <div class=\"panel-heading\"><i class=\"fa fa-arrows\"></i></div>\n                          <div class=\"panel-body\">\n\n<!-- MINIMIZED -->\n                            <div class=\"minimized\" style=\"display: none;\">\n                              <div class=\"form-group new_input col-left validated col-sm-8\">\n                                <label for=\"\">Activity description and/or instructions</label>\n                                <h5 class=\"quest_description_html\"></h5>\n                              </div>\n                              <div class=\"form-group new_input col-right col-sm-4\">\n                                <label for=\"\">Type</label>\n                                <h5 class=\"quest_type\">\n                                Watch a video\n                                </h5>\n                               \n\n                              </div>\n                              <div class=\"clearfix\"></div>\n                            </div>\n<!-- // MINIMIZED -->     \n<!-- MAXIMIZED -->\n                            <div class=\"full form-horizontal\" style=\"\">\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Type</label>\n                                <div class=\"col-sm-7\">\n                                      <div class=\"static-input quest_type\">\n                                      Watch a video\n                                      </div>\n                                     \n\n\n                                </div>\n                              </div>\n                              <div class=\"form-group\">\n                                <label for=\"inputEmail3\" class=\"col-sm-5 control-label\">Activity description and/or instructions</label>\n                                <div class=\"col-sm-7 description \">\n                                  <textarea name=\"editor\" id=\"editor\" rows=\"10\" cols=\"80\" class=\"form-control quest_description_value editor\" placeholder=\"Enter question\"></textarea>\n                                   <input type=\"hidden\" class=\"form-control task_type\" name=\"task_type\" id=\"\" placeholder=\"Enter options\" value=\"\">\n                                </div>\n                              </div>\n                              <div class=\"quest_extra single multi\" style=\"\">\n                                <div class=\"form-group new_input\">\n                                  <label class=\"col-sm-5 control-label\" for=\"\">Options </label>\n                                  <div class=\"col-sm-7\">\n                                  <input type=\"text\" class=\"form-control\" name=\"text\" id=\"\" placeholder=\"Enter options\" value=\"\">\n                                 \n                                  <div class=\"pull-right help-block\"><small>Coma separated</small></div>\n                                  </div>\n                                </div>\n                              </div>\n                              \n                              <div class=\"quest_extra video\">\n                              <div class=\"form-group\" style=\"margin-bottom: 0;\">\n                                <div class=\"col-sm-offset-5 col-sm-7\">\n                                  <div class=\"\" style=\"\">\n                                    <a href=\"javascript:void()\">\n                                      <input type=\"file\" data-id=\"video\" accept=\"video/*\" data-filename-placement=\"inside\" data-jq-val=\"video\" data-jq-toggle=\"enabled\" style=\"\" id=\"add_video_field\" name=\"add_video_field\">\n                                    </a>\n                                    <div class=\"help-block\">\n                                        <p>Free Mobile Quests are limited to only one video per Quest, of a maximum of 15MB. In Premium Quests you can set up as many Video tasks as you like, and with larger size video files.</p>\n                                    </div>\n\n                                  </div>\n                                </div>\n                              </div>\n                             </div>\n                          </div>\n<!-- // MAXIMIZED -->\n                          </div>\n                          <button type=\"button\" class=\"collapse_task\" data-toggle2=\"tooltip\" title=\"Collapse Task\"><i class=\"fa fa-minus\"></i></button>\n                          <button type=\"button\" class=\"remove_task\" data-toggle2=\"tooltip\" title=\"Remove Task\"><i class=\"fa fa-times\"></i></button>\n                        </li>\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".builder_step_list > li\").hide();\n    $(\".builder_step_list > li:nth-child(1)\").show();\n    $(\".btn-cyan\").on(\"click\", function() {\n        var stepCurr = parseInt($(this).attr(\"rel\"));\n        $(\".create-product-step-list-new > li:nth-child(\" + (stepCurr + 1) + \") a\").addClass(\"active\");\n        $(\".builder_step_list > li:nth-child(\" + stepCurr + \")\").hide();\n        $(\".builder_step_list > li:nth-child(\" + (stepCurr + 1) + \")\").show();\n        if (typeof window['validate_step_'+(stepCurr + 1)] == 'function')\n          window['validate_step_'+(stepCurr + 1)]();\n    })\n    $(\".btn-back\").on(\"click\", function() {\n        var stepCurr = parseInt($(this).attr(\"rel\"));\n        $(\".create-product-step-list-new > li:nth-child(\" + (stepCurr) + \") a\").removeClass(\"active\");\n        $(\".builder_step_list > li:nth-child(\" + stepCurr + \")\").hide();\n        $(\".builder_step_list > li:nth-child(\" + (stepCurr - 1) + \")\").show();\n    })\n    $(document).on('mousedown','.panel-heading', function()\n    {\n      if(!$(this).parents('.panel:first').hasClass('collapsed'))\n      {\n        $(this).parents('.panel:first').addClass('collapsed_by_drag');\n        $(this).parents('.panel:first').find('.collapse_task').click();\n      }\n    })\n\n    jQuery(function($) {\n        var panelList = $('#draggablePanelList');\n        panelList.sortable({\n            // Only make the .panel-heading child elements support dragging.\n            // Omit this to make then entire <li>...</li> draggable.\n            \n            handle: '.panel-heading',\n            start: function(event, ui) {\n               CKEDITOR.instances[ui.item.find('.editor').attr('id')].destroy();\n               \n            },\n            stop: function(event, ui) {\n              CKEDITOR.replace(ui.item.find('.editor').attr('id'));\n               if ($(ui.item).hasClass('collapsed_by_drag'))\n               {\n                  $(ui.item).find('.collapse_task').click();\n               }\n            }\n        });\n    });\n    CKEDITOR.replace('editorTPcontent');\n\n    var content_editor = CKEDITOR.instances['editorTPcontent'];\n\ncontent_editor.on( 'change', function(evt) {\n     validate_step_1()\n});\n    $('.input-daterange').datepicker({\n        startDate: \"Today\",\n        clearBtn: true,\n        autoclose: true,\n        todayHighlight: true,\n        defaultViewDate: {\n            year: 1977,\n            month: 04,\n            day: 25\n        }\n    });\n    $(\".questType\").on('change', function() {\n        var selectedOption = $(this).val();\n        $(this).parents(\".task_block ul li\").find('[class*=\"quest_\"]').hide();\n        $(this).parents(\".task_block ul li\").find(\".\" + selectedOption).fadeIn();\n    })\n\n\n    $(\"#background_image\").change(function(){\n        readURL(this);\n    });\n\n    $(document).on('change','#add_video_field', function()\n    {\n     validate_step_3();\n    })\n\n    $(document).on('keyup', '.task_list .panel input', function()\n    {\n      validate_step_3();\n    })\n\n    $(document).on(\"click\",\".collapse_task\", function() {\n        if ($(this).hasClass(\"closed\")) {\n            $(this).html(\"<i class='fa fa-minus'></i>\");\n            $(this).siblings(\".panel-body\").find(\".minimized\").hide();\n            $(this).siblings(\".panel-body\").find(\".full\").fadeIn();\n            $(this).removeClass(\"closed\");\n            $(this).parents('.panel:first').removeClass('collapsed');\n        } else {\n            var editor=$(this).parents('.panel:first').find('textarea').attr('id');\n            $(this).parents('.panel:first').find('.quest_description_html').html(CKEDITOR.instances[editor].getData())\n            $(this).html(\"<i class='fa fa-plus'></i>\");\n            $(this).siblings(\".panel-body\").find(\".minimized\").fadeIn();\n            $(this).siblings(\".panel-body\").find(\".full\").hide();\n            $(this).addClass(\"closed\");\n            $(this).parents('.panel:first').addClass('collapsed');\n        }\n    })\n\n\n    //add activity dropdown click action\n    $(document).on('click', '.add_activity_type a', function()\n    {\n        if ($(this).hasClass('disabled')) return false;\n\n        var new_task=$('.new_task_clone').clone();\n        task_type_info=quest_data[$(this).data('type')];\n\n        $(new_task).removeClass('new_task_clone').addClass($(this).data('type')).show();\n        $(new_task).find('.quest_type').html(task_type_info['type']);\n        $(new_task).find('.task_type').val($(this).data('type'));\n        $(new_task).find('.quest_description_html').html(task_type_info['description']);\n        $(new_task).find('.quest_description_value').val(task_type_info['description']);\n        if (task_type_info['extra']=='') $(new_task).find('.quest_extra').remove();\n        else $(new_task).find('.quest_extra:not(.'+task_type_info['extra']+')').remove();\n        var new_editor_id='editor'+$('.task_list > li').length;\n        $(new_task).find('.editor').attr('id', 'editor'+$('.task_list > li').length);\n        $('.task_list').append($(new_task));\n        CKEDITOR.replace(new_editor_id);\n        CKEDITOR.instances[new_editor_id].on( 'change', function(evt) {\n             validate_step_3()\n        });\n        validate_step_3()\n\n        if ($(this).data('type') == 'video') $(this).addClass('disabled');\n    })\n\n    $(document).on('click', '.remove_task', function()\n    {\n      task_to_delete=$(this).parents('li:first');\n      $('#delete-modal').modal('show');\n    })\n\n    $('.button_delete_task').on('click', function()\n    {\n      $(task_to_delete).remove();\n      $('#delete-modal').modal('hide');\n      validate_step_3();\n    })\n\n    $('.step_5_validation').on('change keyup', function()\n    {\n      validate_step_5();\n    })\n\n    $('.step_6_validation').on('change keyup', function()\n    {\n      validate_step_6();\n    })\n    $('.datepicker').datepicker();\n\n    $('.create_quest_button').on('click', function()\n    {\n      $('.overlay').show();\n      $('#the_form').submit();\n    })\n\n    $('#coupon_code').on('keyup', function()\n    {\n      validate_step_4();\n    })\n\n    $('#the_form').ajaxForm(\n    {\n      beforeSerialize: function()\n      {\n        CKEDITOR.instances['editorTPcontent'].updateElement()\n        //rename the fields\n        $('.task_list > li').each(function(k)\n        {\n          var the_editor= $(this).find('textarea').attr('id');\n          CKEDITOR.instances[the_editor].updateElement();\n          $(this).find('textarea').attr('name','editor['+k+']');\n          $(this).find('input[type=\"text\"]').attr('name','text['+k+']' )\n          $(this).find('input[type=\"file\"]').attr('name','file['+k+']' )\n          $(this).find('input[type=\"hidden\"]').attr('name','task_type['+k+']' )\n        })\n      },\n      success: function()\n      {\n        //success\n        $('.overlay').hide();\n      }\n    })\n});\n\nvar task_to_delete;\n//Check Mobile Devices\nvar checkMobile = function() {\n    //Check Device\n    var isTouch = ('ontouchstart' in document.documentElement);\n    //Check Device //All Touch Devices\n    if (isTouch) {\n        $('html').addClass('touch');\n        $(\".fixed-bar\").addClass(\"mini-bar\");\n        $(window).scroll({\n                previousTop: 0\n            },\n            function() {\n                var currentTop = $(window).scrollTop();\n                if (currentTop < this.previousTop) {} else {\n                    /*$(\".fixed-bar\").fadeOut(300);*/\n                    $(\".fixed-bar\").addClass(\"mini-bar\");\n                }\n                this.previousTop = currentTop;\n            });\n    } else {\n        $('html').addClass('no-touch');\n        $(window).scroll({\n                previousTop: 0\n            },\n            function() {\n                var currentTop = $(window).scrollTop();\n                if (currentTop < this.previousTop) {\n                    /*$(\".fixed-bar\").fadeIn(500);*/\n                    $(\".fixed-bar\").removeClass(\"mini-bar\");\n                } else {\n                    /*$(\".fixed-bar\").fadeOut(300);*/\n                    $(\".fixed-bar\").addClass(\"mini-bar\");\n                }\n                this.previousTop = currentTop;\n            });\n    };\n};\n//Execute Check\ncheckMobile();\n/*\n$(\".fixed-bar\").on(\"mouseover\", function(){\n$(this).removeClass(\".mini-bar\");\n})\n*/\n\nfunction validate_step_1()\n{\n  $('.next_step_1').addClass('disabled');\n  if (CKEDITOR.instances['editorTPcontent'].getData().length > 0)\n  {\n     $('.next_step_1').removeClass('disabled');\n  }\n}\n\nfunction validate_step_2()\n{\n  $('.next_step_2').addClass('disabled');\n  if ($('#background_image').val() != '')\n  {\n     $('.next_step_2').removeClass('disabled');\n  }\n}\n\nfunction validate_step_3()\n{\n  $('.next_step_3').addClass('disabled');\n\n  if ($('.task_list > li').length == 0) return;\n\n  var all_good=true;\n  $.each($('.task_list > li'), function()\n  {\n    var the_editor=$(this).find('textarea').attr('id');\n    if (CKEDITOR.instances[the_editor].getData().length ==0)\n    {\n      all_good=false;\n      return false;\n    }\n    \n    if ($(this).find('input[type=\"text\"]').length > 0 && $(this).find('input[type=\"text\"]').val()=='') \n    {\n      all_good=false;\n      return false;\n    }\n\n    \n  })\n\n  if ($('.task_list > li.video').length > 0 && ($('#add_video_field').val() == '' || (document.getElementById('add_video_field').files[0].size/1024/1024).toFixed(2) >15))\n  {\n    return;\n  }\n\n\n  if (all_good)\n  {\n      $('.next_step_3').removeClass('disabled');\n  } \n\n  console.log(all_good)\n}\n\nfunction validate_step_4()\n{\n  $('.next_step_4').addClass('disabled');\n  if ($('#coupon_code').val()!='')\n  {\n    $('.next_step_4').removeClass('disabled');\n  }\n}\n\nfunction validate_step_5()\n{\n  $('.next_step_5').addClass('disabled');\n  var all_good=true;\n  $.each($('.step_5_validation'), function()\n  {\n    if ($(this).val()=='')\n    {\n      all_good=false;\n      return false;\n    }\n  })\n\n  if (all_good)\n    $('.next_step_5').removeClass('disabled');\n}\n\nfunction validate_step_6()\n{\n  $('.next_step_6').addClass('disabled');\n  var all_good=true;\n  $.each($('.step_6_validation'), function()\n  {\n    if ($(this).val()=='')\n    {\n      all_good=false;\n      return false;\n    }\n  })\n\n  if (all_good)\n    $('.next_step_6').removeClass('disabled');\n}\n\nfunction readURL(input) {\n  console.log(input);\n    if (input.files && input.files[0]) {\n        var reader = new FileReader();\n        var image= new Image();\n       \n       \n\n        reader.readAsDataURL(input.files[0]);  \n        if (input.files[0].type.split('/')[0]!='image')\n        {\n           $('#background_image_preview').hide();\n           $('#no_background_image').show();\n           $(input).val('');\n           $('#background_image_error').html('Only images are allowed');\n           $('#background_image_error').show();\n           validate_step_2();\n           return false;\n        }\n        else\n        {\n          if (input.files[0].type.split('/')[1]!='jpeg' && input.files[0].type.split('/')[1]!='png')\n          {\n             $('#background_image_preview').hide();\n             $('#no_background_image').show();\n             $(input).val('');\n             $('#background_image_error').html('Only png/jpeg images are allowed');\n             $('#background_image_error').show();\n             validate_step_2();\n              return false;\n          }\n        }\n        reader.onload = function (e) {\n            image.src    = e.target.result;   \n            image.onload = function() {\n                w = this.width;\n                h = this.height;\n                t = input.files[0].type;                         // ext only: // file.type.split('/')[1],\n                n = input.files[0].name;\n                s = ~~(input.files[0].size/1024) +'KB';\n              \n                if (w < 416 || h < 170) \n                {\n                   $('#background_image_preview').hide();\n                   $('#no_background_image').show();\n                   $(input).val('');\n                   $('#background_image_error').html('The selected image size is '+w+'x'+h+' it must be at least 416x170');\n                   $('#background_image_error').show();\n                  validate_step_2()\n                   return false;\n                }\n\n\n\n\n              $('#background_image_preview').attr('src', e.target.result);\n              $('#background_image_preview').show();\n              $('#background_image_error').hide();\n              $('#no_background_image').hide();\n              validate_step_2()\n        }; \n         \n\n            \n        }\n\n    }\n}\n//these are the defaults\nvar quest_data={};\nquest_data['video']={'type' : 'Watch a video', 'description' : 'Watch this brief clip' , 'extra' : 'video'};\nquest_data['picture']={'type' : 'Take a picture', 'description' : \"Take a Selfie\\n\\nOR\\n\\nUpload the screenshot you just took\\n\\nOR similar instructions\" , 'extra' : ''};\nquest_data['single']={'type' : 'Single choice', 'description' : 'Here you can set up a question where the participant is obliged to select only one of the potential answers. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.' , 'extra' : 'single'};\nquest_data['multi']={'type' : 'Multiple choice', 'description' : 'Here you can set up a question where the participant can select as many of the potential answers mas they like. Remember, a question is a great opportunity to remind your audience of your value added attributes and features, by listing them in the answers.' , 'extra' : 'multi'};\nquest_data['action']={'type' : 'Action task', 'description' : 'Here you can direct participants to go to a specific physical location, or online destination, or both, or to download an app, or call a telephone number, or search for an item, etc. You can provide any kind of instruction (or explanation) as you like, and of course you can have as many of these types of \"Activity Instruction\" tasks as you like, in whatever order you like.' , 'extra' : ''};\nquest_data['text']={'type' : 'Text answer', 'description' : 'Here you can set up a question where the participant verbally answers, and their answer is automatically transcribed (or they can also type the answer). You may want to point out to your audience that they can speak their answers out loud, using the microphone, and that their answer will be automatically transcribed.' , 'extra' : ''};\n\n</script>\n</body>\n</html>",
 			"file": "new-quest.html",
+			"file_size": 76384,
+			"file_write_time": 130926746400000000,
 			"settings":
 			{
-				"buffer_size": 60472,
+				"buffer_size": 74963,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "team.html",
+			"file": "blogpost_challenges_mobile_advertising.php",
 			"settings":
 			{
-				"buffer_size": 25724,
+				"buffer_size": 11570,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "terms-of-service.html",
+			"file": "team.php",
 			"settings":
 			{
-				"buffer_size": 56096,
+				"buffer_size": 9645,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "privacy.html",
+			"file": "in-news.php",
 			"settings":
 			{
-				"buffer_size": 24519,
+				"buffer_size": 5176,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "blog.html",
+			"file": "new-quest.php",
 			"settings":
 			{
-				"buffer_size": 22088,
+				"buffer_size": 44857,
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"file": "faq.php",
+			"settings":
+			{
+				"buffer_size": 12729,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/topbar_home.php",
+			"settings":
+			{
+				"buffer_size": 2618,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/topbar.php",
+			"settings":
+			{
+				"buffer_size": 1174,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/footer.php",
+			"settings":
+			{
+				"buffer_size": 14105,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "privacy.php",
+			"settings":
+			{
+				"buffer_size": 7642,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "terms-of-service.php",
+			"settings":
+			{
+				"buffer_size": 38192,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "blog.php",
+			"settings":
+			{
+				"buffer_size": 5291,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/styles.scss",
+			"settings":
+			{
+				"buffer_size": 64608,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+			"settings":
+			{
+				"buffer_size": 2700,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<title>The Challenges of Mobile Advertising | eagleninja</title>\n<meta name=\"description\" content=\"Gamifying the advertising experience\">\n<meta name=\"keywords\" content=\"mobile advertising gamification,gamified mobile app experience,mobile adtech,mobile advertising,mobile marketing,advertising,adtech,mobile,location based services,ibeacon,apple pay,lbs\">\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"favicon2.ico\"/>\n<link href=\"https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n<link href=\"css/bootstrap.min.css\" rel=\"stylesheet\" type=\"text/css\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap-select.min.css\">\n<link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/css\" />\n<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>\n<script type=\"text/javascript\" src=\"https://code.jquery.com/jquery-1.11.0.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/bootstrap-select.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/jquery.parallax-1.1.3.js\"></script>\n<script type=\"text/javascript\" src=\"js/jquery.localscroll-1.2.7-min.js\"></script>\n<script type=\"text/javascript\" src=\"js/jquery.scrollTo.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/forms.js\"></script>   \n\n</head>\n\n<body class=\"blog_post\">\n<div class=\"div-wrapper\">\n     <div class=\"fixed-bar\">\n        <div class=\"container-fluid\">\n          <div class=\"row\">\n            <div class=\"col-xs-8 col-xs-offset-2 col-md-2 col-md-offset-0 logo_wrapper\">\n              <a id=\"logo\" href=\"index.html#welcome\" alt=\"\"><img class=\"img-responsive\" src=\"images/logo.png  \"></a>\n            </div>\n            <!--\n            <div class=\"button-list\">\n              <a class=\"button\" href=\"#\" onclick=\"downloadApp()\"><i class=\"fa fa-android\"></i> Download app</a>\n              <a class=\"button\" href=\"https://chrome.google.com/webstore/detail/eagleninja/bckpbnecdjkffdjnhcjpmggfoegdaimp\"><i class=\"fa fa-puzzle-piece\"></i> Download extension</a>\n            </div>\n            -->\n            \n            <div class=\"col-xs-12 col-md-10\">\n              <ul class=\"main_menu\">\n                \n                <li><a href=\"index.html#what-is-eagleninja\">What we do</a></li>\n                <li><a href=\"index.html#value-proposition\">Value Proposition</a></li>\n                <li><a href=\"index.html#types-of-quests\">Types of Quests</a></li>\n                <li><a href=\"index.html#pricing\">Pricing</a></li>\n                <li><a href=\"team.html\">Who we are</a></li>\n                <li><a class=\"\" href=\"in-news.html\">In the News</a></li>\n                <li><a href=\"index.html#clients\">Clients</a></li>\n              </ul>\n              <!--\n              <a href=\"javascript:void(0)\" id=\"nav-show\"><i class=\"fa fa-bars\"></i></a>\n              <ul id=\"nav\" style=\"display: none;\">\n                <li><a href=\"#welcome\" title=\"Next Section\"><span class=\"circle\"></span> Welcome</a></li>\n                <li><a href=\"#what-is-eagleninja\" title=\"Next Section\"><span class=\"circle\"></span> What is eagleninja?</a></li>\n                <li><a href=\"#how-does-it-work\" title=\"Next Section\"><span class=\"circle\"></span> How does it work?</a></li>\n                <li><a href=\"index.html#agency\" title=\"Next Section\"><span class=\"circle\"></span> Are you an agency?</a></li>\n                <li><a href=\"#sponsors\" title=\"Next Section\"><span class=\"circle\"></span> What is a Sponsor?</a></li>\n                <li><a href=\"#how-do-join\" title=\"Next Section\"><span class=\"circle\"></span> How do I check it out?</a></li>\n                <li><a href=\"blog.html\" title=\"Next Section\"><span class=\"circle\"></span> Blog</a></li>\n              </ul>\n              \n              <a href=\"javascript:void(0)\" class=\"circle-arrow\"><img style=\"\" src=\"images/en-circle.png\"></a>\n              -->\n            </div>\n          </div>\n        </div>\n      \n\n</div>\n\n\n      <div class=\"container\" style=\"\">\n          \n          <div class=\"header\" style=\"position: relative;\">  \n            <h2>\n                  <a href=\"blog.html\"><i class=\"fa fa-chevron-left\"></i></a> The Challenges of Mobile Advertising\n            </h2>\n\n          </div>\n<div class=\"well\">\n          <div class=\"blog_img\">\n          <img src=\"images/blog/2015-01-23/main.jpg\" alt=\"The Challenges of Mobile Advertising\" class=\"img-responsive\">\n            <div class=\"calendar-div-css\">\n                <div class=\"calendar-div-top\">\n                <div class=\"circle circle-left\"></div>\n                <div class=\"circle circle-right\"></div>\n                <h5>Jan</h5>\n                </div>\n                <h6>28</h6>\n                <h4>2015</h4>\n              </div>\n          </div>\n          <div class=\"content-box\">\n\n          <div class=\"content-box-inner\">\n          <p>\nMobile is an exploding media and mobile advertising is following our collective eyeballs; already worth $3.5 Billion in the US and $18 Billion globally, its compound annual growth is projected to be an astounding <i><strong>49.7%</strong></i> through 2018 (the next fastest growing categories are Social and Desktop Video at 18% and 15% respectively.) <sup>1</sup>\n</p>\n<p>\nAnd yet although mobile as a share of our overall media consumption already accounts for 25%, mobile advertising as a share of advertising lags significantly, at 9.8%.\n          </p>\n<p>\nMaybe a \"lag\" as mobile advertising \"catches up\" with mobile media consumption?\n</p>          \n\n<p>\nWhat about m-commerce, in which smartphones are only 1/3 as effective as a transaction platform as the desktop, with mobile platforms only responsible for 2.4% of US retail transactions in 2014 (e-marketer)?\n</p>\n\n<p>\nAccording to Deloitte mobile is expected to be more important as an \"influencer\" of retail sales, through show-rooming, iBeacon and similar location based services, and 19% of all US retail transactions were influenced by mobile devices in 2014.\n          </p>\n\n<div class=\"text-center\" style=\"margin-bottom: 20px;\">\n<img src=\"images/blog/2015-01-23/img_1.jpg\" aLt=\"\" class=\"img-responsive\">\n</div>\n\n<p>\nAnd in any event as ApplePay and Google Wallter gain acceptance they will empower mobile devices as stand alone transaction vehicles.\n</p>\n\n<p>\nHowever, Google's average mobile CPC (Cost Per Click) is decreasing at a rapid pace (10% Q4 2013 and 10% Q1 2014). Although Google no longer breaks down CPC by mobile, the fact that overall CPC is going down while mobile as a share of revenue goes up is a clear indication of the challenges Google faces in mobile advertising.\n          </p>                              \n\n<p>\nWhat about app downloads, a huge driver for the growth so far in Mobile Advertising, with 350 million app downloads by Facebook alone between June 2012 and Q1 2014? \n</p>                              \n\n<p>\nThere are problems in paradise there too. Average app CPI (Cost Per Install) rates are increasing ($1 to $2.39 for Android and iOS respectively in 2014) as the conversion efficiency of CPC led install campaigns decrease.\n</p>                              \n\n<p>\nMore importantly, app churn rates are huge and growing, with some analysts claiming an average 8% monthly churn in the 1st year, implying only 4% of users are retained within 12 months of download.</p>                              \n\n<p>\nThis is not surprising, given the limited real estate on mobile devices, with no more than 30 installed apps on our devices on average. \n</p>\n\n<h4>\nSo why is advertising so challenging on mobile?\n</h4>\n\n<p>\nScreen size is sometimes a factor. Yet native formats such as the in-stream ads served by Facebook actually imply a larger average size of Facebook mobile ad units versus ad formats used in desktop display advertising.\n</p>\n\n<p>\nAn app centric mobile ecosystem versus the search centric universe of desktop browsing is part of the reason search based models do not work as well on mobile, at least so far.\n</p>\n\n<p>\nBut the single most important difference, the one that truly makes \"Mobile Advertising\" a category that requires a re-invention of the advertising model, is the average session length on a mobile device.\n</p>\n\n<p>\nWhen we sit down to enjoy a movie, read a newspaper, listen to the radio or interact with our desktop, chances are we will be engaged for a significant period of time.\n</p>\n\n<div class=\"text-center\" style=\"margin-bottom: 20px;\">\n<img src=\"images/blog/2015-01-23/img_2.jpg\" aLt=\"\" class=\"img-responsive\">\n</div>\n\n<p>\nWhereas although we interact with our smartphones often, the amount of time we spend interacting during a single session  (checking email, directions, weather, stocks, etc.) is usually very short.\n</p>\n\n<div class=\"text-center\" style=\"margin-bottom: 20px;\">\n<img src=\"images/blog/2015-01-23/img_3.jpg\" aLt=\"\" class=\"img-responsive\">\n</div>\n\n<p>\nAnd our tolerance for being interrupted by an advert during short mobile sessions is very small.\n</p>\n\n<p>\nThis radically upends the traditional advertising model Quid Pro Quo: Free or Subsidized Content + Advertising = Conversion and Uplift.\n</p>\n\n<div class=\"text-center\" style=\"margin-bottom: 20px;\">\n<img src=\"images/blog/2015-01-23/img_4.jpg\" aLt=\"\" class=\"img-responsive\">\n</div>\n\n<h4>\nWhere do we go from here? \n</h4>\n\n<p>\nMost of us would not start a sales process by bragging to our potential customer about how great our product is, what its features are, how much better or cheaper than the competition it is, etc.\n</p>\n\n<div class=\"text-center\" style=\"margin-bottom: 20px;\">\n<img src=\"images/blog/2015-01-23/img_5.jpg\" aLt=\"\" class=\"img-responsive\">\n</div>\n\n<p>\nInstead, when we do a really good job of selling, we start with our customer. We ask them questions, about their problems, their challenges, their routines. We engage them in a two way conversation about their issues. It's not about us. It's about them.\n</p>\n\n<div class=\"text-center\" style=\"margin-bottom: 20px;\">\n<img src=\"images/blog/2015-01-23/img_6.jpg\" aLt=\"\" class=\"img-responsive\">\n</div>\n\n<p>\nAnd yet advertising has never worked that way. It has mostly been a one directional medium.\n</p>\n\n<p>\nThat's because, until recently, it simply was not possible to engage in an interactive and consultative sales process through advertising, because the technology and infrastructure did not exist to support it. \n</p>\n\n<p>\nBut now it does.\n</p>\n\n<p>\nNow it's possible to Gamify the Advertising Experience while enabling a two way interaction focused on the needs and wants of the prospect.\n</p>\n\n<p>\nWe call this approach \"Mobile Quest Marketing\". It allows for triggering an experiential engagement of targeted prospects at offline or online points of sale.\n</p>\n\n<div class=\"text-center\" style=\"margin-bottom: 20px;\">\n<img src=\"images/blog/2015-01-23/img_7.jpg\" aLt=\"\" class=\"img-responsive\">\n</div>\n\n<p>\nBy leveraging the latest mobile and adtech technologies including location based services such as iBeacon, as well as the latest insights of behavioural science it is now possible to trigger a highly targeted experiential engagement that focuses on customer interests in a fun and rewarded set of activities.\n</p>\n\n<p>\nThis type of service allows us to sell CPA (Cost Per Action) performance based marketing. Most digital platforms to date are focused on selling leads (CPM, CPC, CPI), and have become highly effective at it. \n</p>\n\n<p>\nNow, as an industry we can focus on selling <i><strong>customers</strong></i> and <i><strong>performance</strong></i> (CPA).\n</p>\n\n<div class=\"text-center\" style=\"margin-bottom: 20px;\">\n<img src=\"images/blog/2015-01-23/img_8.jpg\" aLt=\"\" class=\"img-responsive\">\n</div>\n\n<p>\nUsing this new gamified advertising platform Eagle Ninja has already delivered 10X reductions in cost of customer acquisition, and a 20X improvement in engagement.\n</p>\n<p>\nAnd we have only just begun.\n</p>\n\n<hr>\n\n<p>\n<sup>1</sup> BI Intelligence\n</p>\n\n</div>\n\n          </div>\n\n<div style=\"clear:both; display: block;\"></div>\n</div>\n\n\n      </div>\n<div class=\"push\"></div>\n</div>    \n    <div id=\"footer\">\n      <div class=\"story text-center\">\n        <ul class=\"download_links\">\n          <li>\n            <a href=\"https://itunes.apple.com/app/id944191030\">\n              <img alt=\"DOwnload on the AppStore\" src=\"images/Download_on_the_App_Store_Badge_US-UK_135x40.svg\">\n            </a>\n            <div style=\"clear:both; display: block; \"></div>\n          </li>\n          <li>\n            <a href=\"https://play.google.com/store/apps/details?id=com.eagleninja.app&amp;hl=en\">\n              <img alt=\"Get it on Google Play\" src=\"https://developer.android.com/images/brand/en_generic_rgb_wo_45.png\">\n            </a>\n            <div style=\"clear:both; display: block; \"></div>\n          </li>\n        </ul>\n        <ul>\n          <!--<li><a data-toggle=\"modal\" data-target=\"#affiliate-form\" href=\"javascript:void(0)\">Become an Affiliate</a></li>-->\n          <!--<li><a href=\"in-news.html\">In the news</a></li>-->\n          <!--<li><a href=\"download-app.html\">Download App</a></li>-->\n          <li><a href=\"faq.html\">FAQ</a></li>\n          <li><a href=\"privacy.html\">Privacy policy</a></li>\n          <li><a href=\"terms-of-service.html\">Terms of service</a></li>\n          <li><a class=\"active\" href=\"blog.html\">Blog</a></li>\n          <!--<li><a href=\"team.html\">EagleNinja Team</a></li>-->\n          <!--<li><a href=\"#\" onclick=\"downloadApp()\">Download app</a></li>-->\n          <!--<li><a href=\"https://chrome.google.com/webstore/detail/eagleninja/bckpbnecdjkffdjnhcjpmggfoegdaimp\">Download extension</a></li>-->\n        </ul>\n        <p>&copy; 2015 eagleninja</p>\n        <ul class=\"social-icons\" style=\"clear: left\">\n          <li><a class=\"fb\" href=\"https://www.facebook.com/EagleNinja\"><i class=\"fa fa-facebook\"></i></a></li>\n          <li><a class=\"tw\" href=\"https://twitter.com/EagleNinjaCorp\"><i class=\"fa fa-twitter\"></i></a></li>\n          <li><a class=\"gp\" href=\"https://plus.google.com/103793372995570130930\" rel=\"publisher\"><i class=\"fa fa-google-plus\"></i></a></li>\n        </ul>\n        \n        \n      </div>\n    </div>\n\n   <!-- Modal -->\n      <div class=\"modal fade\" id=\"affiliate-form\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">\n        <div class=\"modal-dialog\">\n          <div class=\"modal-content\">\n            <div class=\"modal-header\">\n              <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n              <h4 class=\"modal-title\" id=\"myModalLabel\">Interested in collaborating with Eagle Ninja?</h4>\n            </div>\n            <div class=\"screen-1\">\n            <form id=\"form-affiliate\">\n            <div class=\"modal-body \">\n                  <div class=\"control-group\">\n                        <label class=\"control-label\">\n                              Name:\n                        </label>\n                        <div class=\"controls\">\n                              <input name=\"aff_name\" type=\"text\" placeholder=\"Please enter your name\" id=\"aff_name\">\n                        </div>\n                  </div>\n                  <div class=\"control-group\">\n                        <label class=\"control-label\">\n                              Email:\n                        </label>\n                        <div class=\"controls\">\n                              <input name=\"aff_email\" type=\"email\" placeholder=\"Please enter your email\" id=\"aff_email\">\n                        </div>\n                  </div>\n                  <div class=\"control-group\">\n                        <label class=\"control-label\">\n                              Tel. number:\n                        </label>\n                        <div class=\"controls\">\n                              <input name=\"aff_phone\" type=\"phone\" placeholder=\"Please enter your phone number\" id=\"aff_phone\">\n                        </div>\n                  </div>\n                  <div class=\"control-group\" style=\"margin-bottom: 0;\">\n                        <label class=\"\" style=\"\">\n                              Please let us know the categories, product or service areas or verticals in which you would be able to collaborate in because of your expertise and network:\n                        </label>\n                        <div class=\"\" style=\"margin-top: 5px\">\n                              <textarea name=\"aff_intend\" id=\"aff_intend\" placeholder=\"Please write your message here...\"></textarea>\n                        </div>\n                  </div>\n              \n            </div>\n            <div class=\"modal-footer\" style=\"margin-top: 0;\">\n              <button style=\"float: left; width: 100px;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n              <button style=\"width: 200px;\" type=\"submit\" class=\"button button-green\"><i class=\"fa fa-paper-plane\"></i> Submit</button>\n            </div>\n            </form>\n            </div>\n            <div class=\"screen-2\" style=\"display: none;\">\n              <div class=\"modal-body \">\n              <h4 style=\"\">\n              <i style=\"\" class=\"fa fa-check-circle\"></i> Message successfully sent!\n              </h4>\n              \n              </div>\n\n\n            <div class=\"modal-footer\" style=\"margin-top: 0;\">\n              <button style=\"float: left; width: 100%;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n              \n            </div>\n            </div>\n          </div>\n        </div>\n      </div>\n     <!-- Modal -->\n      <div class=\"modal fade\" id=\"sponsor-form\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">\n        <div class=\"modal-dialog\">\n          <div class=\"modal-content\">\n            <div class=\"modal-header\">\n              <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n              <h4 class=\"modal-title\" id=\"myModalLabel\">Custom Demo</h4>\n            </div>\n            <div class=\"screen-1\" style=\"\">\n            <form id=\"form-sponsor\">\n            <div class=\"modal-body \">\n                \n\n                  <div class=\"control-group\">\n                        <label class=\"control-label\">\n                              Name:\n                        </label>\n                        <div class=\"controls\">\n                              <input name=\"sponsor_name\" type=\"text\" placeholder=\"Please enter your name\" id=\"sponsor_name\">\n                        </div>\n                  </div>\n                  <div class=\"control-group\">\n                        <label class=\"control-label\">\n                              Email:\n                        </label>\n                        <div class=\"controls\">\n                              <input name=\"sponsor_email\" type=\"email\" placeholder=\"Please enter your email\" id=\"sponsor_email\">\n                        </div>\n                  </div>\n                  <div class=\"control-group\">\n                        <label class=\"control-label\">\n                              Tel.number:\n                        </label>\n                        <div class=\"controls\">\n                              <input name=\"sponsor_phone\" type=\"phone\" placeholder=\"Please enter your phone number\" id=\"sponsor_phone\">\n                        </div>\n                  </div>\n                  <div class=\"control-group\">\n                        <label class=\"control-label\">\n                              Company name:\n                        </label>\n                        <div class=\"controls\">\n                              <input name=\"sponsor_cname\" type=\"text\" placeholder=\"Please enter your company name\" id=\"sponsor_cname\">\n                        </div>\n                  </div>                  \n                  <div class=\"control-group\">\n                        <label class=\"\">\n                              Please enter the category or product for which you are interested in a free Custom Demo:\n                        </label>\n                        <div class=\"\" style=\"margin-top: 5px\">\n                              <textarea name=\"aff_intend\" id=\"aff_intend\" placeholder=\"Please write your message here...\"></textarea>\n                        </div>\n                  </div>                  \n                  \n\n                  <div class=\"control-group\" style=\"\">\n                        <label class=\"control-label\" style=\"width: 300px;\">\n                              How did you hear of eagleninja?\n                        </label>\n                        <div class=\"controls select-block\" style=\"margin-left: 310px;\">\n                              <select name=\"sponsor_heard\">\n                                    <option disabled selected>Please select one option</option>\n                                    <option value=\"1\">Blog</option>\n                                    <option value=\"2\">Press mention</option>\n                                    <option value=\"3\">Advertisement</option>\n                                    <option value=\"4\">Referral</option>\n                                    <option value=\"5\">Other</option>\n                              </select>\n                        </div>\n                  </div>\n                  <div class=\"control-group\" style=\"margin-bottom: 0;\">\n                        <label class=\"\" style=\"margin-bottom: 5px;\">\n                              Please let us know who referred you so we can thank them:\n                        </label>\n                        <div class=\"controls select-block\" style=\"margin-left:130px\">\n                              <input name=\"sponsor_referral\" type=\"text\" placeholder=\"Enter your referral\" id=\"sponsor_referral\">\n                        </div>\n                  </div>              \n              \n            </div>\n            <div class=\"modal-footer\" style=\"margin-top: 0;\">\n              <button style=\"float: left; width: 100px;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n              <button style=\"width: 200px;\" type=\"submit\" class=\"button button-green\"><i class=\"fa fa-paper-plane\"></i> Submit</button>\n            </div>\n            </form>\n            </div>\n            <div class=\"screen-2\" style=\"display: none;\">\n              <div class=\"modal-body \">\n              <h4 style=\"\">\n              <i style=\"\" class=\"fa fa-check-circle\"></i> Message successfully sent!\n              </h4>\n              \n              </div>\n\n\n            <div class=\"modal-footer\" style=\"margin-top: 0;\">\n              <button style=\"float: left; width: 100%;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n              \n            </div>\n            </div>\n          </div>\n        </div>\n      </div>\n      <!-- Modal iOS User-->\n      <div class=\"modal fade\" id=\"iOS-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">\n        <div class=\"modal-dialog\">\n          <div class=\"modal-content\">\n            <div class=\"modal-header\">\n              <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n              <h4 class=\"modal-title\" id=\"myModalLabel\">iOS App</h4>\n              <h5>You are trying to download the Eagle Ninja App from an iOS device.\nFor the moment the Eagle Ninja App is only available for Android devices. We shall have a version for iOS in the near future, please fill in this form if you would like to be notified when the iOS version is available:</h5>              \n            </div>\n            <form id=\"iOS-form\">\n            <div class=\"modal-body \">\n                  <div class=\"control-group\">\n                        <label class=\"control-label\">\n                              Name:\n                        </label>\n                        <div class=\"controls\">\n                              <input name=\"iOS_name\" type=\"text\" placeholder=\"Please enter your name\" id=\"iOS_name\">\n                        </div>\n                  </div>\n                  <div class=\"control-group\">\n                        <label class=\"control-label\">\n                              Email:\n                        </label>\n                        <div class=\"controls\">\n                              <input name=\"iOS_email\" type=\"email\" placeholder=\"Please enter your email\" id=\"iOS_email\">\n                        </div>\n                  </div>\n                  <div class=\"control-group\">\n                        <label class=\"control-label\">\n                              Tel.number:\n                        </label>\n                        <div class=\"controls\">\n                              <input name=\"iOS_phone\" type=\"phone\" placeholder=\"Please enter your phone number\" id=\"iOS_phone\">\n                        </div>\n                  </div>\n            </div>\n            <div class=\"modal-footer\" style=\"margin-top: 0;\">\n              <button style=\"float: left; width: 100px;\" type=\"button\" class=\"button button-grey\" data-dismiss=\"modal\">Close</button>\n              <button style=\"width: 200px;\" type=\"submit\" class=\"button button-green\"><i class=\"fa fa-paper-plane\"></i> Submit</button>\n            </div>\n            <div id=\"email_confirmation\" class=\"alert alert-success\" role=\"alert\" style=\"display:none;\">Thank you, we shall contact you as soon as we have the iOS version of Eagle Ninja available at the Apple Store</div>            \n            </form>\n          </div>\n        </div>\n      </div>\n</body>\n</html>\n<script>\n$(document).ready(function(){\n\n  $(\".fixed-bar\").addClass(\"mini-bar\");\n\n      $(\"a#nav-show\").click(function(){\n            $(\"#nav\").fadeIn(300);\n            $(this).addClass(\"active\");\n      \n     \n      \n      });\n      \n      $(\"a.circle-arrow\").click(function(){\n            if($(\".fixed-bar\").hasClass(\"mini-bar\")){\n               \n               $(\".fixed-bar\").removeClass(\"mini-bar\");\n\n            }else{\n\n            $(\".fixed-bar\").addClass(\"mini-bar\");\n            }\n      });\n\n});  \n$(document).mouseup(function (e)\n{\n    var container = $(\"#nav\");\n    var trigger = $(\"a#nav-show\");\n    \n    if (!container.is(e.target) // if the target of the click isn't the container...\n        && container.has(e.target).length === 0) // ... nor a descendant of the container\n    {\n        container.hide();\n        trigger.removeClass(\"active\");\n    }\n});\n\n\n        $(window).on('load', function () {\n\n            $('.selectpicker').selectpicker({\n                'selectedText': 'cat'\n            });\n\n            // $('.selectpicker').selectpicker('hide');\n        });\n\n\n</script>                                                                        \n<script>\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()\n{ (i[r].q=i[r].q||[]).push(arguments)}\n,i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\nga('create', 'UA-53060589-1', 'auto');\nga('send', 'pageview');\n\n\n\n\n//Check Mobile Devices\n\nvar checkMobile = function(){\n\n\n\n    //Check Device\n\n    var isTouch = ('ontouchstart' in document.documentElement);\n\n\n\n    //Check Device //All Touch Devices\n\n    if ( isTouch ) {\n\n\n\n        $('html').addClass('touch');\n\n        $(\".fixed-bar\").addClass(\"mini-bar\");\n\n      $(window).scroll(\n    {\n        previousTop: 0\n    }, \n    function () {\n    var currentTop = $(window).scrollTop();\n    if (currentTop < this.previousTop) {\n   \n    } else {\n   \n        /*$(\".fixed-bar\").fadeOut(300);*/\n        $(\".fixed-bar\").addClass(\"mini-bar\");\n    }\n    this.previousTop = currentTop;\n});\n\n\n    }\n\n    else {\n\n\n\n        $('html').addClass('no-touch');\n\n\n\n      $(window).scroll(\n    {\n        previousTop: 0\n    }, \n    function () {\n    var currentTop = $(window).scrollTop();\n    if (currentTop < this.previousTop) {\n   \n        /*$(\".fixed-bar\").fadeIn(500);*/\n        $(\".fixed-bar\").removeClass(\"mini-bar\");\n    } else {\n   \n        /*$(\".fixed-bar\").fadeOut(300);*/\n        $(\".fixed-bar\").addClass(\"mini-bar\");\n    }\n    this.previousTop = currentTop;\n});\n\n\n\n    };\n\n\n\n};\n\n\n\n//Execute Check\n\ncheckMobile();\n\n</script>",
 			"file": "blogpost_challenges_mobile_advertising.html",
+			"file_size": 29041,
+			"file_write_time": 130917439241032377,
 			"settings":
 			{
 				"buffer_size": 28372,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "faq.html",
-			"settings":
-			{
-				"buffer_size": 28550,
 				"line_ending": "Windows"
 			}
 		},
@@ -251,7 +332,7 @@
 			"file": "sass/_variables.scss",
 			"settings":
 			{
-				"buffer_size": 161,
+				"buffer_size": 180,
 				"line_ending": "Unix"
 			}
 		},
@@ -326,6 +407,17 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/en/terms-of-service.html",
+		"/C/xampp/htdocs/en/blog.html",
+		"/C/xampp/htdocs/en/privacy.html",
+		"/C/xampp/htdocs/en/index.html",
+		"/C/xampp/htdocs/en/faq.html",
+		"/C/xampp/htdocs/en/index.html_",
+		"/C/xampp/htdocs/eagleninja/web/usermailegn/static/index.html",
+		"/C/xampp/htdocs/en/index.html.save",
+		"/C/xampp/htdocs/en/team.html",
+		"/C/xampp/htdocs/en/new-quest.html",
+		"/C/xampp/htdocs/en/in-news.html",
 		"/C/xampp/htdocs/en/sass/styles.scss",
 		"/C/xampp/htdocs/kn2/application/views/front/affiliate_page_own_product_modal.php",
 		"/C/Users/johnx_000/Documents/_Work/eagleNinja/new_stuff/emails/quest_coupon_btn.html",
@@ -442,18 +534,7 @@
 		"/C/Users/johnx_000/Downloads/2692402-95694523199d5826692766a86fdc8f032a884d82/dabblet.css",
 		"/C/Users/johnx_000/Downloads/2692402-95694523199d5826692766a86fdc8f032a884d82/dabblet.html",
 		"/C/Users/johnx_000/Downloads/2692402-95694523199d5826692766a86fdc8f032a884d82/settings.json",
-		"/C/xampp/htdocs/eagleninja/www/sass/styles.scss",
-		"/C/xampp/htdocs/kn2/application/views/members/communications/leads/manage_rows.php",
-		"/C/xampp/htdocs/kn2/application/views/members/communications/leads/manage.php",
-		"/C/xampp/htdocs/kn2/application/views/members/leads/lists/broadcast_content.php",
-		"/C/xampp/htdocs/kn2/application/views/members/leads/lists_for_tags.php",
-		"/C/xampp/htdocs/kn2/application/views/members/leads/score_leads/rules.php",
-		"/C/xampp/htdocs/kn2/application/views/members/leads/statistics.php",
-		"/C/xampp/htdocs/kn2/application/views/members/leads/edit_lead.php",
-		"/C/xampp/htdocs/kn2/application/views/members/communications/optin/optin_create.php",
-		"/C/xampp/htdocs/kn2/application/views/members/sales/enterprise/payment_list.php",
-		"/C/xampp/htdocs/kartra_new/js/members/sellers/enterprise.js",
-		"/C/xampp/htdocs/kn2/application/views/members/shared/pagination.php"
+		"/C/xampp/htdocs/eagleninja/www/sass/styles.scss"
 	],
 	"find":
 	{
@@ -471,6 +552,25 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"datepicker",
+			"input-daterange",
+			"datepicker",
+			"new-quest.html",
+			"modal-dialog-video",
+			"videoModal",
+			"data-toggle",
+			"Text answer",
+			"Action task",
+			"$(task_to_delete).remove();",
+			"validate_learn_more",
+			"validate_learn_more()",
+			"function validate_learn_mor",
+			"function validate_learn_more()",
+			".modal-content",
+			"new-quest.html",
+			"click here",
+			"ome Mobile Quest ex",
+			"Conversion & engagement through fun Mobile Quests",
 			"watch this brief",
 			"watch a brief",
 			"watcha brief",
@@ -579,26 +679,7 @@
 			"Only available for Premium Quests (Paid)",
 			"Only available for Premium Quests (Paid)\n",
 			"circle ",
-			"btn btn-default",
-			"back",
-			"next",
-			"back",
-			".circle",
-			"trans",
-			"next",
-			"push",
-			"editorTPcontent",
-			"CKEDITOR",
-			"video",
-			"pricin",
-			"image",
-			"overflow-div",
-			"SET REWARD",
-			"ques",
-			"Finish",
-			"float-bottom",
-			"My leads",
-			"popover"
+			"btn btn-default"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -708,204 +789,114 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "includes/header.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 35263,
+						"buffer_size": 1355,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								35253,
-								33848
+								489,
+								552
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8545.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "in-news.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20557,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7607,
-								7613
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 56.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11352,
+								11445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
 					"buffer": 2,
-					"file": "new-quest.html",
+					"file": "download-app.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 60472,
+						"buffer_size": 22461,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12929,
-								12929
+								19751,
+								19751
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2626.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "team.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 25724,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10780,
-								10780
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2301.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "terms-of-service.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 56096,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								39719,
-								39719
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 3,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3228.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "privacy.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 24519,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9038,
-								9038
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1014.0,
+						"translation.y": 4015.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "blog.html",
+					"buffer": 3,
+					"file": "new-quest.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 22088,
+						"buffer_size": 74963,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4085,
-								1530
+								1409,
+								1343
 							]
 						],
 						"settings":
@@ -915,14 +906,404 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 130.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "blogpost_challenges_mobile_advertising.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								919,
+								919
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "team.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								517,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "in-news.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								546,
+								639
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "new-quest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44857,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38759,
+								38759
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9961.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "faq.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								528,
+								528
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "includes/topbar_home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1049,
+								1174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "includes/topbar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								617,
+								617
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "includes/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14057,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "privacy.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4921,
+								4821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "terms-of-service.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "blog.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3168,
+								3168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2106.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 15,
+					"file": "sass/styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63615,
+								63615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 34900.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2236,
+								2236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 351.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
 					"file": "blogpost_challenges_mobile_advertising.html",
 					"semi_transient": false,
 					"settings":
@@ -945,44 +1326,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 393.0,
+						"translation.y": 211.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "faq.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 28550,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3716,
-								3719
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 269.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
+					"buffer": 18,
 					"file": "sass/_max992.scss",
 					"semi_transient": false,
 					"settings":
@@ -1008,11 +1359,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 19,
 					"file": "sass/_max480.scss",
 					"semi_transient": false,
 					"settings":
@@ -1038,11 +1389,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 25,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 20,
 					"file": "sass/_max768.scss",
 					"semi_transient": false,
 					"settings":
@@ -1068,11 +1419,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 21,
 					"file": "sass/_max1150.scss",
 					"semi_transient": false,
 					"settings":
@@ -1098,11 +1449,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 26,
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 22,
 					"file": "sass/_max1360.scss",
 					"semi_transient": false,
 					"settings":
@@ -1128,11 +1479,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 23,
 					"file": "sass/_agency_page.scss",
 					"semi_transient": false,
 					"settings":
@@ -1158,11 +1509,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
+					"buffer": 24,
 					"file": "sass/_animations.scss",
 					"semi_transient": false,
 					"settings":
@@ -1188,24 +1539,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
-					"buffer": 16,
+					"buffer": 25,
 					"file": "sass/_variables.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 161,
+						"buffer_size": 180,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								106,
+								99
 							]
 						],
 						"settings":
@@ -1216,11 +1567,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 17,
+					"buffer": 26,
 					"file": "sass/_mixins.scss",
 					"semi_transient": false,
 					"settings":
@@ -1244,7 +1595,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 23,
 					"type": "text"
 				}
 			]
