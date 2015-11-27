@@ -20,7 +20,7 @@ require_once('email_conf.php');
   ->setSubject('New quest')
 
   // Set the From address with an associative array
-  ->setFrom(array('new_quest@whatever.com' => 'New quest'))
+  ->setFrom(array('info@eagleninja.com' => 'New quest'))
 
   // Set the To addresses with an associative array
   ->setTo($send_to_admin);
@@ -62,10 +62,10 @@ require_once('email_conf.php');
   $message = Swift_Message::newInstance()
 
    // Give the message a subject
-  ->setSubject('New quest')
+  ->setSubject('Your quest details received')
 
   // Set the From address with an associative array
-  ->setFrom(array('new_quest@whatever.com' => 'New quest'))
+  ->setFrom(array('info@eagleninja.com' => 'New quest'))
 
   // Set the To addresses with an associative array
   ->setTo(array($_POST['email']));
