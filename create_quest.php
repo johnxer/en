@@ -26,7 +26,7 @@ require_once('email_conf.php');
   ->setTo($send_to_admin);
 
   // Give it a body
-	$the_body=file_get_contents('body_template.php');
+	$the_body=file_get_contents('body_template_admin.php');
 	
 	$task='';
   	foreach ($_POST['task_type'] as $k=>$type)
@@ -51,3 +51,27 @@ require_once('email_conf.php');
   	$message->attach(Swift_Attachment::fromPath($_FILES['background_image']['tmp_name'])->setFilename($_FILES['background_image']['name']));
 
   $result = $mailer->send($message);
+
+
+
+  //email to subscriber
+  $transport = Swift_MailTransport::newInstance();
+
+  $mailer = Swift_Mailer::newInstance($transport);
+
+  $message = Swift_Message::newInstance()
+
+   // Give the message a subject
+  ->setSubject('New quest')
+
+  // Set the From address with an associative array
+  ->setFrom(array('new_quest@whatever.com' => 'New quest'))
+
+  // Set the To addresses with an associative array
+  ->setTo(array($_POST['email']));
+
+  // Give it a body
+  $the_body=file_get_contents('body_template_admin.php');
+  $message->setBody($the_body, 'text/html');
+  $result = $mailer->send($message);
+
