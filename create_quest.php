@@ -71,7 +71,7 @@ require_once('email_conf.php');
   ->setTo(array($_POST['email']));
 
   // Give it a body
-  $the_body=file_get_contents('body_template_admin.php');
+  $the_body=file_get_contents('body_template_subscriber.php');
   $message->setBody($the_body, 'text/html');
   $result = $mailer->send($message);
 
