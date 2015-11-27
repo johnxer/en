@@ -23,7 +23,7 @@
   <body class="quest-builder">
     <div style=" display:none" class="overlay">
         <div>
-        <img src="/images/477.GIF" alt="">
+        <img src="images/477.GIF" alt="">
         <h4>Submitting Form...</h4>
         </div>
     </div>
@@ -53,7 +53,7 @@
             </ul>
             <div class="clearfix"></div>
           </div>
-          <form method="post" action="/create_quest.php" id="the_form" name="the_form">
+          <form method="post" action="create_quest.php" id="the_form" name="the_form">
           <ul class="builder_step_list">
             <li class="step_1_holder">
               <div class="step_box">
@@ -92,7 +92,7 @@
                         
                         <div class="outer_pic row" data-id="outer_pic">
                           <div class="inner_pic col-xs-2" data-id="photo_div">
-                            <img data-id="no_image" id="no_background_image" src="/images/no_image.png" alt="Please, select an image" class="empty_image">
+                            <img data-id="no_image" id="no_background_image" src="images/no_image.png" alt="Please, select an image" class="empty_image">
                             <img data-id="photo" id="background_image_preview" style="display: none; max-width:100%; max-height:100%">
                           </div>
                           <div class="right-box col-xs-10">
@@ -453,7 +453,7 @@
 
           <div class="builder_footer">
 
-              <a class="btn-lg btn btn-default back col-xs-4 pull-left" href="/static/index.html#welcome">
+              <a class="btn-lg btn btn-default back col-xs-4 pull-left" href="static/index.html#welcome">
                 Return to the Homepage
               </a>
           

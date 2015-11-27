@@ -3,7 +3,7 @@
         <ul class="download_links">
           <li>
             <a href="https://itunes.apple.com/app/id944191030">
-              <img alt="DOwnload on the AppStore" src="/images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
+              <img alt="DOwnload on the AppStore" src="images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
             </a>
             <div style="clear:both; display: block; "></div>
           </li>

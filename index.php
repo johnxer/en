@@ -50,7 +50,7 @@
       <div class="bubble">
         <p class="text-center">Conversion & Engagement through fun Mobile Quests</p>
         <div class="clear:  both; display: block"></div>
-        <a class="button" href="/static/new-quest.html">Set up a Mobile Quest for free!</a>
+        <a class="button" href="static/new-quest.html">Set up a Mobile Quest for free!</a>
         
         
       </div>
@@ -90,7 +90,7 @@
               
               <p>Mobile as a media is exploding: You need to convert & engage your mobile audience with gamification techniques, leverage the experiential marketing capabilities of Mobile devices and deal with millennial attention spans.</p>
               <p>Whether through online e-commerce, offline m-commerce, conversion of mobile app downloads into high lifetime value users, or gamification of advertising and marketing, we help you convert leads into customers, and customers into loyal advocates.</p>
-              <p><a href="/static/new-quest.html">Set up your first Quest for free in a few easy steps!</a></p>
+              <p><a href="static/new-quest.html">Set up your first Quest for free in a few easy steps!</a></p>
             </div>
           </div>
         </div>
@@ -109,7 +109,7 @@
               <p>We use experiential marketing and mobile gamification marketing to convert your leads into customers, and your customers into loyal advocates. </p>
               <p>Offline leads to offline customers, online apps to online customers, offline to online and online to offline. </p>
               <p>We help you seduce your leads through fun activities involving your brand, value attributes and channels.</p>
-              <p>Want to give it a try? <a href="/static/new-quest.html">Set up your first Quest for free in a few easy steps</a>.</p>
+              <p>Want to give it a try? <a href="static/new-quest.html">Set up your first Quest for free in a few easy steps</a>.</p>
               
             </div>
           </div>
@@ -127,7 +127,7 @@
               <div class="clearfix"></div>
               <p><a data-toggle="modal" data-target="#videoModal" data-theVideo="http://www.youtube.com/embed/loFtozxZG0s" href="javascript:void(0)">Click here</a> to see some Mobile Quest examples</p>
               <p>It's really easy to set up a Quest by using our mobile web platform or our native iOS and Android apps. You can create a Quest in just a few minutes, at no charge, and insert the Quest invitation link into any of your media or send to lists of prospects.</p>
-              <p>Prospects and customers who click on the Quest link will be directed to the Quest you have created, with your logo, images, videos, instructions, prizes, etc. Its very easy, <a href="/static/new-quest.html">check it out for free!</a></p>
+              <p>Prospects and customers who click on the Quest link will be directed to the Quest you have created, with your logo, images, videos, instructions, prizes, etc. Its very easy, <a href="static/new-quest.html">check it out for free!</a></p>
               <p>Scavenger Hunts, Geocaching, Retail Promotion Audits, Test Drives in Dealerships, Customer interactions and Engagement within store locations, Discovery of new mobile apps and new product features, Mobile customer Experience Surveys, Experiential Marketing, Bottom of funnel conversion, Gamification Marketing, Engagement Marketing, Mobile Direct Response Marketing, Offline & Online Mobile User Experience Surveys...</p>
             </div>
             
@@ -143,7 +143,7 @@
             <div class="story-div col-xs-12 col-sm-8 col-sm-offset-2">
               <h2><strong>Pricing</strong></h2>
               <p>You can create as many Quests as you like, at no charge, by using your own promotional coupon or loyalty code as the incentive.</p>
-              <p><a href="/static/new-quest.html">Want to give it a free try?</a></p>
+              <p><a href="static/new-quest.html">Want to give it a free try?</a></p>
               <p>If you wish to set up a Quest with validation of whether the Quests have been satisfactorily performed, we will handle the Quest validation & conversion attribution and charge you on a "Per Completed Quest" basis.</p>
               <p>If you want additional activities & features, beyond those available in the Free Quests, such as QR/Bar Code scanning, branded HTML based micro games, social sharing of activities, location based services, demographic filters, push notifications and others, we can set those up for you and charge you on a "Per Completed Quest" basis.
               </p>
@@ -186,22 +186,22 @@
               <div class="row">
                 <div style="background: #fff; border-radius: 5px; padding: 10px 0;">
                   <div class="col-xs-4">
-                    <img src="/images/logos/google.png" class="img-responsive">
+                    <img src="images/logos/google.png" class="img-responsive">
                   </div>
                   <div class="col-xs-4">
-                    <img src="/images/logos/bbva.png" class="img-responsive">
+                    <img src="images/logos/bbva.png" class="img-responsive">
                   </div>
                   <div class="col-xs-4">
-                    <img src="/images/logos/marca.png" class="img-responsive">
+                    <img src="images/logos/marca.png" class="img-responsive">
                   </div>
                   <div class="col-xs-4">
-                    <img src="/images/logos/shc.png" class="img-responsive">
+                    <img src="images/logos/shc.png" class="img-responsive">
                   </div>
                   <div class="col-xs-4">
-                    <img src="/images/logos/onpublico.png" class="img-responsive">
+                    <img src="images/logos/onpublico.png" class="img-responsive">
                   </div>
                   <div class="col-xs-4">
-                    <img src="/images/logos/usl.png" class="img-responsive">
+                    <img src="images/logos/usl.png" class="img-responsive">
                   </div>
                 </div>
               </div>
