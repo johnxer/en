@@ -22,13 +22,13 @@
           
           <div class="header" style="position: relative;">  
             <h2>
-                  <a href="blog.php"><i class="fa fa-chevron-left"></i></a> The Challenges of Mobile Advertising
+                  <a href="/static/blog.html"><i class="fa fa-chevron-left"></i></a> The Challenges of Mobile Advertising
             </h2>
 
           </div>
 <div class="well">
           <div class="blog_img">
-          <img src="images/blog/2015-01-23/main.jpg" alt="The Challenges of Mobile Advertising" class="img-responsive">
+          <img src="/images/blog/2015-01-23/main.jpg" alt="The Challenges of Mobile Advertising" class="img-responsive">
             <div class="calendar-div-css">
                 <div class="calendar-div-top">
                 <div class="circle circle-left"></div>
@@ -61,7 +61,7 @@ According to Deloitte mobile is expected to be more important as an "influencer"
           </p>
 
 <div class="text-center" style="margin-bottom: 20px;">
-<img src="images/blog/2015-01-23/img_1.jpg" aLt="" class="img-responsive">
+<img src="/images/blog/2015-01-23/img_1.jpg" aLt="" class="img-responsive">
 </div>
 
 <p>
@@ -108,7 +108,7 @@ When we sit down to enjoy a movie, read a newspaper, listen to the radio or inte
 </p>
 
 <div class="text-center" style="margin-bottom: 20px;">
-<img src="images/blog/2015-01-23/img_2.jpg" aLt="" class="img-responsive">
+<img src="/images/blog/2015-01-23/img_2.jpg" aLt="" class="img-responsive">
 </div>
 
 <p>
@@ -116,7 +116,7 @@ Whereas although we interact with our smartphones often, the amount of time we s
 </p>
 
 <div class="text-center" style="margin-bottom: 20px;">
-<img src="images/blog/2015-01-23/img_3.jpg" aLt="" class="img-responsive">
+<img src="/images/blog/2015-01-23/img_3.jpg" aLt="" class="img-responsive">
 </div>
 
 <p>
@@ -128,7 +128,7 @@ This radically upends the traditional advertising model Quid Pro Quo: Free or Su
 </p>
 
 <div class="text-center" style="margin-bottom: 20px;">
-<img src="images/blog/2015-01-23/img_4.jpg" aLt="" class="img-responsive">
+<img src="/images/blog/2015-01-23/img_4.jpg" aLt="" class="img-responsive">
 </div>
 
 <h4>
@@ -140,7 +140,7 @@ Most of us would not start a sales process by bragging to our potential customer
 </p>
 
 <div class="text-center" style="margin-bottom: 20px;">
-<img src="images/blog/2015-01-23/img_5.jpg" aLt="" class="img-responsive">
+<img src="/images/blog/2015-01-23/img_5.jpg" aLt="" class="img-responsive">
 </div>
 
 <p>
@@ -148,7 +148,7 @@ Instead, when we do a really good job of selling, we start with our customer. We
 </p>
 
 <div class="text-center" style="margin-bottom: 20px;">
-<img src="images/blog/2015-01-23/img_6.jpg" aLt="" class="img-responsive">
+<img src="/images/blog/2015-01-23/img_6.jpg" aLt="" class="img-responsive">
 </div>
 
 <p>
@@ -172,7 +172,7 @@ We call this approach "Mobile Quest Marketing". It allows for triggering an expe
 </p>
 
 <div class="text-center" style="margin-bottom: 20px;">
-<img src="images/blog/2015-01-23/img_7.jpg" aLt="" class="img-responsive">
+<img src="/images/blog/2015-01-23/img_7.jpg" aLt="" class="img-responsive">
 </div>
 
 <p>
@@ -188,7 +188,7 @@ Now, as an industry we can focus on selling <i><strong>customers</strong></i> an
 </p>
 
 <div class="text-center" style="margin-bottom: 20px;">
-<img src="images/blog/2015-01-23/img_8.jpg" aLt="" class="img-responsive">
+<img src="/images/blog/2015-01-23/img_8.jpg" aLt="" class="img-responsive">
 </div>
 
 <p>

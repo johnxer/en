@@ -786,6 +786,29 @@ ul#nav {
     background: #2fa8cb;
     padding: 5px 10px; }
 
+.overflow-div-static {
+  border: 1px solid #2fa8cb;
+  background: rgba(47, 168, 203, 0.3);
+  position: relative;
+  padding: 20px;
+  margin-bottom: 20px; }
+  .overflow-div-static::before {
+    background: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    content: "";
+    bottom: 0px;
+    z-index: 9; }
+  .overflow-div-static > span {
+    z-index: 11;
+    color: #fff;
+    background: #2fa8cb;
+    padding: 5px 10px;
+    display: block;
+    position: relative; }
+
 .progress-header-out {
   margin-bottom: 40px;
   margin-top: 0px;

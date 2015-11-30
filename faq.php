@@ -15,7 +15,7 @@
     
     <div class="container">
       <div class="wrapper">
-        <h2><a class="dark" href="index.php#welcome"><i class="fa fa-chevron-left"></i></a> Frequently Asked Questions</h2>
+        <h2><a class="dark" href="/#welcome"><i class="fa fa-chevron-left"></i></a> Frequently Asked Questions</h2>
         <ul class="faq-list">
           <li>
             <h3>What is Eagle Ninja?</h3>
@@ -39,7 +39,7 @@
             What kinds of quests are there?
             </h3>
             <div style="display: none;">
-              <p>Quests can be launched within our native apps on the Appstore and Google Play, or by generating a link that launches an apples responsive based Quest.</p>
+              <p>Quests can be launched within our native apps on the Appstore and Google Play, or by generating a link that launches an appless responsive based Quest.</p>
               <p>Rewards and incentives for Quests can take the form of monetary rewards, promotional coupons, contributions to favourite causes, or digital points.</p>
               <p>Quests can be offline, online or combinations.</p>
               <p>Quests can be accessed from iOS and Android smartphones, as well as via the desktop when using our Appless Responsive Mobile Web Platform</p>
@@ -75,6 +75,7 @@
             </h3>
             <div style="display: none;">
               <p>Each completed Quest is reviewed to verify that the participant successfully completed their “Mission”. Once that review has been completed, which can take up to 24 hours, participants are notified that their Quest has been approved and they can then claim their reward.</p>
+              <p>Reviews are only conducted for Premium Quests so as to enable validation of a properly completed Quest, otherwise, in a free Quest, it is automatically approved</p>
             </div>
           </li>
           <li>
@@ -91,7 +92,7 @@
             How many participants can be invited to a quest?
             </h3>
             <div style="display: none;">
-              <p>As many as you like. You can define X number of “slots” that will be available for participants to start or serve a Quest, and that is the maximum number that will be allowed to start or reserve a Quest.</p>
+              <p>As many as you like. You can define X number of “slots” that will be available for participants to start or reserve a Quest, and that is the maximum number that will be allowed to start or reserve a Quest.</p>
             </div>
           </li>
           <li>
@@ -107,7 +108,7 @@
             What kind of location, demographic and other triggers can I define in a quest?
             </h3>
             <div style="display: none;">
-              <p>If you use our native apps in the Appstore or Google Play you can set geographic location filters, demographic filters, installed app filters, previously conducted Quest filters and answers to previously conducted Quest filters.</p>
+              <p>If you use Premium Quests (with our native apps in the Appstore or Google Play) you can set geographic location filters, demographic filters, installed app filters, previously conducted Quest filters and answers to previously conducted Quest filters.</p>
               <p>You can also set geofences for push notifications when entering the geofence.</p>
             </div>
           </li>

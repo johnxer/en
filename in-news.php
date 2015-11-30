@@ -18,7 +18,7 @@
       <div class="container">
         
         <h2>
-        <a href="index.php#welcome"><i class="fa fa-chevron-left"></i></a> In the News
+        <a href="/#welcome"><i class="fa fa-chevron-left"></i></a> In the News
         </h2>
         <div class="well">
           <ul class="container-list">
@@ -38,7 +38,7 @@
               </li>
               
               <li style="text-align: center;">
-                <a href="http://aoevents.aonetwork.com/onmobile/2014/program"><img src="images/AO.OnMob14.TW.png" alt="ToWatch Winner 2014" style="width: 180px;"></a>
+                <a href="http://aoevents.aonetwork.com/onmobile/2014/program"><img src="/images/AO.OnMob14.TW.png" alt="ToWatch Winner 2014" style="width: 180px;"></a>
               </li>
             </div>
             <div>

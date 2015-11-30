@@ -12,10 +12,10 @@ require_once('swiftmailer/swift_required.php');
 	$message = Swift_Message::newInstance()
 
 	 // Give the message a subject
-  ->setSubject('New quest')
+  ->setSubject('Thank you')
 
   // Set the From address with an associative array
-  ->setFrom(array('new_quest@whatever.com' => 'New quest'))
+  ->setFrom(array('info@eagleninja.com' => 'Thank you'))
 
   // Set the To addresses with an associative array
   ->setTo(array($_POST['sponsor_email']));
@@ -26,14 +26,18 @@ require_once('swiftmailer/swift_required.php');
 
 	$result = $mailer->send($message);
 
+
+
+
+
 //EMAIL TO ADMIN
 	$transport = Swift_MailTransport::newInstance();
 	$mailer = Swift_Mailer::newInstance($transport);
 	$message = Swift_Message::newInstance()
 	 // Give the message a subject
-  ->setSubject('New quest')
+  ->setSubject('New Custom Demo Form')
   // Set the From address with an associative array
-  ->setFrom(array('new_quest@whatever.com' => 'New quest'))
+  ->setFrom(array('info@eagleninja.com' => 'New Custom Demo Form'))
   // Set the To addresses with an associative array
   ->setTo($send_to_admin);
   // Give it a body

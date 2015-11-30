@@ -19,29 +19,29 @@
       
       <div class="container">
         <h2>
-        <a href="index.php#welcome"><i class="fa fa-chevron-left"></i></a> Eagleninja Team
+        <a href="/#welcome"><i class="fa fa-chevron-left"></i></a> Eagleninja Team
         </h2>
         <div class="well">
           <div class="wrapper">
             <div class="row">
             <div class="col-xs-12 text-center text_intro">
-              <p class="highlighted_box">A fun loving team of serial entrepreneurs, hyper creative developers, and uber customer focused marketers</p>
+              <p class="highlighted_box">A fun loving team of serial entrepreneurs, hyper creative developers,<br />and uber customer focused marketers</p>
               </div>
               <div class="col-sm-6 col-md-3 col-xs-12 quadruple-col second-row">
                 <div class="photo">
-                  <img src="images/photo_alejandro.jpg">
+                  <img src="/images/photo_alejandro.jpg">
                 </div>
                 <div class="title">
                   <h2>Alejandro Rivas-Micoud</h2>
                   <h3>CEO</h3>
                 </div>
                 
-                <p>Mobile broadband pioneer, founder of 4 previous  startups: Mediafon, Alo  Comunicsciones, Clearwire Spain, Userlytics Corporation. A US Navy Nuclear Engineer with an MBA from INSEAD. A member of Young President's Organization/World President's Organization (YPO/WPO). Mentor at the Founder Institute in Palo Alto, California. Chairman of the San Francisco Bay Area INSEAD Alumni Personal Board of Director program.
+                <p>Mobile broadband pioneer and founder of 5 previous startups, including 2 exits of over 26X ROI (Clearwire Spain & Alo). US Navy Nuclear Engineer with an MBA from INSEAD. Member of Young President's Organization & World President's Organization (YPO/WPO). Mentor at the Founder Institute in Palo Alto, California. Chairman of the San Francisco Bay Area INSEAD Alumni Personal Board of Director program.
                 </p>
               </div>
               <div class="col-sm-6 col-md-3 col-xs-12 quadruple-col second-row">
                 <div class="photo">
-                  <img src="images/photo_jonas.jpg">
+                  <img src="/images/photo_jonas.jpg">
                 </div>
                 <div class="title">
                   <h2>Jonas Da Cruz</h2>
@@ -54,7 +54,7 @@
               <div class="visible-sm-block clearfix"></div>
               <div class="col-sm-6 col-md-3 col-xs-12 quadruple-col second-row">
                 <div class="photo">
-                  <img src="images/photo_bengt.jpg">
+                  <img src="/images/photo_bengt.jpg">
                 </div>
                 <div class="title">
                   <h2>Bengt Eliasson</h2>
@@ -66,7 +66,7 @@
               </div>
               <div class="col-sm-6 col-md-3 col-xs-12 quadruple-col second-row">
                 <div class="photo">
-                  <img src="images/photo_ninja.png">
+                  <img src="/images/photo_ninja.png">
                 </div>
                 <div class="title">
                   <h2>Stealth Ninja</h2>
@@ -86,7 +86,7 @@
 
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col">
               <div class="photo photo-t">
-                <img src="images/photo_angel.jpg">
+                <img src="/images/photo_angel.jpg">
                 <div class="copy">
                   Angel Sánchez
                 </div>
@@ -94,7 +94,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col">
               <div class="photo photo-t">
-                <img src="images/photo_tono.jpg">
+                <img src="/images/photo_tono.jpg">
                 <div class="copy">
                   Antonio Guerrero
                 </div>
@@ -102,7 +102,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_david.jpg">
+                <img src="/images/photo_david.jpg">
                 <div class="copy">
                   David Suarez
                 </div>
@@ -110,7 +110,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_diego.jpg">
+                <img src="/images/photo_diego.jpg">
                 <div class="copy">
                   Diego Romera
                 </div>
@@ -120,7 +120,7 @@
             <div class="row row-last">
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_jan.jpg">
+                <img src="/images/photo_jan.jpg">
                 <div class="copy">
                   Jan Filas
                 </div>
@@ -128,7 +128,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_josecarlos.jpg">
+                <img src="/images/photo_josecarlos.jpg">
                 <div class="copy">
                   Jose Carlos Miñarro
                 </div>
@@ -136,7 +136,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_josepablo.jpg">
+                <img src="/images/photo_josepablo.jpg">
                 <div class="copy">
                   Jose Pablo Martin
                 </div>
@@ -144,7 +144,7 @@
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 quadruple-col second-row">
               <div class="photo photo-t">
-                <img src="images/photo_luis.jpg">
+                <img src="/images/photo_luis.jpg">
                 <div class="copy">
                   Luis González
                 </div>

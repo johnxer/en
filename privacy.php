@@ -18,7 +18,7 @@
       <div class="container">
             <div class="wrapper">
       
-<h2><a class="dark" href="index.php#welcome"><i class="fa fa-chevron-left"></i></a> Privacy</h2>      
+<h2><a class="dark" href="/#welcome"><i class="fa fa-chevron-left"></i></a> Privacy</h2>      
       
 <p>We at Eagle Ninja Corp take your privacy very seriously. This Privacy Policy covers what we do with the personal information you choose to share with us and the data we collect while you use the Eagle Ninja Corp native mobile apps on the Appstore and Google Play and the Appless Responsive Mobile Web Platform and associated digital assets comprising the Eagle Ninja Quest Marketing Platform (The "Quest Marketing Platform").</p>
 <h2 style="margin-top: 60px;">What Eagle Ninja Corp Collects</h2>
@@ -36,7 +36,7 @@
 
 <h2 style="margin-top: 60px;">What Information Eagle Ninja Corp Shares</h2> 
 <h3>With Eagle Ninja Corp Sponsors and Customers</h3>
-<p>Our sponsors and customers work with us to invite certain Ninjas to Cash Quests or Promotinal Coupon Quests or Donation based Quests or Shuriken (Digital Point based) Quests. When you undertake a Quest, the location information, profile, date and time of day and Quest results becomes the property of Eagle Ninja Corp and/or of the Eagle Ninja Corp sponsor or customer. In addition to the content created during a Quest, we will share your location at the time you performed the Quest, the date & time of day, profile information and other data relating to you as the Ninja (Particpant) and relating to the Quest.</p>
+<p>Our sponsors and customers work with us to invite certain Ninjas to Cash Quests or Promotional Coupon Quests or Donation based Quests or Shuriken (Digital Point based) Quests. When you undertake a Quest, the location information, profile, date and time of day and Quest results becomes the property of Eagle Ninja Corp and/or of the Eagle Ninja Corp sponsor or customer. In addition to the content created during a Quest, we will share your location at the time you performed the Quest, the date & time of day, profile information and other data relating to you as the Ninja (Particpant) and relating to the Quest.</p>
 
 <h2 style="margin-top: 60px;">Transference of Services</h2>
 <p>If Eagle Ninja Corp or its assets are acquired, member information would be one of the assets that is transferred or acquired by a third party.</p>

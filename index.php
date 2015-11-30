@@ -125,7 +125,7 @@
             <div class="story-div col-xs-12 col-sm-8 col-sm-offset-2">
               <h2 class="pull-left"><strong>Examples</strong></h2>
               <div class="clearfix"></div>
-              <p><a data-toggle="modal" data-target="#videoModal" data-theVideo="http://www.youtube.com/embed/loFtozxZG0s" href="javascript:void(0)">Click here</a> to see some Mobile Quest examples</p>
+              <p><a data-toggle="modal" data-target="#videoModal" data-theVideo="http://www.youtube.com/embed/rixDgjoTv2s" href="javascript:void(0)">Click here</a> to see some Mobile Quest examples</p>
               <p>It's really easy to set up a Quest by using our mobile web platform or our native iOS and Android apps. You can create a Quest in just a few minutes, at no charge, and insert the Quest invitation link into any of your media or send to lists of prospects.</p>
               <p>Prospects and customers who click on the Quest link will be directed to the Quest you have created, with your logo, images, videos, instructions, prizes, etc. Its very easy, <a href="static/new-quest.html">check it out for free!</a></p>
               <p>Scavenger Hunts, Geocaching, Retail Promotion Audits, Test Drives in Dealerships, Customer interactions and Engagement within store locations, Discovery of new mobile apps and new product features, Mobile customer Experience Surveys, Experiential Marketing, Bottom of funnel conversion, Gamification Marketing, Engagement Marketing, Mobile Direct Response Marketing, Offline & Online Mobile User Experience Surveys...</p>
@@ -223,7 +223,7 @@
             <div class="modal-body">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                 <div>
-                    <iframe width="100%" height="350" src=""></iframe>
+                    <iframe width="100%" height="450" src=""></iframe>
                 </div>
             </div>
         </div>

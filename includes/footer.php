@@ -3,7 +3,7 @@
         <ul class="download_links">
           <li>
             <a href="https://itunes.apple.com/app/id944191030">
-              <img alt="DOwnload on the AppStore" src="images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
+              <img alt="Download on the AppStore" src="/images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
             </a>
             <div style="clear:both; display: block; "></div>
           </li>
@@ -128,10 +128,10 @@
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-            <h4 class="modal-title" id="myModalLabel">Custom Demo</h4>
+            <h4 class="modal-title" id="myModalLabel">Learn More</h4>
           </div>
           <div class="screen-1" style="">
-            <form id="learn_more_form" action="learn_more.php" method="post">
+            <form id="learn_more_form" action="/learn_more.php" method="post">
               <div class="modal-body ">
                 
                 <div class="control-group">

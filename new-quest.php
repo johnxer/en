@@ -23,7 +23,7 @@
   <body class="quest-builder">
     <div style=" display:none" class="overlay">
         <div>
-        <img src="images/477.GIF" alt="">
+        <img src="/images/477.GIF" alt="">
         <h4>Submitting Form...</h4>
         </div>
     </div>
@@ -36,7 +36,7 @@
       
       <div class="container">
         <h2>
-        <a href="index.php#welcome"><i class="fa fa-chevron-left"></i></a> Create a Quest for free
+        <a href="/#welcome"><i class="fa fa-chevron-left"></i></a> Create a Quest for free
         </h2>
         <div class="well">
           <div class="progress-header-out">
@@ -53,7 +53,7 @@
             </ul>
             <div class="clearfix"></div>
           </div>
-          <form method="post" action="create_quest.php" id="the_form" name="the_form">
+          <form method="post" action="/create_quest.php" id="the_form" name="the_form">
           <ul class="builder_step_list">
             <li class="step_1_holder">
               <div class="step_box">
@@ -92,7 +92,7 @@
                         
                         <div class="outer_pic row" data-id="outer_pic">
                           <div class="inner_pic col-xs-2" data-id="photo_div">
-                            <img data-id="no_image" id="no_background_image" src="images/no_image.png" alt="Please, select an image" class="empty_image">
+                            <img data-id="no_image" id="no_background_image" src="/images/no_image.png" alt="Please, select an image" class="empty_image">
                             <img data-id="photo" id="background_image_preview" style="display: none; max-width:100%; max-height:100%">
                           </div>
                           <div class="right-box col-xs-10">
@@ -136,6 +136,9 @@
               <p>
                 Define the tasks, instructions and questions for the Quest. They can be arranged (drag & drop) in any order, and can include watching a video, uploading an image, taking a photo, answering questions, an offer for a special discount or promotion, instructions on activities, places to visit, links to download an app etc.
               </p>
+                <div class="overflow-div-static" style="">
+                  <span >You can also set up Quests with branded micro games, location based services, demographic filters, QR/Bar code capture, push notifications, social sharing, image viewing and other similar activities, with Premium Quests.</span>
+                </div>
               <div class="tasks_wrapper">
                 <div class="task_block">
                   <div class="row">
@@ -453,7 +456,7 @@
 
           <div class="builder_footer">
 
-              <a class="btn-lg btn btn-default back col-xs-4 pull-left" href="static/index.html#welcome">
+              <a class="btn-lg btn btn-default back col-xs-4 pull-left" href="/#welcome">
                 Return to the Homepage
               </a>
           
@@ -537,7 +540,7 @@
                                 <div class="form-group new_input">
                                   <label class="col-sm-5 control-label" for="">Options </label>
                                   <div class="col-sm-7">
-                                  <input type="text" class="form-control" name="text" id="" placeholder="Enter options" value="">
+                                  <input type="text" class="form-control" name="text" id="" placeholder="Enter options, with each option separated by a comma" value="">
                                  
                                   <div class="pull-right help-block"><small>Coma separated</small></div>
                                   </div>
