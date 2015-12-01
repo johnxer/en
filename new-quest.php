@@ -134,11 +134,8 @@
             <div class="step_content">
               <h4>Define the activities</h4>
               <p>
-                Define the tasks, instructions and questions for the Quest. They can be arranged (drag & drop) in any order, and can include watching a video, uploading an image, taking a photo, answering questions, an offer for a special discount or promotion, instructions on activities, places to visit, links to download an app etc.
+                Define the tasks, instructions and questions for the Quest. They can be arranged (drag & drop) in any order, and can include watching a video, uploading an image, taking a photo, answering questions, an offer for a special discount or promotion, instructions on activities, places to visit, links to download an app etc. 
               </p>
-                <div class="overflow-div-static" style="">
-                  <span >You can also set up Quests with branded micro games, location based services, demographic filters, QR/Bar code capture, push notifications, social sharing, image viewing and other similar activities, with Premium Quests.</span>
-                </div>
               <div class="tasks_wrapper">
                 <div class="task_block">
                   <div class="row">
@@ -159,6 +156,8 @@
                             <li><a href="javascript:void(0);" data-type="text">Open ended</a></li>
                           </ul>
                         </div>
+                        <div class="clearfix"></div>
+                        <a data-toggle="popover" data-trigger="hover" data-html="true" data-placement="right" title="Additional types of activities" data-content="<p>You can also set up Quests with branded micro games, location based services, demographic filters, QR/Bar code capture, push notifications, social sharing, image viewing and other similar activities, however these features are not available for free Quests, only for Premium Quests (Paid).</p>" href="javascript:void(0);">See additional types of activities</a>
                       </div>
                     </div>
                   </div>
@@ -570,6 +569,11 @@
                         </li>
 <script type="text/javascript">
 $(document).ready(function() {
+
+$(function () {
+  $('[data-toggle="popover"]').popover()
+})  
+
     $(".builder_step_list > li").hide();
     $(".builder_step_list > li:nth-child(1)").show();
     $(".btn-cyan").on("click", function() {

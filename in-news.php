@@ -34,7 +34,7 @@
             </div>
             <div>
               <li style="text-align: center;">
-                <a href="http://finance.yahoo.com/news/eagle-ninja-selected-mobile-company-160200562.html"><h3>Eagle Ninja Selected as a Mobile "Company to Watch" for its Mobile Quest Marketing Platform</h3></a>
+                <a href="http://www.bizjournals.com/prnewswire/press_releases/2014/11/11/MN62544"><h3>Eagle Ninja Selected as a Mobile "Company to Watch" for its Mobile Quest Marketing Platform</h3></a>
               </li>
               
               <li style="text-align: center;">

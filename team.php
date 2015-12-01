@@ -25,7 +25,7 @@
           <div class="wrapper">
             <div class="row">
             <div class="col-xs-12 text-center text_intro">
-              <p class="highlighted_box">A fun loving team of serial entrepreneurs, hyper creative developers,<br />and uber customer focused marketers</p>
+              <p class="highlighted_box">A fun loving team of serial entrepreneurs, hyper creative developers,<br />and uber customer-focused marketers</p>
               </div>
               <div class="col-sm-6 col-md-3 col-xs-12 quadruple-col second-row">
                 <div class="photo">
@@ -36,7 +36,7 @@
                   <h3>CEO</h3>
                 </div>
                 
-                <p>Mobile broadband pioneer and founder of 5 previous startups, including 2 exits of over 26X ROI (Clearwire Spain & Alo). US Navy Nuclear Engineer with an MBA from INSEAD. Member of Young President's Organization & World President's Organization (YPO/WPO). Mentor at the Founder Institute in Palo Alto, California. Chairman of the San Francisco Bay Area INSEAD Alumni Personal Board of Director program.
+                <p>Mobile broadband pioneer and founder of 5 previous startups, including 2 exits of over 26X ROI (Clearwire Spain & Alo). US Navy Nuclear Engineer with an MBA from INSEAD. Member of Young President's Organization & World President's&nbsp;Organization&nbsp;(YPO/WPO). Mentor at the Founder Institute in Palo Alto, California. Chairman of the San Francisco Bay Area INSEAD Alumni Personal Board of Director program.
                 </p>
               </div>
               <div class="col-sm-6 col-md-3 col-xs-12 quadruple-col second-row">
