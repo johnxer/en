@@ -20,7 +20,7 @@
       <div class="container">
             
 <h2>
-      <a href="/#welcome"><i class="fa fa-chevron-left"></i></a> eagleninja Blog
+      <a href="index.html#welcome"><i class="fa fa-chevron-left"></i></a> eagleninja Blog
 </h2>
 <div class="well">
 <ul class="container-list">
@@ -28,7 +28,7 @@
 <div class="">
       <li style="text-align: center;">
           <div class="header" style="position: relative;">
-          <a href="/static/blogpost_challenges_mobile_advertising.html"><h3>The Challenges of Mobile Advertising</h3>
+          <a href="blogpost_challenges_mobile_advertising.html"><h3>The Challenges of Mobile Advertising</h3>
           </a>
           </div>
           <div class="blog_img">
@@ -41,8 +41,8 @@
           <h6>28</h6>
           <h4>2015</h4>
         </div>          
-          <img src="/images/blog/2015-01-23/main.jpg" alt="The Challenges of Mobile Advertising" class="img-responsive">
-          <a href="/static/blogpost_challenges_mobile_advertising.html"></a>
+          <img src="images/blog/2015-01-23/main.jpg" alt="The Challenges of Mobile Advertising" class="img-responsive">
+          <a href="blogpost_challenges_mobile_advertising.html"></a>
           </div>
           <div class="content-box">
           <p>
@@ -52,7 +52,7 @@ Mobile is an exploding media and mobile advertising is following our collective 
 <p>
 And yet although mobile as a share of our overall media consumption already accounts for 25%, mobile advertising as a share of advertising lags significantly, at 9.8%.
           </p>
-      <a class="button button-green" href="/static/blogpost_challenges_mobile_advertising.html">Read more <i class="fa fa-chevron-right"></i></a>          
+      <a class="button button-green" href="blogpost_challenges_mobile_advertising.html">Read more <i class="fa fa-chevron-right"></i></a>          
 
           </div>
       </li>

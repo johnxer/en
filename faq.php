@@ -15,7 +15,7 @@
     
     <div class="container">
       <div class="wrapper">
-        <h2><a class="dark" href="/#welcome"><i class="fa fa-chevron-left"></i></a> Frequently Asked Questions</h2>
+        <h2><a class="dark" href="index.html#welcome"><i class="fa fa-chevron-left"></i></a> Frequently Asked Questions</h2>
         <ul class="faq-list">
           <li>
             <h3>What is Eagle Ninja?</h3>

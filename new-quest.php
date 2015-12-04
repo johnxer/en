@@ -11,7 +11,7 @@
 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.0/css/bootstrap-datepicker3.min.css" rel="stylesheet" type="text/css" />
-  <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="js/jquery-ui.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.0/js/bootstrap-datepicker.min.js"></script>
     <script src="https://cdn.ckeditor.com/4.4.7/basic/ckeditor.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.js"></script>  
@@ -23,7 +23,7 @@
   <body class="quest-builder">
     <div style=" display:none" class="overlay">
         <div>
-        <img src="/images/477.GIF" alt="">
+        <img src="images/477.GIF" alt="">
         <h4>Submitting Form...</h4>
         </div>
     </div>
@@ -36,7 +36,7 @@
       
       <div class="container">
         <h2>
-        <a href="/#welcome"><i class="fa fa-chevron-left"></i></a> Create a Quest for free
+        <a href="index.html#welcome"><i class="fa fa-chevron-left"></i></a> Create a Quest for free
         </h2>
         <div class="well">
           <div class="progress-header-out">
@@ -92,7 +92,7 @@
                         
                         <div class="outer_pic row" data-id="outer_pic">
                           <div class="inner_pic col-xs-2" data-id="photo_div">
-                            <img data-id="no_image" id="no_background_image" src="/images/no_image.png" alt="Please, select an image" class="empty_image">
+                            <img data-id="no_image" id="no_background_image" src="images/no_image.png" alt="Please, select an image" class="empty_image">
                             <img data-id="photo" id="background_image_preview" style="display: none; max-width:100%; max-height:100%">
                           </div>
                           <div class="right-box col-xs-10">
@@ -455,7 +455,7 @@
 
           <div class="builder_footer">
 
-              <a class="btn-lg btn btn-default back col-xs-4 pull-left" href="/#welcome">
+              <a class="btn-lg btn btn-default back col-xs-4 pull-left" href="index.html#welcome">
                 Return to the Homepage
               </a>
           

@@ -18,7 +18,7 @@
       <div class="container">
             <div class="wrapper">
       
-<h2><a class="dark" href="/#welcome"><i class="fa fa-chevron-left"></i></a> Privacy</h2>      
+<h2><a class="dark" href="index.html#welcome"><i class="fa fa-chevron-left"></i></a> Privacy</h2>      
       
 <p>We at Eagle Ninja Corp take your privacy very seriously. This Privacy Policy covers what we do with the personal information you choose to share with us and the data we collect while you use the Eagle Ninja Corp native mobile apps on the Appstore and Google Play and the Appless Responsive Mobile Web Platform and associated digital assets comprising the Eagle Ninja Quest Marketing Platform (The "Quest Marketing Platform").</p>
 <h2 style="margin-top: 60px;">What Eagle Ninja Corp Collects</h2>

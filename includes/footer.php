@@ -3,7 +3,7 @@
         <ul class="download_links">
           <li>
             <a href="https://itunes.apple.com/app/id944191030">
-              <img alt="Download on the AppStore" src="/images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
+              <img alt="Download on the AppStore" src="images/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
             </a>
             <div style="clear:both; display: block; "></div>
           </li>
@@ -18,10 +18,10 @@
           <!--<li><a data-toggle="modal" data-target="#affiliate-form" href="javascript:void(0)">Become an Affiliate</a></li>-->
           <!--<li><a href="in-news.html">In the news</a></li>-->
           <!--<li><a href="download-app.html">Download App</a></li>-->
-          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/static/faq.html' ? ' active' : '');?>" href="/static/faq.html">FAQ</a></li></li>
-          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/static/privacy.html' ? ' active' : '');?>" href="/static/privacy.html">Privacy policy</a></li></li>
-          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/static/terms-of-service.html' ? ' active' : '');?>" href="/static/terms-of-service.html">Terms of service</a></li></li>
-          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == '/static/blog.html' ? ' active' : '');?>" href="/static/blog.html">Blog</a></li></li>
+          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == 'faq.html' ? ' active' : '');?>" href="faq.html">FAQ</a></li></li>
+          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == 'privacy.html' ? ' active' : '');?>" href="privacy.html">Privacy policy</a></li></li>
+          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == 'terms-of-service.html' ? ' active' : '');?>" href="terms-of-service.html">Terms of service</a></li></li>
+          <li><a class="<?php echo ($_SERVER['PHP_SELF'] == 'blog.html' ? ' active' : '');?>" href="blog.html">Blog</a></li></li>
         </ul>
         <p>&copy; 2015 eagleninja</p>
         <ul class="social-icons" style="clear: left">
@@ -131,7 +131,7 @@
             <h4 class="modal-title" id="myModalLabel">Learn More</h4>
           </div>
           <div class="screen-1" style="">
-            <form id="learn_more_form" action="/learn_more.php" method="post">
+            <form id="learn_more_form" action="learn_more.php" method="post">
               <div class="modal-body ">
                 
                 <div class="control-group">
